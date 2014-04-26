@@ -1,3 +1,17 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+url: http://danbarber.me
+title: Dan Barber
+author: Dan Barber
+markdown: kramdown
 pygments: true
+
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+permalink: /:title
+
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
