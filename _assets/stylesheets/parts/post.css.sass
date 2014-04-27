@@ -28,10 +28,20 @@ article
     &:hover, &:focus
       color: $link-color-hover
 
+  figure
+    margin: 1.5em 0 0 0
+
+    figcaption
+      font-size: 0.7em
+      font-style: italic
+      text-align: right
+      opacity: 0.6
+
   img, video, .flash-video
-    +box-shadow(0 1px 4px rgba(0, 0, 0, 0.15))
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15)
     padding: 0.5em
     margin: -0.5em
+    width: 100%
 
   > footer
     padding-left: 0
@@ -47,7 +57,7 @@ article
   footer
     a[rel=full-article]
       background: darken($background-color, 8)
-      +border-radius(2px)
+      border-radius: 2px
       display: inline-block
       padding: .4em .8em
       margin-right: .5em

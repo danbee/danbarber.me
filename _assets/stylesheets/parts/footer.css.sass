@@ -5,10 +5,14 @@ body > footer
   padding-top: 1em
   padding-bottom: 1em
   margin-bottom: 3em
-  +border-bottom-radius(.4em)
+  border-radius-bottom: .4em
   z-index: 1
   a
-    +link-colors($footer-link-color, $footer-link-color-hover, $visited: $footer-link-color)
+    color: $footer-link-color
+    &:hover
+      color: $footer-link-color-hover
+    &:visited
+      color: $footer-link-color
     text-decoration: none
   p:last-child
     margin-bottom: 0
@@ -20,11 +24,11 @@ body > footer
       font-family: $serif
       font-size: 1em
       color: $text-color
-      +border-radius(1em)
+      border-radius: 1em
       border:
         width: 1px
         style: solid
         color: #999 #bbb #bbb #999
       &:focus
         outline: none
-        +box-shadow(0 0 5px $link-color)
+        box-shadow: 0 0 5px $link-color

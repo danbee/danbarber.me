@@ -22,10 +22,11 @@
   h1
     font-size: 1.5em
     a
-      +hover-link
       color: inherit
+      text-decoration: none
       &:hover
         color: $link-color-hover
+        text-decoration: underline
       font-weight: normal
       display: inline-block
   a.category, time
@@ -44,7 +45,9 @@
     margin-bottom: 1em
   &, .entry-content
     a
-      +link-colors(inherit, $link-color-hover)
+      color: inherit
+      &:hover
+        color: $link-color-hover
   a:hover
     color: $link-color-hover
   @media only screen and (min-width: 550px)
