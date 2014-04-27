@@ -1,0 +1,66 @@
+article
+  border-bottom: 1px dashed $border-color
+  padding-bottom: 0
+  margin-bottom: 1em
+
+  .entry-content
+    margin-bottom: 2em
+
+  header
+    position: relative
+    margin-top: 2em
+    padding-top: 0.6em
+
+    .meta
+      text-transform: uppercase
+      color: $meta-text-color
+      font-size: 0.8em
+      letter-spacing: 0.1em
+      width: 100%
+      text-rendering: optimizelegibility
+      position: absolute
+      top: 0
+      margin-top: 0
+
+  header a
+    color: $heading-color
+    text-decoration: none
+    &:hover, &:focus
+      color: $link-color-hover
+
+  img, video, .flash-video
+    +box-shadow(0 1px 4px rgba(0, 0, 0, 0.15))
+    padding: 0.5em
+    margin: -0.5em
+
+  > footer
+    padding-left: 0
+    padding-right: 0
+    p.meta
+      margin-bottom: .8em
+      font-size: .85em
+      clear: both
+      overflow: hidden
+    .byline + time:before, time + time:before, .comments:before, .byline ~ .categories:before
+      @extend .separator
+
+  footer
+    a[rel=full-article]
+      background: darken($background-color, 8)
+      +border-radius(2px)
+      display: inline-block
+      padding: .4em .8em
+      margin-right: .5em
+      margin-bottom: 1.5em
+      text-decoration: none
+      color: mix($text-color, $text-color-light)
+      +transition(background-color 0.5s)
+      &:hover
+        background: $link-color-hover
+        text-shadow: none
+        color: $background-color
+
+.separator
+  content: "\2022 "
+  padding: 0 .4em 0 .2em
+  display: inline-block

@@ -1,44 +1,46 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+{% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <!-- Meta tags -->
+    <meta name="author" content="{{ site.author }}">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+    <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
+    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    </head>
-    <body>
+    <!-- Links -->
+    <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+    <link rel="canonical" href="{{ canonical }}">
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+    <!-- Large favicon for Opera Speed Dial -->
+    <link rel="icon" type="image/png" href="{{ 'speeddial-icon.png' | asset_path }}">
 
-          {{ content }}
+    <!-- iOS favicons -->
+    <link href="{{ 'favicon.ico' | asset_path }}" rel="shortcut icon">
+    {{ 'styles' | stylesheet }}
+    <!-- 144x144 for iPad 3rd and 4th generation -->
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ 'apple-touch-icon-144x144.png' | asset_path }}">
+    <!-- 114x114 for iPhone 4, 4S, 5 and 2012 iPod Touch -->
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ 'apple-touch-icon-114x114.png' | asset_path }}">
+    <!-- 72x72 for 1st generation iPad, iPad 2 and iPad mini -->
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ 'apple-touch-icon-72x72.png' | asset_path }}">
+    <!-- 57x57 for iPhone 3GS, 2011 iPod Touch and older Android devices -->
+    <link rel="apple-touch-icon" href="{{ 'apple-touch-icon.png' | asset_path }}">
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+    <!-- Windows 8 Pinned Site -->
+    <meta name="msapplication-TileImage" content="{{ 'win8-pinsite.png' | asset_path }}">
+    <meta name="msapplication-TileColor" content="#4B8400">
+    <meta name="application-name" content="DanBarber.me">
 
-    </body>
+    <script type="text/javascript" src="http://use.typekit.com/ori1zzm.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  </head>
+  <body>
+    {{ content | expand_urls: root_url }}
+  </body>
 </html>

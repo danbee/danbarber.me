@@ -8,6 +8,10 @@ gem 'jekyll-assets'
 gem 'octopress', '~> 3.0.0.rc.5'
 gem 'octopress-deploy', '~> 1.0.0.rc.2'
 
+gem 'kramdown', '~> 1.3.3'
+
+gem 'facets'
+
 gem 'uglifier'
 gem 'sass'
 gem 'bourbon'

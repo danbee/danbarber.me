@@ -1,0 +1,19 @@
+<footer role="contentinfo">
+  <p>
+    Follow me <a class="icon-app-net" href="https://alpha.app.net/danbarber" rel="me">@danbarber</a> or <a class="icon-twitter" href="http://twitter.com/danbee">@danbee</a>
+  </p>
+  {% if site.simple_search %}
+    <form action="{{ site.simple_search }}" method="get">
+      <fieldset role="search">
+        <input type="hidden" name="sites" value="{{ site.url | shorthand_url }}" />
+        <input class="search" type="search" name="q" results="0" placeholder="Search"/>
+      </fieldset>
+    </form>
+  {% endif %}
+  <p>
+    Copyright &copy; {{ site.time | date: "%Y" }} - <a href="/about">{{ site.author }}</a><br />
+    <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  </p>
+</footer>
+
+{% include analytics.html %}
