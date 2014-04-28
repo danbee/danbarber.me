@@ -20,7 +20,7 @@
 {% endunless %}
 {% if index %}
   <div class="entry-content">{{ post.excerpt }}</div>
-  {% if post.excerpt != content %}
+  {% if post.content contains site.excerpt_separator %}
     <footer>
       <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
     </footer>
