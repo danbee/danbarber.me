@@ -4,6 +4,8 @@ author: Dan Barber
 markdown: kramdown
 pygments: true
 
+simple_search: https://duckduckgo.com/
+
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
 
 permalink: /:title
