@@ -21,7 +21,7 @@ In excellent condition, with box and case. This is a great alternative to the us
 
 ### [Canon L series 70-200 f4 USM lens](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/EF_Lenses/Telephoto_Zoom/EF_70-200mm_f4L_USM/) -- £350
 
-Widely regarded as one of the sharpest lenses Canon makes! This is an amazing lens.
+Widely regarded as one of the sharpest lenses Canon makes! This is an amazing lens. In excellent condition with box and lens hood.
 
 ### [Canon RS-80N3 remote shutter release](http://www.amazon.co.uk/Canon-Remote-Switch-RS-80-N3/dp/B00007EEA4/ref=sr_1_1?ie=UTF8&qid=1398012676&sr=8-1&keywords=canon+rs+80n3) -- Sold!
 
