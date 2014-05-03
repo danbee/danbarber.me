@@ -11,11 +11,11 @@ Check my [Flickr](https://www.flickr.com/photos/danbee/) stream for example shot
 
 Prices don't include shipping.
 
-### [Canon EOS 30D body](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_SLR/eos30d/) -- £100
+### [Canon EOS 30D body](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/Digital_SLR/eos30d/) -- Sold!
 
 This body is in excellent condition and comes with two batteries, charger, cables and manual. I'll throw in a couple of CF cards too.
 
-### [Sigma EX Macro 18-50mm f2.8 lens](http://www.ephotozine.com/article/sigma-18-50-f-2-8-ex-dc-interchangeable-lens-review-4040) -- £150
+### [Sigma EX Macro 18-50mm f2.8 lens](http://www.ephotozine.com/article/sigma-18-50-f-2-8-ex-dc-interchangeable-lens-review-4040) -- Sold!
 
 In excellent condition, with box and case. This is a great alternative to the usual Canon kit lens as it has a wide f2.8 aperture through the zoom range.
 
