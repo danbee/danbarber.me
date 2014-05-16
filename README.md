@@ -1,4 +1,4 @@
 DanBarber.me
 ============
 
-Jekyll source code for `danbarber.me`.
+Jekyll source code for <http://danbarber.me>.
