@@ -2,7 +2,7 @@ url: http://danbarber.me
 title: Dan Barber
 author: Dan Barber
 markdown: kramdown
-pygments: true
+highlighter: pygments
 
 simple_search: https://duckduckgo.com/
 
