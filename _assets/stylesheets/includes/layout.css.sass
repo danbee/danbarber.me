@@ -2,15 +2,19 @@ $max-width: 800px !default
 $pad-min: 8.5% !default
 
 header[role=banner]
+  padding: 0.52em 0 0.42em
   h1
     font-size: 3.43em
-    line-height: 0
-    color: white
-    margin: 0.52em 0 0.42em
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.2)
-    span
-      position: absolute
-      right: 100%
+    margin: 0
+    a
+      color: white
+      line-height: 0
+      text-decoration: none
+      text-shadow: 0 0 10px rgba(0, 0, 0, 0.2)
+      span
+        width: 0
+        font-size: 0
+        overflow: hidden
 
 article img
   max-width: 100%
@@ -24,7 +28,7 @@ article img.right
   float: right
   margin-left: 1em
 
-#content, hgroup, footer
+#content, .container, footer
   padding: 0 $pad-min
   margin: 0 auto
   max-width: $max-width
