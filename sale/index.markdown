@@ -19,7 +19,7 @@ This body is in excellent condition and comes with two batteries, charger, cable
 
 In excellent condition, with box and case. This is a great alternative to the usual Canon kit lens as it has a wide f2.8 aperture through the zoom range.
 
-### [Canon L series 70-200 f4 USM lens](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/EF_Lenses/Telephoto_Zoom/EF_70-200mm_f4L_USM/) -- £350
+### [Canon L series 70-200 f4 USM lens](http://www.canon.co.uk/For_Home/Product_Finder/Cameras/EF_Lenses/Telephoto_Zoom/EF_70-200mm_f4L_USM/) -- [On eBay](http://www.ebay.co.uk/itm/271492222331?ssPageName=STRK:MESELX:IT&_trksid=p3984.m1555.l2649)
 
 Widely regarded as one of the sharpest lenses Canon makes! This is an amazing lens. In excellent condition with box and lens hood.
 
