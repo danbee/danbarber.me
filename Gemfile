@@ -5,8 +5,8 @@ gem 'rake'
 gem 'jekyll'
 gem 'jekyll-assets'
 
-gem 'octopress', '~> 3.0.0.rc.12'
-gem 'octopress-deploy', '~> 1.0.0.rc.10'
+gem 'octopress', '~> 3.0.0.rc.14'
+gem 'octopress-deploy', '~> 1.0.0.rc.11'
 
 gem 'kramdown', '~> 1.3.3'
 
