@@ -26,15 +26,20 @@ assets:
     - _assets/images
     - _assets/fonts
     - _assets/icons
+  js_compressor: uglifier
+  css_compressor: sass
 
-redcarpet:
-  extensions:
-    - hard_wrap
-    - no_intra_emphasis
-    - autolink
-    - strikethrough
-    - fenced_code_blocks
-    - smart
+picture:
+  source: "_assets/images"
+  output: "pictures"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1, 2]
+      attr:
+        itemprop: "image"
+      source_default:
+        width: "800"
 
 kramdown:
   input: GFM
