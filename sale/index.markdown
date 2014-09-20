@@ -7,7 +7,7 @@ footer: true
 
 ### iPad 3rd generation - 64GB Wi-Fi & 3G (black) -- £275
 
-{% picture default pages/sale/DSCF1694.jpg %}
+{% picture full-width pages/sale/DSCF1694.jpg %}
 
 For sale is my 3rd gen iPad with Retina display. It has 64Gb of storage and 3G connectivity. It's in excellent condition with no scratches or dents and comes with the original box and accessories. I'm also throwing in the iPad smart case in grey.
 

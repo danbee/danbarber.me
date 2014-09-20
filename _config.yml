@@ -30,16 +30,23 @@ assets:
   css_compressor: sass
 
 picture:
-  source: "_assets/images"
-  output: "pictures"
+  source: "_assets_source/images"
+  output: "assets"
   markup: "picture"
   presets:
-    default:
+    full-width:
       ppi: [1, 2]
       attr:
         itemprop: "image"
-      source_default:
+      source_large:
+        media: "(min-width: 769px)"
         width: "800"
+      source_medium:
+        media: "(min-width: 480px)"
+        width: "640"
+      source_default:
+        width: "400"
+
 
 kramdown:
   input: GFM
