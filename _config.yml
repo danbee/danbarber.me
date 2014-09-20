@@ -1,8 +1,7 @@
 url: http://danbarber.me
 title: Dan Barber
 author: Dan Barber
-markdown: kramdown
-highlighter: pygments
+markdown: KramdownPygments
 
 simple_search: https://duckduckgo.com/
 
