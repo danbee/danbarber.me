@@ -226,6 +226,8 @@ module Jekyll
           i.crop "#{gen_width}x#{gen_height}+0+0"
         end
 
+        image.quality 85
+
         image.write gen_dest_file
       end
 
