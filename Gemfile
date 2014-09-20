@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rake'
 
+gem 'mini_magick'
+
 gem 'jekyll'
 gem 'jekyll-assets'
-
-gem 'mini_magick'
 
 gem 'octopress', '~> 3.0.0.rc.14'
 gem 'octopress-deploy', '~> 1.0.0.rc.11'
