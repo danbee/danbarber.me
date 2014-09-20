@@ -30,7 +30,7 @@ assets:
   css_compressor: sass
 
 picture:
-  source: "_assets_source/images"
+  source: "_pictures"
   output: "assets"
   markup: "picture"
   presets:
