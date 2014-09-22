@@ -46,6 +46,5 @@ picture:
       source_default:
         width: "400"
 
-
 kramdown:
   input: GFM
