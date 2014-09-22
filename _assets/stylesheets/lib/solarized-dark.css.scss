@@ -46,7 +46,7 @@ $pre-bg: $base03 !default;
 $pre-border: darken($base02, 5) !default;
 $pre-color: $base1 !default;
 
-.highlight { background-color: $base03; color: $base1 }
+.highlight { background-color: $base02; color: $base1 }
 .highlight .c { color: $base01 } /* Comment */
 .highlight .err { color: $base1 } /* Error */
 .highlight .g { color: $base1 } /* Generic */
