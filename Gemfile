@@ -6,6 +6,7 @@ gem 'mini_magick'
 
 gem 'jekyll'
 gem 'jekyll-assets'
+gem 'jekyll-video-tag'
 
 gem 'octopress', '~> 3.0.0.rc.14'
 gem 'octopress-deploy', '~> 1.0.0.rc.11'

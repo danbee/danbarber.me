@@ -3,6 +3,8 @@ title: Dan Barber
 author: Dan Barber
 markdown: KramdownPygments
 
+gems: ['jekyll_video_tag']
+
 simple_search: https://duckduckgo.com/
 
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
