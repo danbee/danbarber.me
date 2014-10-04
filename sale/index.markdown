@@ -5,7 +5,7 @@ date: 2014-04-20
 footer: true
 ---
 
-### iPad 3rd generation - 64GB Wi-Fi & 3G (black) -- £275
+### iPad 3rd generation - 64GB Wi-Fi & 3G (black) -- Sold!
 
 {% picture full-width pages/sale/DSCF1694.jpg %}
 
