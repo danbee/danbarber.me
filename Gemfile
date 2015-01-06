@@ -8,8 +8,8 @@ gem 'jekyll'
 gem 'jekyll-assets'
 gem 'jekyll-video-tag'
 
-gem 'octopress', '~> 3.0.0.rc.14'
-gem 'octopress-deploy', '~> 1.0.0.rc.11'
+gem 'octopress', '~> 3.0.0.rc'
+gem 'octopress-deploy', '~> 1.0'
 
 gem 'kramdown', '~> 1.3.3'
 
