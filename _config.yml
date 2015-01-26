@@ -3,6 +3,8 @@ title: Dan Barber
 author: Dan Barber
 markdown: KramdownPygments
 
+subscribe_rss: '/atom.xml'
+
 gems: ['jekyll_video_tag']
 
 simple_search: https://duckduckgo.com/
