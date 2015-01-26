@@ -1,12 +1,8 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-html {
-  background: $background-color;
-}
+html { background: $background-color; }
 
-body {
-  font-weight: 300;
-}
+body { font-weight: 300; }
 
 body > div > div {
   border: none;
@@ -26,7 +22,6 @@ body > header {
     margin-top: 0;
     font-weight: 700;
     //line-height: 0
- 
   }
 }
 
