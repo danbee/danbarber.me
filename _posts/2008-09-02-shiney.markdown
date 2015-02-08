@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Shiney!"
+categories: [news, google, browser, web]
+published: true
+---
+
+Just installed [Google Chrome](http://www.google.com/chrome). First impressions are good, it feels *very* quick. Gmail in particular is very responsive indeed.

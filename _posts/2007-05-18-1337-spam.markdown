@@ -1,0 +1,8 @@
+---
+layout: post
+title: "1,337 Spam"
+categories: [news]
+published: true
+---
+
+<img id="image134" src="http://www.pixelhum.com/wp-content/uploads/2007/05/askimet1337.png" alt="1,337 Spam" />

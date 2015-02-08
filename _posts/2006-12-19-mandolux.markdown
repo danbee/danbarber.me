@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Mandolux"
+categories: [news, asides]
+published: true
+---
+
+[Some fantastic and very tasteful desktop wallpapers](http://www.mandolux.com/).

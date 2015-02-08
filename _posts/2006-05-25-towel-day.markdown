@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Towel Day!"
+categories: [asides]
+published: true
+---
+
+<p><a href="http://www.towelday.kojv.net/"><img alt="Towel Day" title="Towel Day" src="http://danbarber.me.s3.amazonaws.com/images/2006-05-25-towel-day/toweldays.gif" /></a></p>
+<p>I can't believe this one passed me by! I didn't bring a towel...
+</p>
