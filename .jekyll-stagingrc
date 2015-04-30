@@ -1,0 +1,7 @@
+---
+jekyll_root: |
+  ./
+drafts_dir: |
+  ~/Dropbox/Text Docs/danbarber.me/drafts
+file_extension: |
+  markdown
