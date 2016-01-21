@@ -1,11 +1,15 @@
 url: http://danbarber.me
 title: Dan Barber
 author: Dan Barber
-markdown: KramdownPygments
+markdown: Kramdown
 
 subscribe_rss: '/atom.xml'
 
-gems: ['jekyll_video_tag']
+gems:
+  - jekyll-paginate
+  - jekyll_video_tag
+  - jekyll-assets
+  - bourbon
 
 simple_search: https://duckduckgo.com/
 
@@ -21,16 +25,20 @@ recent_posts: 5
 excerpt_link: "Read on &rarr;"
 
 assets:
-  dirname: assets
-  baseurl: /assets/
+  prefix: "/assets"
+  assets:
+    - "*.png"
+    - "bundle.css"
+  digest: true
   sources:
+    - _assets/css
+    - _assets/images
+    - _assets/icons
     - _assets/javascripts
     - _assets/stylesheets
-    - _assets/images
     - _assets/fonts
-    - _assets/icons
-  js_compressor: uglifier
-  css_compressor: sass
+    - _assets/img
+    - _assets/js
 
 picture:
   source: "_pictures"

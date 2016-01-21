@@ -5,15 +5,16 @@ gem 'rake'
 gem 'mini_magick'
 
 gem 'jekyll'
+gem 'jekyll-paginate'
 gem 'jekyll-assets'
 gem 'jekyll-video-tag'
 
 gem 'jekyll-staging'
 
-gem 'octopress', '~> 3.0.0.rc'
-gem 'octopress-deploy', '~> 1.0'
+gem 'octopress'
+gem 'octopress-deploy'
 
-gem 'kramdown', '~> 1.3.3'
+gem 'kramdown'
 
 gem 'facets'
 
