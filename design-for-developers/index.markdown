@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "design for developers"
+title: "Design for Developers"
 date: 2013-03-24 09:35
 comments: true
 sharing: true
