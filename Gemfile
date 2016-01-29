@@ -6,6 +6,7 @@ gem 'mini_magick'
 
 gem 'jekyll'
 gem 'jekyll-paginate'
+gem 'jekyll-archives'
 gem 'jekyll-assets'
 gem 'jekyll-video-tag'
 

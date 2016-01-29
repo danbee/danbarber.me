@@ -3,12 +3,15 @@ title: Dan Barber
 author: Dan Barber
 markdown: Kramdown
 
+description: Web designer and developer for thoughtbot in London. Drummer and all round musician.
+
 subscribe_rss: '/atom.xml'
 
 gems:
   - jekyll-paginate
-  - jekyll_video_tag
+  - jekyll-archives
   - jekyll-assets
+  - jekyll_video_tag
   - bourbon
 
 simple_search: https://duckduckgo.com/
@@ -24,6 +27,16 @@ paginate_path: "blog/page/:num"
 recent_posts: 5
 excerpt_link: "Read on &rarr;"
 
+jekyll-archives:
+  enabled: [categories]
+  layout: 'page'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
 assets:
   prefix: "/assets"
   assets:
@@ -36,6 +49,8 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/fonts
+  features:
+    liquid: true
 
 picture:
   source: "_pictures"
