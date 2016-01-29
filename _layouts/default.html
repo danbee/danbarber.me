@@ -46,7 +46,7 @@
 
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:description" content="{% if page.excerpt != nil %}{{ page.excerpt | strip_html | strip_newlines | truncate:250 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description" content="{% if page.excerpt != nil %}{{ page.excerpt | strip_html | truncatewords:50 }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:locale" content="en_UK">
     <meta property="og:type" content="article">
   </head>
