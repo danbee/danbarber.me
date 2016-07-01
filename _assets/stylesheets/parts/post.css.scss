@@ -1,14 +1,7 @@
 article {
   border-bottom: 1px dashed $border-color;
-  padding-bottom: 0;
-  margin-bottom: 1em;
-  .entry-content {
-    margin-bottom: 2em;
-  }
+  padding-bottom: 2.5rem;
   header {
-    position: relative;
-    margin-top: 2em;
-    padding-top: 0.6em;
     .meta {
       text-transform: uppercase;
       color: $meta-text-color;
@@ -16,9 +9,9 @@ article {
       letter-spacing: 0.1em;
       width: 100%;
       text-rendering: optimizelegibility;
-      position: absolute;
-      top: 0;
-      margin-top: 0;
+    }
+    h1 + .meta {
+      margin-top: -2.5rem;
     }
   }
   header a {
