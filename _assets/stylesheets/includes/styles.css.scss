@@ -9,13 +9,8 @@ body > div > div {
 }
 
 body > header {
-  border-color: $header-color;
-  @include background(linear-gradient(top, rgba(0, 0, 0, 0) 52%, rgba(0, 0, 0, 0.15) 100%));
   background-color: $header-color;
-  border-width: 0 0 1px;
-  border-style: solid;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), inset 0 -1px 0px rgba(255, 255, 255, 0.4);
-  padding-top: 0.8em;
+  padding-top: 0.9em;
   padding-bottom: 0.9em;
   h1 a {
     //display: inline-block
@@ -51,7 +46,6 @@ header nav {
   }
   a {
     @include transition(text-shadow 0.25s 0s ease);
-    text-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
     color: white;
     text-decoration: none;
     &:hover, &:focus {

@@ -13,9 +13,7 @@
         <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
       {% endif %}
     {% endif %}
-    <p class="meta">
-      {% include post/date.html %}
-    </p>
+    {% if post.date %}<p class="meta">{% include post/date.html date=post.date %}{{ time }}</p>{% endif %}
   </header>
 {% endunless %}
 {% if index %}
@@ -29,8 +27,8 @@
   <div class="entry-content">{{ content }}</div>
   <footer>
     <p class="meta">
-      {% include post/author.html %}
-      {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+      {% if page.date %}{% include post/date.html date=page.date %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}{% endif %}
+      |
       {% include post/categories.html %}
     </p>
   </footer>

@@ -1,54 +1,8 @@
-<!DOCTYPE HTML>
+<!doctype html>
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-
-    <!-- Meta tags -->
-    <meta name="author" content="{{ site.author }}">
-
-    {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-    <meta name="description" content="{{ site.description | strip_html | strip_newlines | truncate:150 }}">
-    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-    <!-- Links -->
-    <link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
-    <link rel="canonical" href="{{ canonical }}">
-
-    <!-- Large favicon for Opera Speed Dial -->
-    <link rel="icon" type="image/png" href="{{ 'speeddial-icon.png' | asset_path }}">
-
-    <!-- iOS favicons -->
-    <link href="{{ 'favicon.ico' | asset_path }}" rel="shortcut icon">
-    {{ 'styles' | stylesheet }}
-    {{ 'main' | javascript }}
-    <!-- 144x144 for iPad 3rd and 4th generation -->
-    <link rel="apple-touch-icon" sizes="144x144" href="{{ 'apple-touch-icon-144x144.png' | asset_path }}">
-    <!-- 114x114 for iPhone 4, 4S, 5 and 2012 iPod Touch -->
-    <link rel="apple-touch-icon" sizes="114x114" href="{{ 'apple-touch-icon-114x114.png' | asset_path }}">
-    <!-- 72x72 for 1st generation iPad, iPad 2 and iPad mini -->
-    <link rel="apple-touch-icon" sizes="72x72" href="{{ 'apple-touch-icon-72x72.png' | asset_path }}">
-    <!-- 57x57 for iPhone 3GS, 2011 iPod Touch and older Android devices -->
-    <link rel="apple-touch-icon" href="{{ 'apple-touch-icon.png' | asset_path }}">
-
-    <!-- Windows 8 Pinned Site -->
-    <meta name="msapplication-TileImage" content="{{ 'win8-pinsite.png' | asset_path }}">
-    <meta name="msapplication-TileColor" content="#4B8400">
-    <meta name="application-name" content="DanBarber.me">
-
-    <!-- Safari pinned tab -->
-    <link rel="mask-icon" href="{{ 'favicon.svg' | asset_path }}" color="#4B8400">
-
-    <script type="text/javascript" src="//use.typekit.com/ori1zzm.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:description" content="{% if page.excerpt != nil %}{{ page.excerpt | strip_html | truncatewords:50 }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:locale" content="en_UK">
-    <meta property="og:type" content="article">
+    {% include head.html %}
   </head>
   <body>
     {{ content | expand_urls: root_url }}

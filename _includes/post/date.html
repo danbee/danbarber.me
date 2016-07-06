@@ -1,1 +1,1 @@
-{% if post.date %}<time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | pretty }}</time>{% endif %}
+<time datetime="{{ include.date | datetime | date_to_xmlschema }}" pubdate>{{ include.date | pretty }}</time>
