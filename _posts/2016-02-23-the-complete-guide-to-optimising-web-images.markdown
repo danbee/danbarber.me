@@ -9,11 +9,11 @@ Optimising images for your website can be a bit of a black art, but it's well wo
 
 #### Why?
 
-These days many of us have access to very fast broadband connections (we have a 100Mb/s connection here at thoughtbot London) but not everybody has access to this sort of connection. Many people are still stuck on relatively slow ADSL connections that run at no more than 2Mb/s or so.
+These days many of us have access to very fast broadband (we have a 100Mb/s connection here at thoughtbot London) but not everybody has access to this sort of connection. Many people are still stuck on relatively slow ADSL packages that run at no more than 2Mb/s or so.
 
-Mobile connections have come a long way in recent years, but the variability of speed is even worse than wired connections. 4G can be fast, but in areas with high contention or in areas where there is no 3G/4G connections can be slow as mud.
+Mobile connections have come a long way in recent years, but the variability of speed is even worse than wired connections. 4G can be as fast as good broadband, but in areas with high contention or in areas where there is no 3G/4G it can be as slow as mud.
 
-Whatever the speed of the connection it's worth optimising your images as studies (citation?) have shown that visitors are way more likely to abandon your site if it takes more than a few seconds to load. Also, even fast broadband connections often have data caps.
+Whatever the speed of the connection it's worth optimising your images as [studies have shown](https://www.nngroup.com/articles/website-response-times/) that visitors are far more likely to abandon your site if it takes more than a few seconds to load. It's also worth remembering that even fast broadband connections often have data caps.
 
 <!-- more -->
 
@@ -27,11 +27,11 @@ Sometimes it is appropriate to send an image that is bigger than the size it wil
 
 #### Format
 
-So you've finished working on your image, and made sure it's the right size. What format do you choose? Well, that depends on the kind of image.
+So you've finished working on your image, and made sure it's the right size. What format do you choose to export it? Well, that depends on the kind of image.
 
 There are number of choices when it comes to image formats that work on the web but the only two you really need to worry about right now are JPEG and PNG.
 
-The JPEG file image format was created by the Joint Photographic Experts Group. This should give you a clue as to the kind of images it was intended to store. It uses efficient lossy compression for storing photographic images, as the artefacts that result from the compression blend well into photographs with detailed non-uniform textures. These artefacts makes it a poor choice for storing graphic images and logos however. Because the compression is lossy it means that you will lose information in the image which cannot be recovered. This means that you should keep a master copy of your image and only export to JPEG when you are ready to publish it to the web.
+The JPEG file image format was created by the Joint Photographic Experts Group and, as you might expect, was optimised for storing photographic images. It uses efficient lossy compression for storing photographic images, as the artefacts that result from the compression blend well into photographs with detailed non-uniform textures. These artefacts makes it a poor choice for storing graphic images and logos however. Because the compression is lossy it means that you will lose information in the image which cannot be recovered. This means that you should keep a master copy of your image and only export to JPEG when you are ready to publish it to the web.
 
 The PNG format was designed as a replacement for the then patent encumbered GIF format. It is a lossless format, able to store images in a variety of colour depths, with either 1 bit or 8 bit alpha transparency. This makes it ideal for storing graphic images with strong lines and flat areas of colour. It is also very good at pristinely storing photographs, but because it's lossless, the resulting file sizes end up being unwieldy for web use so it's better to use JPEG.
 
@@ -41,7 +41,7 @@ When saving your images for the web it is usually best to use the "Web Export...
 
 <figure style="margin-left: -5.6%; margin-right: -5.7%;">
   {% image blog/the-complete-guide-to-optimising-web-images/web-export.png alt:"Photoshop's web export dialog box" class:"no-border" %}
-  <figcaption>Photoshop's Web Export dialogue box</figcaption>
+  <figcaption style="margin-left: 5.6%; margin-right: 5.7%;">Photoshop's Web Export dialogue box</figcaption>
 </figure>
 
 The main control you need to worry about here is the "Quality" slider. This adjusts the amount of compression applied to the image and will affect the overall quality. Try playing with this control to get a feel for how it affects the final image. You will also see how it affects the file size of the image (shown at the bottom). 65-75% is generally a good starting point, but you may be able to get away with a lower value for certain kinds of image. Conversely you may have to set it higher to get a result you are happy with. Use your judgement here.
@@ -56,12 +56,16 @@ Most image editing applications will only let you export a PNG file with an 8-bi
 
 <figure style="margin-left: -5.4%; margin-right: -5.5%;">
   {% image blog/the-complete-guide-to-optimising-web-images/imagealpha.png alt:"ImageAlpha on OS X" class:"no-border" %}
-  <figcaption>ImageAlpha on OS X</figcaption>
+  <figcaption style="margin-left: 5.4%; margin-right: 5.5%;">ImageAlpha on OS X</figcaption>
 </figure>
 
 There are some useful tools to enable you to further compress PNG images:
 
-**ImageOptim**: An OS X application that will run your images through various lossless compression tools. OptiPNG, PNGCrush, and Gifsicle are some of the tools that it will use to strip and crush your images down in size without losing quality. The savings depend on the image you are compressing but can be anything from 10% to 75% of the original size. ImageOptim will also work with JPG images but the savings are not usually that great.
+**ImageOptim**: An OS X application that will run your images through various lossless compression tools. OptiPNG, PNGCrush, and Gifsicle are some of the tools that it will use to strip and crush your images down in size without losing quality. The savings depend on the image you are compressing but can be anything from 10% to 75% of the original size. ImageOptim will also work with JPG images but the savings are usually not that great.
+
+If you are running Windows you can try [FileOptimizer](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) as an alternative.
+
+Happy optimising!
 
 *[ADSL]: Asymmetric Digital Subscriber Line
 *[JPEG]: Joint Photographic Expert Group
