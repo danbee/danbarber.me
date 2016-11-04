@@ -1,8 +1,10 @@
 ---
+title: Mandolux
+date: 2006-12-19 00:00:00 Z
+categories:
+- news
+- asides
 layout: post
-title: "Mandolux"
-categories: [news, asides]
-published: true
 ---
 
 [Some fantastic and very tasteful desktop wallpapers](http://www.mandolux.com/).

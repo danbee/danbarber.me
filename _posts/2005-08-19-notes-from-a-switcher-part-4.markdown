@@ -1,8 +1,10 @@
 ---
+title: Notes from a Switcher, part 4
+date: 2005-08-19 00:00:00 Z
+categories:
+- geek
+- apple
 layout: post
-title: "Notes from a Switcher, part 4"
-categories: [geek, apple]
-published: true
 ---
 
 <img src="http://danbarber.me.s3-external-3.amazonaws.com/images/2005-08-19-notes-from-a-switcher-part-4/applemouse.jpg" class="left" />

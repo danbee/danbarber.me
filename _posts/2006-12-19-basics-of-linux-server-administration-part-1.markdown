@@ -1,8 +1,10 @@
 ---
+title: Basics of Linux Server Administration, Part 1
+date: 2006-12-19 00:00:00 Z
+categories:
+- geek
+- linux
 layout: post
-title: "Basics of Linux Server Administration, Part 1"
-categories: [geek, linux]
-published: true
 ---
 
 <img src="/images/discspace.png" class="left" />

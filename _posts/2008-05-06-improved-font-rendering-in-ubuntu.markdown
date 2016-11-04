@@ -1,8 +1,13 @@
 ---
+title: Improved Font Rendering in Ubuntu
+date: 2008-05-06 00:00:00 Z
+categories:
+- linux
+- ubuntu
+- fonts
+- firefox
+- autohint
 layout: post
-title: "Improved Font Rendering in Ubuntu"
-categories: [linux, ubuntu, fonts, firefox, autohint]
-published: true
 ---
 
 There's quite a few posts of this type around the web, I just thought I'd document what seems to work best for me. The main thing this fixes is font rendering in Firefox, now it looks just as nice as it does in Epiphany!

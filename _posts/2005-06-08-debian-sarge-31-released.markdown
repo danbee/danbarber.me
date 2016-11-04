@@ -1,8 +1,10 @@
 ---
+title: Debian "Sarge" 3.1 released
+date: 2005-06-08 00:00:00 Z
+categories:
+- news
+- linux
 layout: post
-title: "Debian \"Sarge\" 3.1 released"
-categories: [news, linux]
-published: true
 ---
 
 <a href="http://www.debian.org/News/2005/20050606"><img src="/images/debian-shadow.png" class="left" alt="" /></a>

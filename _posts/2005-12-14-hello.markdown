@@ -1,8 +1,9 @@
 ---
+title: Hello?
+date: 2005-12-14 00:00:00 Z
+categories:
+- news
 layout: post
-title: "Hello?"
-categories: [news]
-published: true
 ---
 
 I'm not dead.  Just not had a great deal to write about on here.  There is another 'Notes from a Switcher' article in the works, but my plan is to take my time a bit more on this one.  Expect to see it in the next few weeks.

@@ -1,8 +1,7 @@
 ---
+title: Scratching the Itch
+date: 2008-06-24 00:00:00 Z
 layout: post
-title: "Scratching the Itch"
-categories: []
-published: true
 ---
 
 [Very interesting article in the New Yorker about how we perceive](http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all). Via [kottke.org](http://www.kottke.org/08/06/itching-and-perception).

@@ -1,8 +1,9 @@
 ---
+title: Doom 3 Hardware guide
+date: 2004-08-06 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Doom 3 Hardware guide"
-categories: [clockrocket]
-published: true
 ---
 
 <p>I came across <a href="http://www2.hardocp.com/article.html?art=NjQ0">this article</a> on <a href="http://www.hardocp.com">Hard[OCP]</a> last night.  It should give people a good idea of whether their machine will handle Doom 3 before they buy it.  I was quite surprised myself at how well it ran on my lowely Radeon 9600!  It would appear also that the game still looks curiously stunning at 800x600, with much better framerates than 1024x768.</p>

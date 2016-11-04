@@ -1,8 +1,12 @@
 ---
+title: 'Diary of an Amateur mixer: Part 4'
+date: 2007-09-04 00:00:00 Z
+categories:
+- news
+- music
+- milar
+- mixit-1
 layout: post
-title: "Diary of an Amateur mixer: Part 4"
-categories: [news, music, milar, mixit-1]
-published: true
 ---
 
 This will be the last entry in the diary, as the mix is now done and submitted to the event.

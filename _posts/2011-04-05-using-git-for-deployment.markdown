@@ -1,8 +1,11 @@
 ---
+title: Using Git for Deployment
+date: 2011-04-05 00:00:00 Z
+categories:
+- web
+- deployment
+- git
 layout: post
-title: "Using Git for Deployment"
-categories: [web, deployment, git]
-published: true
 ---
 
 I've been using Git for deployment now for some time, and I thought it might be helpful to others if I document how I did it. Partly this is because I can't find the original guide that I used, so if you recognise the method I use here and you did it first, let me know and I'll attribute you!

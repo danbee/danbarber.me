@@ -1,8 +1,10 @@
 ---
+title: Notes from a Switcher
+date: 2005-06-17 00:00:00 Z
+categories:
+- geek
+- apple
 layout: post
-title: "Notes from a Switcher"
-categories: [geek, apple]
-published: true
 ---
 
 <img src="/images/powerbook.png" class="left" />

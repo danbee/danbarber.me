@@ -1,8 +1,11 @@
 ---
+title: 'Diary of an Amateur mixer: Part 3'
+date: 2007-08-29 00:00:00 Z
+categories:
+- music
+- milar
+- mixit-1
 layout: post
-title: "Diary of an Amateur mixer: Part 3"
-categories: [music, milar, mixit-1]
-published: true
 ---
 
 This mix is now starting to sound like a record to my ears! Tonight I concentrated on tying everything together better and using automation to add some dynamics to the mix.

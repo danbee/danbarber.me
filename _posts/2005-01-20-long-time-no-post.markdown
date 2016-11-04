@@ -1,8 +1,9 @@
 ---
+title: Long Time No Post!
+date: 2005-01-20 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Long Time No Post!"
-categories: [clockrocket]
-published: true
 ---
 
 Well... so far it's been an uneventful 2005 technically.  So far this week I've re-built both my home workstation and my home server (wanted a smaller case for my workstation and the bigger case for my server) and Cypher (the server) is now running dual Athlon MP 1.2Ghz chips on a Tyan Tiger MP.  The dual Celeron 400's on the BP6 were good, but getting a little long in the tooth now.

@@ -1,8 +1,9 @@
 ---
+title: Windows Restart
+date: 2005-11-10 00:00:00 Z
+categories:
+- news
 layout: post
-title: "Windows Restart"
-categories: [news]
-published: true
 ---
 
 <img src="/images/nowindowsupdate.png" class="left" />

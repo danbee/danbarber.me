@@ -1,8 +1,11 @@
 ---
+title: PostgreSQL &amp; PHP on Snow Leopard
+date: 2010-06-06 00:00:00 Z
+categories:
+- php
+- mac-os-x
+- postgresql
 layout: post
-title: "PostgreSQL &amp; PHP on Snow Leopard"
-categories: [php, mac-os-x, postgresql]
-published: true
 ---
 
 I recently had to install PostgreSQL on Snow Leopard with PHP support for development. It took some fiddling and a re-install when I screwed up a dependency but I eventually managed to do it! I thought I'd document the process here for anybody else in the same boat.

@@ -1,7 +1,7 @@
 ---
+title: Design for Developers
+date: 2013-03-24 09:35:00 Z
 layout: page
-title: "Design for Developers"
-date: 2013-03-24 09:35
 comments: true
 sharing: true
 footer: true

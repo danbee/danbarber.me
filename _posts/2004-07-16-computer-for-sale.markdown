@@ -1,8 +1,9 @@
 ---
+title: Computer for sale
+date: 2004-07-16 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Computer for sale"
-categories: [clockrocket]
-published: true
 ---
 
 I have a computer to sell if anybody is interested.  Specs are as follows:

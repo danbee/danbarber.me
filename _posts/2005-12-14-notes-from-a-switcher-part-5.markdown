@@ -1,8 +1,10 @@
 ---
+title: Notes from a Switcher, part 5
+date: 2005-12-14 00:00:00 Z
+categories:
+- geek
+- apple
 layout: post
-title: "Notes from a Switcher, part 5"
-categories: [geek, apple]
-published: true
 ---
 
 <img src="/images/ilife.png" class="left" />

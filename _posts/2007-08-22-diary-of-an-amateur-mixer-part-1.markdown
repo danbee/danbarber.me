@@ -1,8 +1,11 @@
 ---
+title: 'Diary of an Amateur mixer: Part 1'
+date: 2007-08-22 00:00:00 Z
+categories:
+- music
+- milar
+- mixit-1
 layout: post
-title: "Diary of an Amateur mixer: Part 1"
-categories: [music, milar, mixit-1]
-published: true
 ---
 
 So I entered the Womb forum [MiLaR](http://womb.mixerman.net/showthread.php?t=4047) event and have started mixing Aces High's track, 'Simple Little Bird'.

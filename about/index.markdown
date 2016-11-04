@@ -1,6 +1,6 @@
 ---
+title: About Dan
 layout: page
-title: "About Dan"
 comments: false
 sharing: true
 footer: true

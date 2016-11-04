@@ -1,12 +1,11 @@
 ---
+title: We're Creating a Culture of Distraction
+date: 2012-10-30 18:08:00 Z
 layout: post
-title: "We're Creating a Culture of Distraction"
-date: 2012-10-30 18:08
 comments: true
-categories: 
-published: true
 external-url: http://joekraus.com/were-creating-a-culture-of-distraction
 ---
+
 Joe Kraus:
 
 > I want to ask people a simple question: are you happy with your relationship with your phone. Do you think it’s a healthy one?

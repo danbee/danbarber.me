@@ -1,8 +1,11 @@
 ---
+title: Automatic Screen for SSH Login
+date: 2010-03-12 00:00:00 Z
+categories:
+- geek
+- linux
+- bash
 layout: post
-title: "Automatic Screen for SSH Login"
-categories: [geek, linux, bash]
-published: true
 ---
 
 Add the following to the end of your `~/.bashrc` file and you'll always be in a screen session when you SSH into your box.

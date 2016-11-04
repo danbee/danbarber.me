@@ -1,8 +1,9 @@
 ---
+title: Google Maps
+date: 2005-02-09 00:00:00 Z
+categories:
+- web-stuff
 layout: post
-title: "Google Maps"
-categories: [web-stuff]
-published: true
 ---
 
 <a href="http://maps.google.com"><img src="/images/googlemaps.png" class="centered" alt="" /></a>

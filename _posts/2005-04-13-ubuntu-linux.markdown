@@ -1,8 +1,9 @@
 ---
+title: Ubuntu Linux
+date: 2005-04-13 00:00:00 Z
+categories:
+- geek
 layout: post
-title: "Ubuntu Linux"
-categories: [geek]
-published: true
 ---
 
 <a href="http://www.ubuntulinux.org"><img src="/images/ubuntulogo.png" alt="" /></a>

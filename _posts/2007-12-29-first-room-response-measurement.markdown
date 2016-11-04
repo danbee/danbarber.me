@@ -1,8 +1,9 @@
 ---
+title: First Room Response Measurement
+date: 2007-12-29 00:00:00 Z
+categories:
+- news
 layout: post
-title: "First Room Response Measurement"
-categories: [news]
-published: true
 ---
 
 And this is why I use headphones to judge low end.

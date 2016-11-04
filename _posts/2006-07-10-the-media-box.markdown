@@ -1,8 +1,10 @@
 ---
+title: The Media Box
+date: 2006-07-10 00:00:00 Z
+categories:
+- news
+- neompc
 layout: post
-title: "The Media Box"
-categories: [news, neompc]
-published: true
 ---
 
 I've been trying unsuccessfully to get Apache installed on my media box, in order to continue development of NeoMPC.  I'd been getting an error message telling me that the build environment had changed, and all attempts at getting it compiled were failing.

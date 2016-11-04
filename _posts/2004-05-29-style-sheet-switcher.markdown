@@ -1,8 +1,9 @@
 ---
+title: Style Sheet Switcher
+date: 2004-05-29 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Style Sheet Switcher"
-categories: [clockrocket]
-published: true
 ---
 
 We all know that the idea behind <acronym title="eXtensible Hypertext Markup Language">XHTML </acronym>and <acronym title="Cascading Style Sheet">CSS</acronym> is to seperate content from style, and when this is done properly it allows us to change the design of an entire site simply by changing the <acronym title="Cascading Style Sheet">CSS</acronym> stylesheet.  So why not have multiple stylesheets for your website and allow the user to change them?

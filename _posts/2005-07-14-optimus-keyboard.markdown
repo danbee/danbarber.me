@@ -1,8 +1,11 @@
 ---
+title: Optimus Keyboard
+date: 2005-07-14 00:00:00 Z
+categories:
+- news
+- geek
+- gadgets
 layout: post
-title: "Optimus Keyboard"
-categories: [news, geek, gadgets]
-published: true
 ---
 
 <a href="http://www.artlebedev.com/portfolio/optimus/"><img src="http://danbarber.me.s3.amazonaws.com/images/2005-07-14-optimus-keyboard/optimus-key.jpg" class="left" /></a>

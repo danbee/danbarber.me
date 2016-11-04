@@ -1,8 +1,9 @@
 ---
+title: Internet Explorer and PNG's
+date: 2004-06-03 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Internet Explorer and PNG's"
-categories: [clockrocket]
-published: true
 ---
 
 It's the bain of every Web Developers life.  The one thing that would make all our lives just that little bit nicer.  Proper support for PNG's in all common web browsers.

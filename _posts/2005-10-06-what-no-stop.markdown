@@ -1,8 +1,11 @@
 ---
+title: What, no 'Stop'?
+date: 2005-10-06 00:00:00 Z
+categories:
+- music
+- geek
+- gadgets
 layout: post
-title: "What, no 'Stop'?"
-categories: [music, geek, gadgets]
-published: true
 ---
 
 <img src="/images/stop.jpg" class="left" />

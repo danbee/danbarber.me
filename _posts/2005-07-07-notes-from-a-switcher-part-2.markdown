@@ -1,8 +1,10 @@
 ---
+title: Notes from a Switcher, part 2
+date: 2005-07-07 00:00:00 Z
+categories:
+- geek
+- apple
 layout: post
-title: "Notes from a Switcher, part 2"
-categories: [geek, apple]
-published: true
 ---
 
 <img src="http://danbarber.me.s3.amazonaws.com/images/2005-07-07-notes-from-a-switcher-part-2/osxtiger.jpg" class="left" />

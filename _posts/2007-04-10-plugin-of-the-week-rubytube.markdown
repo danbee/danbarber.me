@@ -1,8 +1,10 @@
 ---
+title: 'Plugin of the Week: RubyTube'
+date: 2007-04-10 00:00:00 Z
+categories:
+- music
+- plugin-of-the-week
 layout: post
-title: "Plugin of the Week: RubyTube"
-categories: [music, plugin-of-the-week]
-published: true
 ---
 
 Next up on plugin of the week is [RubyTube][rubytubelink].

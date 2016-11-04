@@ -1,8 +1,10 @@
 ---
+title: The Media Box will Live!
+date: 2005-04-22 00:00:00 Z
+categories:
+- geek
+- gadgets
 layout: post
-title: "The Media Box will Live!"
-categories: [geek, gadgets]
-published: true
 ---
 
 Yay!  The parts have turned up for my media box.  I'm building a machine to sit next to the TV and Hi-Fi, solely to store and play music and video.  At some point I'll add a Digital TV card so the machine can do TiVo like duties for us.

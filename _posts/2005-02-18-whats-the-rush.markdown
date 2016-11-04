@@ -1,8 +1,9 @@
 ---
+title: What's the Rush?
+date: 2005-02-18 00:00:00 Z
+categories:
+- life
 layout: post
-title: "What's the Rush?"
-categories: [life]
-published: true
 ---
 
 As Brooks says in <em><a href="http://www.imdb.com/title/tt0111161/">The Shawshank Redemption</a></em>:

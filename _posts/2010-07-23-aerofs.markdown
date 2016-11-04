@@ -1,8 +1,11 @@
 ---
+title: AeroFS
+date: 2010-07-23 00:00:00 Z
+categories:
+- files
+- cloud
+- dropbox
 layout: post
-title: "AeroFS"
-categories: [files, cloud, dropbox]
-published: true
 ---
 
 [AeroFS](http://aerofs.posterous.com/) is a decentralised file syncing system, similar to Dropbox but without the online storage. Looks very interesting!

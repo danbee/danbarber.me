@@ -1,8 +1,9 @@
 ---
+title: I have G(eek)mail!
+date: 2004-06-23 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "I have G(eek)mail!"
-categories: [clockrocket]
-published: true
 ---
 
 I have now got myself a Gmail account!  Woo!

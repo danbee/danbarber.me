@@ -1,11 +1,12 @@
 ---
+title: The Retina MacBook Pro is cheaper than the regular MacBook Pro
+date: 2012-07-17 17:30:00 Z
+categories:
+- apple
 layout: post
-title: "The Retina MacBook Pro is cheaper than the regular MacBook Pro"
-date: 2012-07-17 17:30
 comments: true
-published: true
-categories: apple
 ---
+
 ### Retina MacBook Pro
 
 * 2.3GHz quad-core Intel Core i7

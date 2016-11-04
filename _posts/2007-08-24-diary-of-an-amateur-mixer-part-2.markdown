@@ -1,8 +1,11 @@
 ---
+title: 'Diary of an Amateur mixer: Part 2'
+date: 2007-08-24 00:00:00 Z
+categories:
+- music
+- milar
+- mixit-1
 layout: post
-title: "Diary of an Amateur mixer: Part 2"
-categories: [music, milar, mixit-1]
-published: true
 ---
 
 The mix is coming along nicely :). I've fixed the bass guitar level in the mix and also arranged the guitar parts in the stereo field and balanced them up somewhat. They're now sitting in the mix much better and not crowding the vocal. I've not felt the need to EQ any of the guitar parts yet as I think they sound great as they are!

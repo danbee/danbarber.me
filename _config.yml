@@ -1,74 +1,78 @@
-url: http://danbarber.me
+---
 title: Dan Barber
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: http://danbarber.me
 author: Dan Barber
 markdown: Kramdown
-
-description: Web designer and developer for thoughtbot in London. Drummer and all round musician.
-
-subscribe_rss: '/atom.xml'
-
+description: Web designer and developer for thoughtbot in London. Drummer and all
+  round musician.
+subscribe_rss: "/atom.xml"
 gems:
-  - jekyll-paginate
-  - jekyll-archives
-  - jekyll-assets
-  - jekyll_video_tag
-  - bourbon
-
+- jekyll-paginate
+- jekyll-archives
+- jekyll-assets
+- jekyll_video_tag
+- bourbon
 simple_search: https://duckduckgo.com/
-
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
-
-permalink: /:title
-
-excerpt_separator: '<!-- more -->'
-
+exclude:
+- Gemfile
+- Gemfile.lock
+- README.md
+permalink: "/:title"
+excerpt_separator: "<!-- more -->"
 paginate: 10
-paginate_path: "blog/page/:num"
+paginate_path: blog/page/:num
 recent_posts: 5
-excerpt_link: "Read on &rarr;"
-
+excerpt_link: Read on &rarr;
 jekyll-archives:
-  enabled: [categories]
-  layout: 'page'
+  enabled:
+  - categories
+  layout: page
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
+    year: "/:year/"
+    month: "/:year/:month/"
+    day: "/:year/:month/:day/"
+    tag: "/tag/:name/"
+    category: "/category/:name/"
 assets:
   prefix: "/assets"
   assets:
-    - "*.png"
-    - "bundle.css"
+  - "*.png"
+  - bundle.css
   digest: true
   sources:
-    - _assets/images
-    - _assets/icons
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/fonts
+  - _assets/images
+  - _assets/icons
+  - _assets/javascripts
+  - _assets/stylesheets
+  - _assets/fonts
   features:
     liquid: true
-
 picture:
-  source: "_pictures"
-  output: "assets"
-  markup: "picture"
+  source: _pictures
+  output: assets
+  markup: picture
   presets:
     full-width:
-      ppi: [1, 2]
+      ppi:
+      - 1
+      - 2
       attr:
-        itemprop: "image"
+        itemprop: image
       source_large:
         media: "(min-width: 769px)"
-        width: "800"
+        width: '800'
       source_medium:
         media: "(min-width: 480px)"
-        width: "640"
+        width: '640'
       source_default:
-        width: "400"
-
+        width: '400'
 kramdown:
   input: GFM

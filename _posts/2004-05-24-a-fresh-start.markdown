@@ -1,8 +1,9 @@
 ---
+title: A Fresh Start
+date: 2004-05-24 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "A Fresh Start"
-categories: [clockrocket]
-published: true
 ---
 
 You may have noticed that all of a sudden all the content has dissapeared from this site.  'Why?' you ask?  Well, I figured that I'm a bit fed up of writing about my day to day personal life and I'm sure it can't be that interesting to read either!  

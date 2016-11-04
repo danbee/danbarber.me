@@ -1,8 +1,10 @@
 ---
+title: '"Switching"'
+date: 2005-06-11 00:00:00 Z
+categories:
+- geek
+- apple
 layout: post
-title: "\"Switching\""
-categories: [geek, apple]
-published: true
 ---
 
 <a href="http://www.apple.com"><img src="/images/apple.png" class="left" alt="" /></a>

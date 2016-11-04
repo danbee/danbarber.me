@@ -1,8 +1,10 @@
 ---
+title: NeoMPC 0.5.1
+date: 2007-05-18 00:00:00 Z
+categories:
+- news
+- neompc
 layout: post
-title: "NeoMPC 0.5.1"
-categories: [news, neompc]
-published: true
 ---
 
 Version 0.5.1 of my web based, small screen MPD client is now available for download from the <a href="/neompc">NeoMPC page</a>.

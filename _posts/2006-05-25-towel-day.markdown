@@ -1,8 +1,9 @@
 ---
+title: Towel Day!
+date: 2006-05-25 00:00:00 Z
+categories:
+- asides
 layout: post
-title: "Towel Day!"
-categories: [asides]
-published: true
 ---
 
 <p><a href="http://www.towelday.kojv.net/"><img alt="Towel Day" title="Towel Day" src="http://danbarber.me.s3.amazonaws.com/images/2006-05-25-towel-day/toweldays.gif" /></a></p>

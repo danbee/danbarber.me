@@ -1,8 +1,9 @@
 ---
+title: Server problems already?
+date: 2005-02-07 00:00:00 Z
+categories:
+- news
 layout: post
-title: "Server problems already?"
-categories: [news]
-published: true
 ---
 
 Well, I've only just got here and I've already been having problems with the site.  The Apache service on the server I'm on kept dying and so the site was unavailable for quite some time.  A quick check of the <a href="http://forums.asmallorange.com/">ASO forums</a> revealed that it was a side effect of so many people moving in onto the newest server.

@@ -1,8 +1,9 @@
 ---
+title: The return of Gordan Freeman...
+date: 2004-11-16 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "The return of Gordan Freeman..."
-categories: [clockrocket]
-published: true
 ---
 
 <a href="http://www.steampowered.com/"><img alt="hl2.png" src="http://www.clockrocket.net/archives/hl2.png" width="380" height="391" border="0" /></a>

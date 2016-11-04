@@ -1,8 +1,9 @@
 ---
+title: iDon't want an iPod
+date: 2004-08-16 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "iDon't want an iPod"
-categories: [clockrocket]
-published: true
 ---
 
 <p>Ok, so I'd be the first to admit that Apples iPod and iPod Mini are two sexy looking bits of kit, but I'd never buy one.  In response to <a href="http://blog.codefront.net/">Cheah Chu Yeow</a>'s <a href="http://blog.codefront.net/archives/2004/08/09/iwish_ihad_an_ipod_mini.php">post</a> pointing to '<a href="http://reviews.cnet.com/4520-6450_7-5102324-1.html">Five reasons not to buy an iPod</a>', here are my reasons.  Ironically none of them are the same as any of the five given in the article (well, maybe one!).</p>

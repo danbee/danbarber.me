@@ -1,8 +1,9 @@
 ---
+title: Websites as Graphs
+date: 2006-05-31 00:00:00 Z
+categories:
+- asides
 layout: post
-title: "Websites as Graphs"
-categories: [asides]
-published: true
 ---
 
 <a title="Websites as Graphs" href="http://www.aharef.info/static/htmlgraph/">Interesting applet</a> that creates crazy looking graphs of websites, like the one below.

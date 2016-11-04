@@ -1,8 +1,9 @@
 ---
+title: The Helix cellphone
+date: 2005-02-10 00:00:00 Z
+categories:
+- gadgets
 layout: post
-title: "The Helix cellphone"
-categories: [gadgets]
-published: true
 ---
 
 <a href="http://www.pdd.co.uk/helix/"><img src="/images/helixphone.jpg" class="centered" alt="" /></a>

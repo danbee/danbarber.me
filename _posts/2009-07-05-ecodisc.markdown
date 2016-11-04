@@ -1,8 +1,7 @@
 ---
+title: EcoDisc
+date: 2009-07-05 00:00:00 Z
 layout: post
-title: "EcoDisc"
-categories: []
-published: true
 ---
 
 I just had the misfortune to put one of those new EcoDisc's in my Powerbooks optical drive before I saw the warning on the back. Damn did I feel suckered?! Luckily I think the publication in question intend to go back to normal DVD's in future!

@@ -1,8 +1,11 @@
 ---
+title: Steve Jobs, 1955-2011
+date: 2011-10-06 00:00:00 Z
+categories:
+- apple
+- visionaries
+- steve-jobs
 layout: post
-title: "Steve Jobs, 1955-2011"
-categories: [apple, visionaries, steve-jobs]
-published: true
 ---
 
 <figure>

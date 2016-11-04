@@ -1,8 +1,13 @@
 ---
+title: Apple In-Ear Headphones
+date: 2010-07-26 00:00:00 Z
+categories:
+- apple
+- audio
+- iphone-4
+- iphone
+- headphones
 layout: post
-title: "Apple In-Ear Headphones"
-categories: [apple, audio, iphone-4, iphone, headphones]
-published: true
 ---
 
 <figure>

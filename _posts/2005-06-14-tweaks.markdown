@@ -1,8 +1,10 @@
 ---
+title: Tweaks
+date: 2005-06-14 00:00:00 Z
+categories:
+- news
+- apple
 layout: post
-title: "Tweaks"
-categories: [news, apple]
-published: true
 ---
 
 <img src="/images/designtweak1.png" class="left" alt="" />

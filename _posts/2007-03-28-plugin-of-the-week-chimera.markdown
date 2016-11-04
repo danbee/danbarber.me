@@ -1,8 +1,10 @@
 ---
+title: 'Plugin of the Week: Chimera'
+date: 2007-03-28 00:00:00 Z
+categories:
+- music
+- plugin-of-the-week
 layout: post
-title: "Plugin of the Week: Chimera"
-categories: [music, plugin-of-the-week]
-published: true
 ---
 
 I've decided that since I seem to be spending rather a lot of time searching for good free VST's, I'd share the fruits of my search with the world.  All the plugins I'll pick for this feature will be plugins that I actually use.

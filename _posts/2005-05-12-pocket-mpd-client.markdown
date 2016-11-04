@@ -1,8 +1,11 @@
 ---
+title: Pocket MPD Client
+date: 2005-05-12 00:00:00 Z
+categories:
+- neompc
+- geek
+- web-stuff
 layout: post
-title: "Pocket MPD Client"
-categories: [neompc, geek, web-stuff]
-published: true
 ---
 
 <a href="http://www.pixelhum.com/archives/2005-05-12/pocket-mpd-client/"><img class="centered" src="/images/mpd_client.png" /></a>

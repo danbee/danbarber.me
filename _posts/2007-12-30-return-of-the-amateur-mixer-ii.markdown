@@ -1,8 +1,11 @@
 ---
+title: 'Return of the Amateur Mixer: II'
+date: 2007-12-30 00:00:00 Z
+categories:
+- music
+- milar
+- mixit-2
 layout: post
-title: "Return of the Amateur Mixer: II"
-categories: [music, milar, mixit-2]
-published: true
 ---
 
 Well, I'm pretty confident that my mix is finished. Just need to burn it onto CD and listen to it in a few different places and then I can tweak accordingly.

@@ -1,8 +1,10 @@
 ---
+title: The Complete Guide to Optimising Web Images
+date: 2016-08-10 13:23:41 Z
+categories:
+- web design
+- images
 layout: post
-title: "The Complete Guide to Optimising Web Images"
-date: 2016-08-10T13:23:41+00:00
-categories: [web design, images]
 ---
 
 Optimising images for your website can be a bit of a black art, but it's well worth doing as the bandwidth savings can be large. It will also make a big difference to the speed at which your site loads.

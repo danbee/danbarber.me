@@ -1,8 +1,10 @@
 ---
+title: Windows Update Blues
+date: 2005-05-26 00:00:00 Z
+categories:
+- news
+- geek
 layout: post
-title: "Windows Update Blues"
-categories: [news, geek]
-published: true
 ---
 
 Windows XP Service Pack 2 has a habit of rebooting the computer if Windows Update is scheduled to install updates automatically.  This can result in lost data if you have unsaved work on your screen at the time.

@@ -1,8 +1,9 @@
 ---
+title: Sony Ericsson K750i
+date: 2005-04-08 00:00:00 Z
+categories:
+- gadgets
 layout: post
-title: "Sony Ericsson K750i"
-categories: [gadgets]
-published: true
 ---
 
 <a href="http://www.sonyericsson.com/spg.jsp?cc=gb&lc=en&ver=4000&template=pp1_loader&php=php1_10242&zone=pp&lm=pp1&pid=10242"><img src="/images/se-k750i.png" class="centered" alt="" /></a>

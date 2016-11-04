@@ -1,8 +1,15 @@
 ---
+title: Perian
+date: 2008-04-18 00:00:00 Z
+categories:
+- news
+- quicktime
+- media
+- xvid
+- divx
+- matroska
+- h264
 layout: post
-title: "Perian"
-categories: [news, quicktime, media, xvid, divx, matroska, h264]
-published: true
 ---
 
 [Perian](http://perian.org/#detail) is an open source Quicktime component that adds support for AVI, FLV, and MKV file formats, along with H.246 and XVid/DivX support among others.

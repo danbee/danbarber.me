@@ -1,8 +1,9 @@
 ---
+title: The Flip Side of Comment Spam
+date: 2005-01-21 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "The Flip Side of Comment Spam"
-categories: [clockrocket]
-published: true
 ---
 
 I had a rather worried sounding message from the friend who's server hosts this site.  He said a script that was part of my site (mt-comments.cgi) was almost bringing the server to its knees fairly regularly. 

@@ -1,8 +1,9 @@
 ---
+title: DoooooooooooM!!
+date: 2004-07-15 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "DoooooooooooM!!"
-categories: [clockrocket]
-published: true
 ---
 
 <p>It would appear that <a href="http://www.shacknews.com/finger/?fid=toddh@idsoftware.com">Doom 3 has gone gold!</a>  The official word from Todd Hollenshead is that it will arrive here in the UK on August 6th.</p>

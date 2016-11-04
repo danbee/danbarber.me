@@ -1,8 +1,9 @@
 ---
+title: Do Most PCI Wireless NICs Suck?
+date: 2006-05-06 00:00:00 Z
+categories:
+- geek
 layout: post
-title: "Do Most PCI Wireless NICs Suck?"
-categories: [geek]
-published: true
 ---
 
 <img class="left" src="/images/wifi.png" />I decided a week ago, while in B&Q, to add a PCI Wireless network card to my main PC.  I was originally planning to run cables from the corner of the lounge where the router is located, to the back bedroom where the computers are situated.

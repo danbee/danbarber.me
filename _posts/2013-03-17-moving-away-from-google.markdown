@@ -1,10 +1,8 @@
 ---
+title: Moving Away from Google
+date: 2013-03-17 11:28:00 Z
 layout: post
-title: "Moving Away from Google"
-date: 2013-03-17 11:28
 comments: true
-categories: 
-published: true
 ---
 
 In light of Google's recent announcement that they will be [shuttering Reader (among other things)](http://googleblog.blogspot.co.uk/2013/03/a-second-spring-of-cleaning.html) I've decided that it's time to move away from Gmail and reduce my reliance on any services provided by Google.

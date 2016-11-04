@@ -1,8 +1,9 @@
 ---
+title: Jazz
+date: 2005-01-25 00:00:00 Z
+categories:
+- clockrocket
 layout: post
-title: "Jazz"
-categories: [clockrocket]
-published: true
 ---
 
 Yogi Berra explains jazz via Rex Allen

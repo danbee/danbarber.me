@@ -1,8 +1,11 @@
 ---
+title: iPhone 4 Revisited
+date: 2010-07-23 00:00:00 Z
+categories:
+- apple
+- iphone-4
+- iphone
 layout: post
-title: "iPhone 4 Revisited"
-categories: [apple, iphone-4, iphone]
-published: true
 ---
 
 <figure>

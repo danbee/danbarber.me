@@ -1,10 +1,8 @@
 ---
+title: Design Eye for the Developer Guy
+date: 2013-04-28 18:03:00 Z
 layout: post
-title: "Design Eye for the Developer Guy"
-date: 2013-04-28 18:03
 comments: true
-categories: 
-published: true
 ---
 
 Here are the slides from my talk at [Digpen VI](http://www.digpen.com/VI/) in March. I'll get the audio up too as soon as I have it.

@@ -1,8 +1,7 @@
 ---
+title: Dear Firefox Guys...
+date: 2009-08-28 00:00:00 Z
 layout: post
-title: "Dear Firefox Guys..."
-categories: []
-published: true
 ---
 
 When are you planning to fix this?

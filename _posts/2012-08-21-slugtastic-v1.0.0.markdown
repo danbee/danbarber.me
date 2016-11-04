@@ -1,11 +1,15 @@
 ---
+title: Slugtastic v1.0.0
+date: 2012-08-21 10:09:00 Z
+categories:
+- rubygems
+- gem
+- rails
+- coding
 layout: post
-title: "Slugtastic v1.0.0"
-date: 2012-08-21 10:09
 comments: true
-categories: rubygems gem rails coding
-published: true
 ---
+
 I've just released my first proper Ruby gem. It's a simple permalink style slug generator for ActiveModel. Check it out at [Github](https://github.com/danbee/slugtastic) and use it in your Rails project by adding `gem "slugtastic"` to your Gemfile.
 
 Usage is very simple. Just add the following to your model:

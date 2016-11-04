@@ -1,8 +1,10 @@
 ---
+title: 'Plugin of the Week: SSL LMC-1'
+date: 2007-05-11 00:00:00 Z
+categories:
+- music
+- plugin-of-the-week
 layout: post
-title: "Plugin of the Week: SSL LMC-1"
-categories: [music, plugin-of-the-week]
-published: true
 ---
 
 This month on plugin of the week is [Solid State Logic's LMC-1 Listen Mic Compressor][ssllmclink].

@@ -1,8 +1,7 @@
 ---
+title: ZX Spectrum +2
+date: 2014-04-29 07:28:00 Z
 layout: post
-title: "ZX Spectrum +2"
-date: 2014-04-29T08:28:00+01:00
-categories: 
 ---
 
 <figure>

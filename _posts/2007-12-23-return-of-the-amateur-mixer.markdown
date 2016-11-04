@@ -1,8 +1,11 @@
 ---
+title: Return of the Amateur Mixer
+date: 2007-12-23 00:00:00 Z
+categories:
+- music
+- milar
+- mixit-2
 layout: post
-title: "Return of the Amateur Mixer"
-categories: [music, milar, mixit-2]
-published: true
 ---
 
 Well, another MiXiT event is upon us, and I thought it would be nice to blog my progress again.

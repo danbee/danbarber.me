@@ -1,7 +1,10 @@
 ---
+title: An Update
+date: 2013-11-09 00:00:00 Z
+categories:
+- life
+- work
 layout: post
-title: "An Update"
-categories: life work
 ---
 
 It's been quite a while now since I last posted, and much has happened over the last 12 months. We've moved to a new city and started new jobs.

@@ -1,8 +1,10 @@
 ---
+title: Media Box hardware build
+date: 2005-04-28 00:00:00 Z
+categories:
+- geek
+- gadgets
 layout: post
-title: "Media Box hardware build"
-categories: [geek, gadgets]
-published: true
 ---
 
 Well, the parts for my media box project arrived last week so I spent the weekend putting it together and configuring Ubuntu Linux to perform media box type duties.  The Software side is far from complete, but the machine build went smoothly and is documented here.
