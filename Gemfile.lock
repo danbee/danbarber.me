@@ -93,11 +93,11 @@ DEPENDENCIES
   jekyll-video-tag
   kramdown
   mini_magick
-  octopress
+  octopress (= 3.0.12.pre.1)
   octopress-deploy
   rake
   sass
   uglifier
 
 BUNDLED WITH
-   1.12.5
+   1.14.6

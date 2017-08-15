@@ -12,7 +12,7 @@ gem 'jekyll-video-tag'
 
 gem 'jekyll-staging'
 
-gem 'octopress'
+gem 'octopress', '3.0.12.pre.1'
 gem 'octopress-deploy'
 
 gem 'kramdown'
