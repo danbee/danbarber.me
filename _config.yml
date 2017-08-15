@@ -74,5 +74,35 @@ picture:
         width: '640'
       source_default:
         width: '400'
+    photo-square:
+      ppi:
+      - 1
+      - 2
+      attr:
+        class: "photo-square"
+        itemprop: image
+      source_large:
+        media: "(min-width: 769px)"
+        width: '800'
+      source_medium:
+        media: "(min-width: 480px)"
+        width: '640'
+      source_default:
+        width: '400'
+    photo-wide:
+      ppi:
+      - 1
+      - 2
+      attr:
+        class: "photo-square"
+        itemprop: image
+      source_large:
+        media: "(min-width: 769px)"
+        width: '1024'
+      source_medium:
+        media: "(min-width: 480px)"
+        width: '780'
+      source_default:
+        width: '490'
 kramdown:
   input: GFM
