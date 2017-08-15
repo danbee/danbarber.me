@@ -79,7 +79,7 @@ picture:
       - 1
       - 2
       attr:
-        class: "photo-square"
+        class: photo-square
         itemprop: image
       source_large:
         media: "(min-width: 769px)"
@@ -94,7 +94,7 @@ picture:
       - 1
       - 2
       attr:
-        class: "photo-square"
+        class: photo-square
         itemprop: image
       source_large:
         media: "(min-width: 769px)"

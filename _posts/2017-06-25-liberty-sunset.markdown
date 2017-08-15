@@ -1,12 +1,12 @@
 ---
 title: Liberty Sunset
-date: 2017-06-25T00:00:00+00:00
-layout: post
+date: 2017-06-25 00:00:00 Z
 categories:
-  - Sunset
-  - New York
-  - USA
-  - Statue of Liberty
+- Sunset
+- New York
+- USA
+- Statue of Liberty
+layout: post
 ---
 
 <figure class="photo-wide">

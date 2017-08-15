@@ -1,6 +1,6 @@
 ---
 title: Eisenhower Executive Office Building
-date: 2017-07-21T00:00:00+00:00
+date: 2017-07-21 00:00:00 Z
 layout: post
 ---
 
