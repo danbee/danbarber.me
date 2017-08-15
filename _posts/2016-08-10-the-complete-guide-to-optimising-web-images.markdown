@@ -41,9 +41,11 @@ The PNG format was designed as a replacement for the then patent-encumbered GIF 
 
 When saving your images for the web it is usually best to use the "Web Export..." feature of your image editor. I'll be using Photoshop in my examples, but most other similar apps have this feature.
 
-<figure style="margin-left: -5.6%; margin-right: -5.7%;">
-  {% image blog/the-complete-guide-to-optimising-web-images/web-export.png alt:"Photoshop's web export dialog box" class:"no-border" %}
-  <figcaption style="margin-left: 5.6%; margin-right: 5.7%;">Photoshop's Web Export dialogue box</figcaption>
+<figure>
+  <div style="margin-left: -5.6%; margin-right: -5.7%; margin-bottom: -5%;">
+    {% image blog/the-complete-guide-to-optimising-web-images/web-export.png alt:"Photoshop's web export dialog box" class:"no-border" %}
+  </div>
+  <figcaption>Photoshop's Web Export dialogue box</figcaption>
 </figure>
 
 The main control you need to worry about here is the "Quality" slider. This adjusts the amount of compression applied to the image and will affect the overall quality. Try playing with this control to get a feel for how it affects the final image. You will also see how it affects the file size of the image (shown at the bottom). 65-75% is generally a good starting point, but you may be able to get away with a lower value for certain kinds of image. Conversely you may have to set it higher to get a result you are happy with. Use your judgement here.
@@ -56,9 +58,11 @@ The first thing you need to decide when creating your PNG file is the target col
 
 Most image editing applications will only let you export a PNG file with an 8-bit alpha layer if you select 24-bit colour. This is a limitation of the application and not the format. You can use [ImageAlpha](http://pngmini.com) (OS X) or [PNGoo](http://pngquant.org/PNGoo.0.1.1.zip) (Windows) to reduce a 32-bit RGBA image down to an 8-bit paletted image while retaining the alpha transparency. Both of these tools use [pngquant](http://pngquant.org) to do the conversion. Simple images can often be reduced to 32 or 16 distinct colours, offering further savings!
 
-<figure style="margin-left: -5.4%; margin-right: -5.5%;">
-  {% image blog/the-complete-guide-to-optimising-web-images/imagealpha.png alt:"ImageAlpha on OS X" class:"no-border" %}
-  <figcaption style="margin-left: 5.4%; margin-right: 5.5%;">ImageAlpha on OS X</figcaption>
+<figure>
+  <div style="margin-left: -5.4%; margin-right: -5.5%; margin-bottom: -5%;">
+    {% image blog/the-complete-guide-to-optimising-web-images/imagealpha.png alt:"ImageAlpha on OS X" class:"no-border" %}
+  </div>
+  <figcaption>ImageAlpha on OS X</figcaption>
 </figure>
 
 There are some useful tools to enable you to further compress PNG images:

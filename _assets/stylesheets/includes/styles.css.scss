@@ -87,7 +87,6 @@ blockquote {
 }
 
 #content div.pagination, #content div.navigation {
-  text-align: center;
   font-size: 0.95em;
   height: 1.5em;
   position: relative;
@@ -129,12 +128,10 @@ blockquote {
 #content div.pagination {
   a {
     &.prev {
-      position: absolute;
-      left: 0;
+      float: left;
     }
     &.next {
-      position: absolute;
-      right: 0;
+      float: right;
     }
   }
 }
