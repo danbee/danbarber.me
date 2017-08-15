@@ -8,32 +8,45 @@ collections:
   uploads:
     title: Uploads
     output: true
+
 url: http://danbarber.me
 author: Dan Barber
 markdown: Kramdown
 description: Web designer and developer for thoughtbot in London. Drummer and all
   round musician.
+
 subscribe_rss: "/atom.xml"
+
 gems:
-- jekyll-paginate
-- jekyll-archives
-- jekyll-assets
-- jekyll_video_tag
-- bourbon
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-assets
+  - jekyll_video_tag
+  - bourbon
+
 simple_search: https://duckduckgo.com/
+
 exclude:
-- Gemfile
-- Gemfile.lock
-- README.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
 permalink: "/:title"
 excerpt_separator: "<!-- more -->"
 paginate: 10
 paginate_path: blog/page/:num
 recent_posts: 5
 excerpt_link: Read on &rarr;
+
+post_layout: post
+page_layout: page
+
+post_template: post.markdown
+page_template: page.markdown
+
 jekyll-archives:
   enabled:
-  - categories
+    - categories
   layout: page
   permalinks:
     year: "/:year/"
@@ -44,26 +57,25 @@ jekyll-archives:
 assets:
   prefix: "/assets"
   assets:
-  - "*.png"
-  - bundle.css
+    - "*.png"
+    - bundle.css
   digest: true
   sources:
-  - _assets/images
-  - _assets/icons
-  - _assets/javascripts
-  - _assets/stylesheets
-  - _assets/fonts
+    - _assets/images
+    - _assets/icons
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/fonts
   features:
     liquid: true
+
 picture:
   source: _pictures
   output: assets
   markup: picture
   presets:
     full-width:
-      ppi:
-      - 1
-      - 2
+      ppi: [1, 2]
       attr:
         itemprop: image
       source_large:
@@ -74,10 +86,9 @@ picture:
         width: '640'
       source_default:
         width: '400'
+
     photo-square:
-      ppi:
-      - 1
-      - 2
+      ppi: [1, 2]
       attr:
         class: photo-square
         itemprop: image
@@ -89,10 +100,9 @@ picture:
         width: '640'
       source_default:
         width: '400'
+
     photo-wide:
-      ppi:
-      - 1
-      - 2
+      ppi: [1, 2]
       attr:
         class: photo-square
         itemprop: image
@@ -104,5 +114,6 @@ picture:
         width: '780'
       source_default:
         width: '490'
+
 kramdown:
   input: GFM
