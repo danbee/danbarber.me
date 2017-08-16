@@ -85,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   facets
+  fastimage
   jekyll
   jekyll-archives
   jekyll-assets

@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rake'
 
+gem 'fastimage'
 gem 'mini_magick'
 
 gem 'jekyll'
