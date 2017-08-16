@@ -5,7 +5,7 @@ layout: post
 categories:
   - Black & white
   - USA
-  - Washington, DC
+  - Washington DC
   - Architecture
   - Eisenhower
 ---
