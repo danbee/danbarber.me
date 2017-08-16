@@ -1,25 +1,33 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'rake'
+gem "rake"
 
-gem 'fastimage'
-gem 'mini_magick'
+gem "fastimage"
+gem "mini_magick"
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'jekyll-archives'
-gem 'jekyll-assets'
-gem 'jekyll-video-tag'
+gem "jekyll"
 
-gem 'jekyll-staging'
+group :jekyll_plugins do
+  gem "jekyll-archives"
+  gem "jekyll-assets"
+  gem "jekyll-paginate"
+  gem "jekyll-picture-tag",
+    git: "https://github.com/danbee/jekyll-picture-tag.git",
+    branch: "update-gemspec"
+  gem "jekyll-video-tag"
+end
 
-gem 'octopress', '3.0.12.pre.1'
-gem 'octopress-deploy'
+gem "jekyll-staging"
 
-gem 'kramdown'
+gem "octopress", "3.0.12.pre.1"
+gem "octopress-deploy"
 
-gem 'facets'
+gem "kramdown"
 
-gem 'uglifier'
-gem 'sass'
-gem 'bourbon'
+gem "facets"
+
+gem "pry"
+
+gem "uglifier"
+gem "sass"
+gem "bourbon"

@@ -1,6 +1,7 @@
 ---
 title: Dan Barber
 timezone: UTC
+baseurl: ""
 collections:
   posts:
     title: Posts
@@ -17,10 +18,11 @@ description: Web designer and developer for thoughtbot in London. Drummer and al
 
 subscribe_rss: "/atom.xml"
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-assets
+  - jekyll-picture-tag
   - jekyll_video_tag
   - bourbon
 
