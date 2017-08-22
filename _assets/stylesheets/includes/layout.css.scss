@@ -4,8 +4,8 @@ $pad-min: 8.5% !default;
 header[role=banner] {
   padding: 1em 0 0.5em;
   h1 {
-    font-size: 3.43em;
-    margin: 0;
+    font-size: 1em;
+    margin: 0.25em 0 0.5em;
     a {
       color: white;
       line-height: 0;
@@ -50,12 +50,14 @@ nav[role=navigation] {
   font-size: 1em;
 }
 
+header[role=banner] h1 img {
+  width: 4.6982758621em;
+  height: 3.4051724138em;
+}
+
 @media only screen and (min-width: 450px) {
   body {
     font-size: 110%;
-  }
-  header[role=banner] h1 img {
-    height: 50px;
   }
 }
 
@@ -63,17 +65,11 @@ nav[role=navigation] {
   body {
     font-size: 125%;
   }
-  header[role=banner] h1 img {
-    height: 60px;
-  }
 }
 
 @media only screen and (min-width: 768px) {
   body {
     font-size: 135%;
-  }
-  header[role=banner] h1 img {
-    height: 80px;
   }
 }
 

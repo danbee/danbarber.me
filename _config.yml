@@ -10,7 +10,7 @@ collections:
     title: Uploads
     output: true
 
-url: http://danbarber.me
+url: https://danbarber.me
 author: Dan Barber
 markdown: Kramdown
 description: Web designer and developer for thoughtbot in London. Drummer and all
@@ -67,7 +67,6 @@ assets:
     - _assets/icons
     - _assets/javascripts
     - _assets/stylesheets
-    - _assets/fonts
   features:
     liquid: true
 
