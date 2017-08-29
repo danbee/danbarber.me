@@ -2,6 +2,11 @@
 title: "Four Corners"
 layout: post
 categories:
+- Sculpture
+- Storm King
+- Nature
+- Art Center
+- Hudson Valley
 date: 2017-08-29T18:04:53+00:00
 ---
 
