@@ -174,8 +174,10 @@ until I was all done.
 
 I'm super pleased with the finished board! It's a pleasure to type on although
 it took me a few days to get used to the 60% layout. I also made a bunch of
-tweaks to the key layout (now using the QMK firmware) which means the key
-legends no longer reflect what the keys do. I plan to get reprinted keycaps.
+tweaks to the key layout (now using the [QMK firmware](http://qmk.fm)) which
+means the key legends no longer reflect what the keys do. I plan to get
+reprinted keycaps. My current keymap is
+[here](https://github.com/danbee/qmk_firmware/blob/gh60-danbee/keyboards/gh60/keymaps/danbee/keymap.c).
 
 <figure>
   {% picture full-width blog/building-a-keyboard/DSCF7145.jpg
