@@ -33,6 +33,9 @@ exclude:
   - Gemfile.lock
   - README.md
 
+include:
+  - _redirects
+
 permalink: "/:title"
 excerpt_separator: "<!-- more -->"
 paginate: 10
