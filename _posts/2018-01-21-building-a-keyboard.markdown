@@ -57,7 +57,7 @@ Cherry stabilisers to the order.
 There are plenty of choices when it comes to 60% keyboard PCB's (GH60, Nerd60,
 FaceW, Satan, Zeal60, DZ60). The Zeal60 looked interesting at first--I felt it
 would be a good match for the Zealio switches--but I dismissed it early on due
-to it's price and the fact that I don't want RGB backlighting.
+to it's price and the fact that I didn't want RGB backlighting.
 
 I ended up going for the GH60 because it seemed like the most open option and
 had everything I needed. It's also nice to support open hardware where possible.
@@ -74,7 +74,8 @@ have enough cut outs to support many different layouts, including ISO. The
 problem with these plates is that some of the switches are not held particularly
 securely due to the extra cut outs. After some fruitless searching I decided to
 get my own plate cut out of 1.5mm stainless steel. This was relatively
-expensive—about double a pre-cut plate—but it meant I got exactly what I wanted.
+expensive—about double the price of a pre-cut plate—but it meant I got exactly
+what I wanted.
 
 The plate was cut by [Lasergist](http://lasergist.com).
 
