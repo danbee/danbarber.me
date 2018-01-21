@@ -82,12 +82,13 @@ The plate was cut by [Lasergist](http://lasergist.com).
 ### Keycaps
 
 Because I wanted full control over what was printed on the keycaps there was
-really only one option and that was to get them custom printed by
-[WASD Keyboards](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html).
+really only one option and that was to get them custom printed by [WASD
+Keyboards](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html).
 I had created a custom layout using their template for full size and TKL
-keyboards, so I took the same file and modified it for a [62 key layout]. I got
-the modifiers in black and the alpha keys in dark grey for a Dolch style two
-tone look.
+keyboards, so I took the same file and modified it for a
+[62 key layout](https://github.com/danbee/wasd-mac-uk-layout/pull/2). I got the
+modifiers in black and the alpha keys in dark grey for a Dolch style two tone
+look.
 
 ### Case
 
