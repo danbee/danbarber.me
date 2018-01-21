@@ -147,9 +147,9 @@ the switches I'd just soldered. I used a website called "Keyboard Tester" for
 this.
 
 <figure>
-  {% picture full-width blog/building-a-keyboard/IMG_6757.jpg
-     alt="The back of the PCB with the switches soldered." %}
-  <figcaption>All soldered up.</figcaption>
+  {% picture full-width blog/building-a-keyboard/IMG_6758.jpg
+     alt="The keyboard hooked up to my laptop to test the switches." %}
+  <figcaption>Testing the switches.</figcaption>
 </figure>
 
 With all the switches soldered into place and tested it was time to put the
@@ -163,9 +163,9 @@ key, space key and right shift key. Then I just worked my way down row by row
 until I was all done.
 
 <figure>
-  {% picture full-width blog/building-a-keyboard/IMG_6758.jpg
-     alt="The keyboard hooked up to my laptop to test the switches." %}
-  <figcaption>Testing the switches.</figcaption>
+  {% picture full-width blog/building-a-keyboard/DSCF7138.jpg
+     alt="The keyboard partway through fitting the keycaps" %}
+  <figcaption>Fitting the last few keycaps.</figcaption>
 </figure>
 
 I'm super pleased with the finished board! It's a pleasure to type on although
