@@ -48,8 +48,9 @@ I ordered a couple of switch testers from NovelKeys to try them out. I quickly
 decided that the Zealio switches were the way forward as they felt much smoother
 to me, with a longer, rounder tactile bump compared to the MODs.
 
-I ordered the switches directly from [ZealPC] and added Cherry stabilisers to
-the order.
+I ordered the switches directly from
+[ZealPC](https://zealpc.net/collections/switches/products/zealio) and added
+Cherry stabilisers to the order.
 
 ### PCB
 
@@ -61,7 +62,8 @@ to it's price and the fact that I don't want RGB backlighting.
 I ended up going for the GH60 because it seemed like the most open option and
 had everything I needed. It's also nice to support open hardware where possible.
 
-I ordered the PCB in black from [Techkeys.us].
+I ordered the PCB in black from
+[Techkeys.us](https://techkeys.us/collections/accessories/products/gh60).
 
 ### Plate
 
@@ -74,23 +76,25 @@ securely due to the extra cut outs. After some fruitless searching I decided to
 get my own plate cut out of 1.5mm stainless steel. This was relatively
 expensive—about double a pre-cut plate—but it meant I got exactly what I wanted.
 
-The plate was cut by [Lasergist].
+The plate was cut by [Lasergist](http://lasergist.com).
 
 ### Keycaps
 
 Because I wanted full control over what was printed on the keycaps there was
-really only one option and that was to get them custom printed by [WASD
-Keyboards]. I had created a custom layout using their template for full size and
-TKL keyboards, so I took the same file and modified it for a [62 key layout].
-I got the modifiers in black and the alpha keys in dark grey for a Dolch style
-two tone look.
+really only one option and that was to get them custom printed by
+[WASD Keyboards](http://www.wasdkeyboards.com/index.php/products/keycap-set/62-key-cherry-mx-keycap-set.html).
+I had created a custom layout using their template for full size and TKL
+keyboards, so I took the same file and modified it for a [62 key layout]. I got
+the modifiers in black and the alpha keys in dark grey for a Dolch style two
+tone look.
 
 ### Case
 
 The last thing I needed was a case. I'd decided early on that I wanted a high
 profile, silver aluminium case that would match well with my MacBook Pro.
-I ended up picking [this case] from KBDFans. It was heavier than I expected,
-even without the added steel weight!
+I ended up picking [this case](https://kbdfans.myshopify.com/products/mechanical-keyboard-shell-anode-aluminum-shell-gh60-poker-60-mechanical-keyboard-shell?variant=36017578253)
+from KBDFans. It was heavier than I expected, even without the added steel
+weight!
 
 <figure>
   {% picture full-width blog/building-a-keyboard/DSCF7133.jpg
@@ -108,11 +112,11 @@ putting it all together.
 
 The first thing I needed to do was to clip and lube the stabilisers. Cherry
 stabilisers can feel mushy and change the feel of the keys unless they are
-modded by [clipping two little plastic parts off the bottom of the inserts].
-Lubricating them helps to reduce their influence on the key feel even more.
-I used some Krytox lube that I ordered from [Techkeys.us] for this, putting
-a thin coat on the stems and on the stabilising wires where they contact the
-plastic parts.
+modded by [clipping two little plastic parts off the bottom of the
+inserts](https://youtu.be/C6hPoe3srcw). Lubricating them helps to reduce their
+influence on the key feel even more. I used some Krytox lube that I ordered from
+[Techkeys.us] for this, putting a thin coat on the stems and on the stabilising
+wires where they contact the plastic parts.
 
 Once the stabilisers were mounted onto the PCB I started placing the switches in
 the plate, starting with the four corners so I could get the plate and PCB
@@ -128,13 +132,13 @@ PCB.
 
 Once the switches were all fitted it was a simple matter of soldering all the
 legs to the pads on the PCB. I don't own a soldering iron myself so I used the
-services of the wonderful [Hack Manhattan] hack space. This was my first time
-doing through hole PCB soldering and I was a little nervous about messing it up
-so I was sure to read plenty of guidance on the Internet and watch a couple of
-Youtube videos. In the end it wasn't actually that tricky! The secret is using
-a temperature controlled iron and being sure to heat both the leg of the switch
-and the PCB pad at the same time. This is what makes the solder flow nicely and
-form a good connection.
+services of the wonderful [Hack Manhattan](https://hackmanhattan.com) hack
+space. This was my first time doing through hole PCB soldering and I was
+a little nervous about messing it up so I was sure to read plenty of guidance on
+the Internet and watch a couple of Youtube videos. In the end it wasn't actually
+that tricky! The secret is using a temperature controlled iron and being sure to
+heat both the leg of the switch and the PCB pad at the same time. This is what
+makes the solder flow nicely and form a good connection.
 
 <figure>
   {% picture full-width blog/building-a-keyboard/IMG_6757.jpg
@@ -143,8 +147,8 @@ form a good connection.
 </figure>
 
 After I'd soldered each row I connected the keyboard to my computer to test all
-the switches I'd just soldered. I used a website called "Keyboard Tester" for
-this.
+the switches I'd just soldered. I used a website called [Keyboard
+Tester](http://www.keyboardtester.com) for this.
 
 <figure>
   {% picture full-width blog/building-a-keyboard/IMG_6758.jpg
