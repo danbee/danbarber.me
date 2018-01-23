@@ -15,12 +15,12 @@ group :jekyll_plugins do
     git: "https://github.com/danbee/jekyll-picture-tag.git",
     branch: "update-gemspec"
   gem "jekyll-video-tag"
+  gem "jekyll-json-feed"
 end
 
 gem "jekyll-staging"
 
 gem "octopress", "3.0.12.pre.1"
-gem "octopress-deploy"
 
 gem "kramdown"
 

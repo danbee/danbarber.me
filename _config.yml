@@ -17,6 +17,7 @@ description: Web designer and developer for thoughtbot in London. Drummer and al
   round musician.
 
 subscribe_rss: "/atom.xml"
+subscribe_json: "/feed.json"
 
 plugins:
   - jekyll-paginate
@@ -24,6 +25,7 @@ plugins:
   - jekyll-assets
   - jekyll-picture-tag
   - jekyll_video_tag
+  - jekyll-json-feed
   - bourbon
 
 simple_search: https://duckduckgo.com/
