@@ -13,7 +13,7 @@ date: 2018-01-21T17:38:21+00:00
      alt="My custom keyboard" %}
 </figure>
 
-When I realised I'd be staying in the US, I realised it would be cheaper to sell
+When I realised I'd be staying in the US, I decided it would be cheaper to sell
 my current mechanical keyboard to someone back in the UK and buy myself a new
 one here. It would also give me the opportunity to try something a bit
 different.
