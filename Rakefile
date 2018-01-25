@@ -1,27 +1,15 @@
 # Including only the changed build task
-require 'jekyll'
+require "jekyll"
+require "./_lib/netlify"
 
 task default: %w[build]
 
 desc "Build the site"
 task :build do
-  config = Jekyll.configuration(config_params)
+  config = Jekyll.configuration({
+    url: Netlify.site_url
+  })
   site = Jekyll::Site.new(config)
+
   Jekyll::Commands::Build.build(site, config)
-end
-
-def config_params
-  { url: site_url }
-end
-
-def site_url
-  if production?
-    ENV["URL"]
-  else
-    ENV["DEPLOY_URL"]
-  end
-end
-
-def production?
-  ENV["CONTEXT"] == "production"
 end
