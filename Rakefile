@@ -20,5 +20,5 @@ def site_url
     ENV["URL"]
   else
     ENV["DEPLOY_URL"]
-  end
+  end || "https://danbarber.me"
 end
