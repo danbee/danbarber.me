@@ -5,7 +5,6 @@ task default: %w[build]
 
 desc "Build the site"
 task :build do
-  puts "Deploying for: #{site_url}"
   config = Jekyll.configuration(config_params)
   site = Jekyll::Site.new(config)
   Jekyll::Commands::Build.build(site, config)
@@ -16,9 +15,13 @@ def config_params
 end
 
 def site_url
-  if ENV["CONTEXT"] == "production"
+  if production?
     ENV["URL"]
   else
     ENV["DEPLOY_URL"]
-  end || "https://danbarber.me"
+  end
+end
+
+def production?
+  ENV["CONTEXT"] == "production"
 end
