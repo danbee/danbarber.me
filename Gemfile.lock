@@ -125,7 +125,6 @@ DEPENDENCIES
   kramdown
   mini_magick
   octopress (= 3.0.12.pre.1)
-  octopress-deploy
   pry
   rake
   sass
