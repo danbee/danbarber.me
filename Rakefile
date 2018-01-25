@@ -8,15 +8,11 @@ task :build do
   puts "Deploying for: #{site_url}"
   config = Jekyll.configuration(config_params)
   site = Jekyll::Site.new(config)
-  Jekyll::Commands::Build.build site, config
+  Jekyll::Commands::Build.build(site, config)
 end
 
 def config_params
-  if site_url
-    { url: site_url }
-  else
-    {}
-  end
+  { url: site_url }
 end
 
 def site_url
