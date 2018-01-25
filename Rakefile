@@ -16,5 +16,9 @@ def config_params
 end
 
 def site_url
-  ENV["DEPLOY_URL"]
+  if ENV["CONTEXT"] == "production"
+    ENV["URL"]
+  else
+    ENV["DEPLOY_URL"]
+  end
 end
