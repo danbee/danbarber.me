@@ -9,3 +9,8 @@ categories:
   - web
 ---
 This is my first post from Netlify CMS.
+
+```ruby
+This is a code block
+With some ruby code.
+```
