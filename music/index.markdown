@@ -24,8 +24,8 @@ in the streaming music compo.
 
 #### Home
 
-Written and recorded in 2016 during my first trip to New York City. It was recorded on my
-iPhone using a Shure MV88 mic and mixed in Reaper.
+Written and recorded in 2016 during my first trip to New York City. It was
+recorded on my iPhone using a Shure MV88 mic and mixed in Reaper.
 
 <p><audio controls preload="metadata">
   <source
