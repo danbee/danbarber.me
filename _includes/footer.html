@@ -28,6 +28,9 @@
   }
 </script>
 
+<!-- CONTEXT: {{ site.env.CONTEXT }} -->
+<!-- URL: {{ site.env.URL }} -->
+
 {% if site.env.CONTEXT == "production" %}
   {% include analytics.html %}
 {% endif %}
