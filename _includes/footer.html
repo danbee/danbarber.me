@@ -28,7 +28,9 @@
   }
 </script>
 
+<!-- CONTEXT: {{ site.env.CONTEXT }} -->
 <!-- PATH: {{ site.env.PATH }} -->
+<!-- FOO: {{ site.env.FOO }} -->
 
 {% if site.env.CONTEXT == "production" %}
   {% include analytics.html %}
