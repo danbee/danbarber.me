@@ -28,4 +28,8 @@
   }
 </script>
 
-{% include analytics.html %}
+<!-- CONTEXT: {{ site.context }} -->
+
+{% if site.production? %}
+  {% include analytics.html %}
+{% endif %}

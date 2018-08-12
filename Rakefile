@@ -7,7 +7,9 @@ task default: %w[build]
 desc "Build the site"
 task :build do
   config = Jekyll.configuration({
-    url: Netlify.site_url
+    context: Netlify.context,
+    production?: Netlify.production?,
+    url: Netlify.site_url,
   })
   site = Jekyll::Site.new(config)
 

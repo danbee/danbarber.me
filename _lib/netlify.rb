@@ -7,9 +7,11 @@ module Netlify
     end
   end
 
-  private
-
   def self.production?
-    ENV["CONTEXT"] == "production"
+    context == "production"
+  end
+
+  def self.context
+    ENV["CONTEXT"]
   end
 end
