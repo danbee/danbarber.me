@@ -36,7 +36,7 @@ We had a variety of upgrades attached to this machine over the years. The first 
 It would be somewhat remiss of me to write an article about the ZX Spectrum without mentioning the games! The price and subsequent popularity of the Spectrum meant that a great many games were released for it. I have fond memories of playing the likes of Manic Miner, Head Over Heels, Rainbow Islands and Batman the Movie.
 
 <figure>
-  <img src="http://danbarber.me.s3.amazonaws.com/zx-spectrum-plus-2/games.png" alt="Spectrum games selection">
+  <img src="https://f001.backblazeb2.com/file/danbarber-me/zx-spectrum-plus-2/games.png" alt="Spectrum games selection">
   <figcaption>Rainbow Islands, Head Over Heels, Batman the Movie, Fantasy World Dizzy</figcaption>
 </figure>
 

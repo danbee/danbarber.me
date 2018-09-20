@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-<img src="http://danbarber.me.s3.amazonaws.com/images/2005-07-29-notes-from-a-switcher-part-3/quicktime.png" class="left" />
+<img src="https://f001.backblazeb2.com/file/danbarber-me/images/2005-07-29-notes-from-a-switcher-part-3/quicktime.png" class="left" />
 
 Just a few notes in this one today.  I'm still enjoying the Mac OS experience, but I have a few gripes to make.  Mainly things that I'd like to see added, features I've got used to on other systems.
 

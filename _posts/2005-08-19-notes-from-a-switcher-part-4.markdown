@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-<img src="http://danbarber.me.s3-external-3.amazonaws.com/images/2005-08-19-notes-from-a-switcher-part-4/applemouse.jpg" class="left" />
+<img src="https://f001.backblazeb2.com/file/danbarber-me/images/2005-08-19-notes-from-a-switcher-part-4/applemouse.jpg" class="left" />
 
 So far, the one thing that has been bugging the hell out of me with OS X is the mouse control panel.  On Windows I used to just switch the acceleration off altogether, as I'm firmly in the camp that believes the mouse pointer should follow the mouse 1:1.  In fact, I even had a registry hack that disabled mouse acceleration completely, even when the 'Enhance pointer precision' option was checked.  While we're on that subject, who decided on the name of that option anyway?!?
 

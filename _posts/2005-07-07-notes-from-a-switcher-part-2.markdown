@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-<img src="http://danbarber.me.s3.amazonaws.com/images/2005-07-07-notes-from-a-switcher-part-2/osxtiger.jpg" class="left" />
+<img src="https://f001.backblazeb2.com/file/danbarber-me/images/2005-07-07-notes-from-a-switcher-part-2/osxtiger.jpg" class="left" />
 
 I've been using my Powerbook for about 3 weeks now, and I'm enjoying it immensely.  The OS is slick and quite intuative, although coming from Windows I've had quite a lot to get used to!  The overall experience has so far been very positive.
 
