@@ -11,12 +11,12 @@ gem "jekyll"
 group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-assets"
+  gem "jekyll-json-feed"
   gem "jekyll-paginate"
   gem "jekyll-picture-tag",
     git: "https://github.com/danbee/jekyll-picture-tag.git",
     branch: "update-gemspec"
   gem "jekyll-video-tag"
-  gem "jekyll-json-feed"
 end
 
 gem "jekyll-staging"
@@ -29,6 +29,6 @@ gem "facets"
 
 gem "pry"
 
-gem "uglifier"
-gem "sass"
 gem "bourbon"
+gem "sass"
+gem "uglifier"
