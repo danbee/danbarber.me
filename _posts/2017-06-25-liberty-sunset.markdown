@@ -2,10 +2,11 @@
 title: Liberty Sunset
 date: 2017-06-25 00:00:00 Z
 categories:
-- Sunset
-- New York
-- USA
-- Statue of Liberty
+  - photos
+  - sunset
+  - new york
+  - usa
+  - statue of liberty
 layout: post
 ---
 

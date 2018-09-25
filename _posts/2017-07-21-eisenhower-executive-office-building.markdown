@@ -3,11 +3,12 @@ title: Eisenhower Executive Office Building
 date: 2017-07-21 00:00:00 Z
 layout: post
 categories:
-  - Black & white
-  - USA
-  - Washington DC
-  - Architecture
-  - Eisenhower
+  - photos
+  - black & white
+  - usa
+  - washington dc
+  - architecture
+  - eisenhower
 ---
 
 <figure class="photo-square">
