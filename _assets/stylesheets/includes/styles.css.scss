@@ -21,8 +21,8 @@ body > header {
 }
 
 a {
-  @include transition(color 0.25s 0s ease);
   color: $link-color;
+  transition: color 0.25s 0s ease;
   &:hover {
     color: $link-color-hover;
   }
@@ -45,9 +45,9 @@ header nav {
     padding-top: 0.15em;
   }
   a {
-    @include transition(text-shadow 0.25s 0s ease);
     color: white;
     text-decoration: none;
+    transition: text-shadow 0.25s 0s ease;
     &:hover, &:focus {
       color: white;
       text-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
