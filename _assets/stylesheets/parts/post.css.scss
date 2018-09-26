@@ -60,7 +60,7 @@ article {
       margin-bottom: 1.5em;
       text-decoration: none;
       color: mix($text-color, $text-color-light);
-      @include transition(background-color 0.5s);
+      transition: background-color 0.5s;
       &:hover {
         background: $link-color-hover;
         text-shadow: none;
