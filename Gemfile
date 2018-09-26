@@ -16,7 +16,6 @@ group :jekyll_plugins do
     git: "https://github.com/danbee/jekyll-picture-tag.git",
     branch: "update-gemspec"
   gem "jekyll-video-tag"
-  gem "jekyll-json-feed"
 end
 
 gem "jekyll-staging"
@@ -29,6 +28,6 @@ gem "facets"
 
 gem "pry"
 
-gem "uglifier"
-gem "sass"
 gem "bourbon"
+gem "sass"
+gem "uglifier"
