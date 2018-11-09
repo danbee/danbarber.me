@@ -1,6 +1,14 @@
-  <header role="banner">
-    <div class="container">
-      <nav role="navigation">{% include navigation.html %}</nav>
-      <h1><a class="logo" href="/">{% img logo.svg alt="Dan Barber" %}</a></h1>
-    </div>
-  </header>
+<header class="site-header" role="banner">
+  <div class="container site-header__container">
+    <a class="logo" href="/" class="site-header__logo-link">
+      {% svg _assets/images/logo.svg title="Dan Barber" class="site-header__logo" %}
+    </a>
+
+    <nav role="navigation" class="site-header__navigation">
+      <ul>
+        <li><a href="{{ root_url }}/">Blog</a></li>
+        <li><a href="{{ root_url }}/about">About</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>

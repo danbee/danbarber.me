@@ -11,7 +11,7 @@ categories:
   - eisenhower
 ---
 
-<figure class="photo-square">
+<figure class="photo photo--square">
   {% picture photo-square blog/eisenhower-executive-office-building/DSCF4369.jpg alt="Eisenhower Executive Office Building" %}
   <figcaption>Fuji X-E2, XF 35mm, ISO 1250, 1/60 sec at ƒ/1.4</figcaption>
 </figure>

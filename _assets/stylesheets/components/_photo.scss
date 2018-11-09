@@ -1,13 +1,14 @@
 $photo-wide-max-width: 1024px;
 
-figure.photo-wide {
+.photo--wide {
   padding-left: 0;
   padding-right: 0;
 }
 
 @media only screen and (max-width: 1048px) {
-  figure.photo-wide {
+  .photo--wide {
     max-width: 100%;
+
     img {
       margin: -0.5em 0;
       padding: 0.5em 0;
@@ -16,7 +17,7 @@ figure.photo-wide {
 }
 
 @media only screen and (min-width: 1049px) {
-  figure.photo-wide {
+  .photo--wide {
     max-width: $photo-wide-max-width;
   }
 }

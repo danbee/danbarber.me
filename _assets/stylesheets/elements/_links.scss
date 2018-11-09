@@ -1,0 +1,12 @@
+a {
+  color: $link-color;
+  transition: color 0.25s 0s ease;
+
+  &:hover {
+    color: $link-color-hover;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    color: $link-color-dark;
+  }
+}

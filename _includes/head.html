@@ -16,28 +16,28 @@
 <link rel="alternate" type="application/json" title="{{site.title}} - Photos" href="{{ site.url }}/feed.photos.json">
 
 <!-- Large favicon for Opera Speed Dial -->
-<link rel="icon" type="image/png" href="{{ 'speeddial-icon.png' | asset_path }}">
+<link rel="icon" type="image/png" href="{% asset speeddial-icon.png @path %}">
 
 <!-- iOS favicons -->
-<link href="{{ 'favicon.ico' | asset_path }}" rel="shortcut icon">
-{{ 'styles' | stylesheet }}
-{{ 'main' | javascript }}
+<link href="{% asset favicon.ico @path %}" rel="shortcut icon">
+{% asset styles.css %}
+{% asset main.js %}
 <!-- 144x144 for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon" sizes="144x144" href="{{ 'apple-touch-icon-144x144.png' | asset_path }}">
+<link rel="apple-touch-icon" sizes="144x144" href="{% asset apple-touch-icon-144x144.png @path %}">
 <!-- 114x114 for iPhone 4, 4S, 5 and 2012 iPod Touch -->
-<link rel="apple-touch-icon" sizes="114x114" href="{{ 'apple-touch-icon-114x114.png' | asset_path }}">
+<link rel="apple-touch-icon" sizes="114x114" href="{% asset apple-touch-icon-114x114.png @path %}">
 <!-- 72x72 for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon" sizes="72x72" href="{{ 'apple-touch-icon-72x72.png' | asset_path }}">
+<link rel="apple-touch-icon" sizes="72x72" href="{% asset apple-touch-icon-72x72.png @path %}">
 <!-- 57x57 for iPhone 3GS, 2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon" href="{{ 'apple-touch-icon.png' | asset_path }}">
+<link rel="apple-touch-icon" href="{% asset apple-touch-icon.png @path %}">
 
 <!-- Windows 8 Pinned Site -->
-<meta name="msapplication-TileImage" content="{{ 'win8-pinsite.png' | asset_path }}">
+<meta name="msapplication-TileImage" content="{% asset win8-pinsite.png @path }}">
 <meta name="msapplication-TileColor" content="#4B8400">
 <meta name="application-name" content="DanBarber.me">
 
 <!-- Safari pinned tab -->
-<link rel="mask-icon" href="{{ 'favicon.svg' | asset_path }}" color="#4B8400">
+<link rel="mask-icon" href="{% asset favicon.svg @path %}" color="#4B8400">
 
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7434852/6285372/css/fonts.css">
 

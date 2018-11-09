@@ -1,0 +1,11 @@
+body {
+  color: $text-color;
+  font-family: $body-font-family;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 0;
+
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
+}

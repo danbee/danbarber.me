@@ -43,7 +43,7 @@ When saving your images for the web it is usually best to use the "Web Export...
 
 <figure>
   <div style="margin-left: -5.6%; margin-right: -5.7%; margin-bottom: -5%;">
-    {% image blog/the-complete-guide-to-optimising-web-images/web-export.png alt:"Photoshop's web export dialog box" class:"no-border" %}
+    {% asset blog/the-complete-guide-to-optimising-web-images/web-export.png alt:"Photoshop's web export dialog box" class="no-border" %}
   </div>
   <figcaption>Photoshop's Web Export dialogue box</figcaption>
 </figure>
@@ -60,7 +60,7 @@ Most image editing applications will only let you export a PNG file with an 8-bi
 
 <figure>
   <div style="margin-left: -5.4%; margin-right: -5.5%; margin-bottom: -5%;">
-    {% image blog/the-complete-guide-to-optimising-web-images/imagealpha.png alt:"ImageAlpha on OS X" class:"no-border" %}
+    {% asset blog/the-complete-guide-to-optimising-web-images/imagealpha.png alt:"ImageAlpha on OS X" class="no-border" %}
   </div>
   <figcaption>ImageAlpha on OS X</figcaption>
 </figure>

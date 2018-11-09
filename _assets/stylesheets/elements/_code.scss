@@ -1,0 +1,14 @@
+pre,
+code,
+tt {
+  font-family: $mono;
+  font-weight: 500;
+}
+
+code {
+  border-radius: 0.25rem;
+  display: inline-block;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  padding: 0 0.3rem;
+}

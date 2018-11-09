@@ -1,0 +1,17 @@
+blockquote {
+  font-size: 1rem;
+  font-style: italic;
+  line-height: 1.6;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+blockquote:before {
+  content: "“";
+  float: left;
+  font-family: $body-font-family;
+  font-size: 2.75em;
+  margin-top: 0.1em;
+  opacity: 0.3;
+  text-indent: -0.6em;
+}

@@ -1,0 +1,47 @@
+// 0. Vendor - Imported from other source
+@import "bourbon";
+
+// 1. Settings – used with preprocessors and contain font,
+//    colors definitions, etc.
+@import "settings/global";
+@import "settings/colors";
+@import "settings/typography";
+
+// 2. Tools – globally used mixins and functions.
+//    It’s important not to output any CSS in the first 2 layers.
+@import "tools/container";
+
+// 3. Generic – reset and/or normalize styles, box-sizing definition, etc.
+//    This is the first layer which generates actual CSS.
+
+// 4. Elements – styling for bare HTML elements (like H1, A, etc.).
+//    These come with default styling from the browser so we can redefine
+//    them here.
+@import "elements/abbr";
+@import "elements/blockquote";
+@import "elements/body";
+@import "elements/code";
+@import "elements/dl";
+@import "elements/headings";
+@import "elements/html";
+@import "elements/links";
+@import "elements/lists";
+@import "elements/p";
+
+// 5. Objects – class-based selectors which define undecorated design patterns,
+//    for example media object known from OOCSS
+@import "objects/container";
+@import "objects/highlight";
+@import "objects/video-container";
+
+// 6. Components – specific UI components.
+//    This is where majority of our work takes place and our UI components
+//    are often composed of Objects and Components
+@import "components/site-header";
+@import "components/site-footer";
+@import "components/blog-post";
+@import "components/pagination";
+@import "components/photo";
+
+// 7. Utilities – utilities and helper classes with ability to override
+//    anything which goes before in the triangle, eg. hide helper class

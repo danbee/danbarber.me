@@ -1,0 +1,12 @@
+@import "lib/solarized-dark";
+
+.highlight {
+  border-radius: 0.25em;
+  margin: 1.5em 0;
+  overflow: auto;
+  padding: 0.5em 0.75em;
+
+  pre {
+    margin: 0;
+  }
+}

@@ -1,14 +1,21 @@
-$background-color: white;
+$white: #fff;
+
+$background-color: $white;
+$background-color-dark: #222;
 
 $text-color: #333;
+$text-color-dark: #ddd;
 $text-color-light: lighten($text-color, 45%);
 $heading-color: #333;
+$heading-color-dark: #ddd;
 $meta-text-color: lighten($text-color, 45%);
 $header-color: #518F00;
 
 $border-color: #ccc;
+$border-color-dark: #666;
 
 $link-color: rgb(24, 99, 161);
+$link-color-dark: lighten($link-color, 25%);
 $link-color-hover: lighten($link-color, 10%);
 
 $footer-link-color: lighten($text-color, 25%);

@@ -10,12 +10,12 @@ layout: default
   {% for post in paginator.posts %}
     {% assign content = post.content %}
 
-    <article>
-      {% include article.html %}
+    <article class="blog-post">
+      {% include index_article.html %}
     </article>
   {% endfor %}
 
-  <div class="pagination">
+  <div class="container pagination">
     {% if paginator.next_page %}
       <a class="prev" href="{{ paginator.next_page_path }}">&larr; Older</a>
     {% endif %}

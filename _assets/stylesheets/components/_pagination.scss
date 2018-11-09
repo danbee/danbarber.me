@@ -1,0 +1,40 @@
+.pagination {
+  font-size: 0.95em;
+  height: 1.5em;
+  padding: {
+    bottom: 1.5em;
+    top: 1.5em;
+  };
+  position: relative;
+
+  &:after {
+    clear: both;
+    content: "";
+    display: block;
+  }
+
+  a {
+    color: $text-color-light;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+
+    &[href*=archive] {
+      &:before,
+      &:after {
+        content: "—";
+        padding: 0 0.3em;
+      }
+    }
+
+    &.prev {
+      float: left;
+    }
+
+    &.next {
+      float: right;
+    }
+  }
+}

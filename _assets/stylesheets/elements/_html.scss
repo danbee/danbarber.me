@@ -1,0 +1,24 @@
+html {
+  background: $background-color;
+  font-size: 100%;
+
+  @media (prefers-color-scheme: dark) {
+    background: $background-color-dark;
+  }
+
+  @media only screen and (min-width: 450px) {
+    font-size: 110%;
+  }
+
+  @media only screen and (min-width: 650px) {
+    font-size: 125%;
+  }
+
+  @media only screen and (min-width: 768px) {
+    font-size: 135%;
+  }
+
+  @media only screen and (min-width: 892px) {
+    font-size: 145%;
+  }
+}

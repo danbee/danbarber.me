@@ -1,21 +1,25 @@
-body > footer {
-  text-align: center;
+.site-footer {
   font-size: 0.8em;
-  position: relative;
-  padding-top: 1em;
-  padding-bottom: 1em;
   margin-bottom: 3em;
-  border-radius-bottom: 0.4em;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  position: relative;
+  text-align: center;
   z-index: 1;
 
   a {
     color: $footer-link-color;
+    text-decoration: none;
+
     &:hover { color: $footer-link-color-hover; }
     &:visited { color: $footer-link-color; }
-    text-decoration: none;
   }
 
-  p:last-child { margin-bottom: 0; }
+  p {
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 
   fieldset {
     border: 0;
