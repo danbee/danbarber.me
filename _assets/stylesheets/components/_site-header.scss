@@ -1,6 +1,8 @@
+$_header-link-focus-text-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
+
 .site-header {
   background-color: $header-color;
-  padding: 1rem 0 1rem;
+  padding: 1rem 0;
 }
 
 .site-header__container {
@@ -23,24 +25,29 @@
   position: relative;
 
   ul {
-    list-style: none;
+    border: 0;
     display: block;
+    list-style: none;
     margin: 0;
     padding: 0;
-    border: 0;
-    li {
-      padding-left: 1.25em;
-      float: left;
-    }
     padding-top: 0.15em;
+
+    li {
+      float: left;
+      padding-left: 1.25em;
+    }
+
   }
+
   a {
     color: white;
     text-decoration: none;
     transition: text-shadow 0.25s 0s ease;
-    &:hover, &:focus {
-      color: white;
-      text-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
+
+    &:hover,
+    &:focus {
+      color: $white;
+      text-shadow: $_header-link-focus-text-shadow;
     }
   }
 }
