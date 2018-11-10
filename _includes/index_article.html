@@ -1,25 +1,25 @@
-<header class="container blog-post__header">
+<header class="container article__header">
   {% if post.external-url %}<!-- This defines how Octopress will use posts with external-url. -->
-  <h1 class="blog-post__title"><a href="{{ post.external-url }}">{% if site.titlecase %}{{ post.title | titlecase }} &rarr;{% else %}{{ post.title }}{% endif %}</a></h1>
+  <h1 class="article__title"><a href="{{ post.external-url }}">{% if site.titlecase %}{{ post.title | titlecase }} &rarr;{% else %}{{ post.title }}{% endif %}</a></h1>
   {% else %}<!-- Now we're back to normal posts. Note the links used under href in both headers.-->
-  <h1 class="blog-post__title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
+  <h1 class="article__title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h1>
   {% endif %}
 
   {% if post.date %}<p class="meta">{% include post/date.html date=post.date %}{{ time }}</p>{% endif %}
 </header>
 
-<div class="blog-post__content">
+<div class="article__content">
   {{ post.excerpt }}
 </div>
 
 {% if post.content contains site.excerpt_separator %}
-  <footer class="blog-post__footer container">
-    <a rel="full-article" class="blog-post__read-on" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+  <footer class="article__footer container">
+    <a rel="full-article" class="article__read-on" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
   </footer>
 {% endif %}
 
 {% if post.external-url %}
-  <div class="blog-post__content">
+  <div class="article__content">
     <p><a href="{{ root_url }}{{ post.url }}">Permalink</a></p><!-- add permalink at end of link posts; could be text or glyph -->
   </div>
 {% endif %}

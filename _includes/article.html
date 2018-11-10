@@ -1,18 +1,18 @@
-<header class="container blog-post__header">
+<header class="container article__header">
   {% if page.external-url %}
-  <h1 class="blog-post__title"><a href="{{ page.external-url }}">{% if site.titlecase %}{{ page.title | titlecase }} &rarr;{% else %}{{ page.title }}{% endif %}</a></h1>
+  <h1 class="article__title"><a href="{{ page.external-url }}">{% if site.titlecase %}{{ page.title | titlecase }} &rarr;{% else %}{{ page.title }}{% endif %}</a></h1>
   {% else %}
-  <h1 class="blog-post__title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+  <h1 class="article__title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
   {% endif %}
 
   {% if page.date %}<p class="meta">{% include post/date.html date=page.date %}{{ time }}</p>{% endif %}
 </header>
 
-<div class="blog-post__content">
+<div class="article__content">
   {{ content }}
 </div>
 
-<footer class="blog-post__footer container">
+<footer class="article__footer container">
   <p class="meta">
     {% if page.date %}{% include post/date.html date=page.date %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}{% endif %}
     |
@@ -21,7 +21,7 @@
 </footer>
 
 {% if post.external-url %}
-  <div class="blog-post__content">
+  <div class="article__content">
     <p><a href="{{ root_url }}{{ post.url }}">Permalink</a></p><!-- add permalink at end of link posts; could be text or glyph -->
   </div>
 {% endif %}

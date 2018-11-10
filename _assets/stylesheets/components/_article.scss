@@ -1,6 +1,6 @@
 $_media-item-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
 
-.blog-post {
+.article {
   border-bottom: 1px dashed $border-color;
   padding-bottom: 1.5rem;
 
@@ -48,7 +48,7 @@ $_media-item-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   }
 }
 
-.blog-post__header {
+.article__header {
   .meta {
     color: $meta-text-color;
     font-size: 0.8em;
@@ -63,7 +63,7 @@ $_media-item-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   }
 }
 
-.blog-post__title {
+.article__title {
   font-size: 1.35rem;
 
   a {
@@ -81,13 +81,13 @@ $_media-item-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
   }
 }
 
-.blog-post__content {
+.article__content {
   > * {
     @include container;
   }
 }
 
-.blog-post__read-on {
+.article__read-on {
   background: darken($background-color, 8);
   border-radius: 2px;
   color: mix($text-color, $text-color-light);

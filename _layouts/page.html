@@ -5,17 +5,19 @@ layout: default
 {% include header.html %}
 
 <div id="content">
-  <article role="article">
+  <article class="article" role="article">
     {% if page.title %}
-      <header>
-        <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+      <header class="article__header container">
+        <h1 class="article__title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
     {% endif %}
 
-    <div class="entry-content">{{ content }}</div>
+    <div class="article__content">
+      {{ content }}
+    </div>
 
     {% unless page.footer == false %}
-      <footer>
+      <footer class="article__footer">
         {% if page.date or page.author %}<p class="meta">
           {% if page.author %}{% include post/author.html %}{% endif %}
           {% if page.categories %}{% include post/categories.html %}{% endif %}
