@@ -53,7 +53,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
-    jekyll-assets (3.0.11)
+    jekyll-assets (3.0.12)
       activesupport (~> 5.0)
       execjs (~> 2.7)
       extras (~> 0.2)
