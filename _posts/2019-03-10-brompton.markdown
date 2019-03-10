@@ -1,0 +1,30 @@
+---
+title: "Brompton"
+layout: post
+categories:
+  - photos
+tags:
+  - bikes
+  - fun
+  - brompton
+date: 2019-03-10T17:24:23+00:00
+---
+
+<figure class="photo photo--wide">
+  {% picture photo-wide blog/brompton/IMG_0927.jpg alt="Brompton" %}
+  <figcaption>Taken on February 22nd, 2019. iPhone X wide angle, ISO 20, 1/787 sec at ƒ/1.8</figcaption>
+</figure>
+
+I've coveted the Brompton folding bike for a few years now, and finally decided
+to get myself one after find more and more badly maintained Citibikes. It's
+a fantastic piece of engineering and great fun to ride. It's also a real head
+turner, especially when folding or unfolding the bike!
+
+Mine is an S6L Nickel Edition. S means sporty flat handlebars, 6 means it has
+six gears; three on a wide range Sturmey Archer hub and two on a little
+derailleur system, and the L means it has mud guards. The six speed setup works
+surprisingly well, and the mud guards keep all the muck off my back. The nickel
+finish was expensive but looks stunning and is very hard wearing.
+
+It's a surprisingly fast ride, and it is very lively due to the small wheels,
+but never feels sketchy at speed. I'm loving it so far!
