@@ -5,9 +5,9 @@ NETLIFY_CACHE_DIR="$NETLIFY_BUILD_BASE/cache"
 echo "Restoring cached blog assets"
 mkdir -p "$NETLIFY_BUILD_BASE/_site/assets/blog"
 mkdir -p "$NETLIFY_CACHE_DIR/assets/blog"
-cp -Rfv "$NETLIFY_CACHE_DIR/assets/blog/*" "$NETLIFY_BUILD_BASE/_site/assets/blog/"
+cp -Rfv "$NETLIFY_CACHE_DIR/assets/blog/*" "$NETLIFY_BUILD_BASE/repo/_site/assets/blog/"
 
 bundle exec rake build
 
 echo "Caching blog assets"
-cp -Rfv "$NETLIFY_BUILD_BASE/_site/assets/blog/*" "$NETLIFY_CACHE_DIR/assets/blog/"
+cp -Rfv "$NETLIFY_BUILD_BASE/repo/_site/assets/blog/*" "$NETLIFY_CACHE_DIR/assets/blog/"
