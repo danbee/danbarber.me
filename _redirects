@@ -1,5 +1,12 @@
+---
+---
+
 /cv          https://cv.danbarber.me            301
 /invaders    https://danbee.github.io/invaders  301
 /canvas      https://danbee.github.io/canvas    301
 /atom.xml    /feed.xml                          301
 /micropub/*  https://micropubme.herokuapp.com/micropub/:splat 200
+
+{% for post in site.posts -%}
+/{{ post.slug }} {{ post.url }} 301
+{% endfor %}

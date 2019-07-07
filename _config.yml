@@ -34,7 +34,7 @@ exclude:
 include:
   - _redirects
 
-permalink: "/:title"
+permalink: ":year/:month/:day/:title"
 excerpt_separator: "<!-- more -->"
 paginate: 10
 paginate_path: blog/page/:num
