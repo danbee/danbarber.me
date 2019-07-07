@@ -1,0 +1,13 @@
+---
+title: Ducks in a row
+date: 2016-08-01T09:13:04+00:00
+layout: photopost
+categories:
+---
+
+<figure class="photo photo--square">
+  {% picture photo-square blog/instagram/e027f487eebbac9981ba4104f154f67c.jpg alt="" %}
+</figure>
+
+Ducks in a row
+#texas #boerne #landscape #river #wildlife #ducks #birds

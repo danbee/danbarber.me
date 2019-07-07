@@ -1,0 +1,53 @@
+#!/usr/bin/env ruby
+
+require "date"
+require "fileutils"
+require "json"
+require "pathname"
+
+INSTAGRAM_JSON_FILE = "_import/instagram/media.json"
+
+json = File.read(INSTAGRAM_JSON_FILE)
+
+data = JSON.parse(json)
+
+data["photos"].each do |photo|
+  caption = photo["caption"]
+  taken_at = DateTime.parse(photo["taken_at"])
+
+  photo_filename = photo["path"].split("/").last
+
+  FileUtils.cp(
+    "_import/instagram/#{photo['path']}",
+    "_pictures/blog/instagram/#{photo_filename}",
+  )
+
+  title = caption.gsub("@", "").split("\n").first
+
+  contents = <<~MD
+    ---
+    title: #{title}
+    date: #{taken_at}
+    layout: photopost
+    categories:
+    ---
+
+    <figure class="photo photo--square">
+      {% picture photo-square blog/instagram/#{photo_filename} alt="" %}
+    </figure>
+
+    #{caption}
+  MD
+
+  if title.nil?
+    slug = "untitled"
+  else
+    slug = title.downcase.gsub(/[^a-z0-9]+/, " ").strip.gsub(" ", "-")
+  end
+
+  post_filename = "_posts/#{taken_at.strftime('%Y-%m-%d')}-#{slug}.md"
+
+  File.open(post_filename, 'w') do |file|
+    file.write(contents)
+  end
+end
