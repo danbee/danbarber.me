@@ -2,7 +2,7 @@
 title: Coloured lights
 date: 2015-12-16T13:19:06+00:00
 layout: photopost
-categories:
+categories: ["music", "cymbals", "lights", "studio", "drums", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

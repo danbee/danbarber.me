@@ -2,7 +2,7 @@
 title: Fire Escape
 date: 2016-06-23T06:42:55+00:00
 layout: photopost
-categories:
+categories: ["newyork", "highlinenyc", "architecture", "blackandwhite", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

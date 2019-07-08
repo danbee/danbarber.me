@@ -2,7 +2,7 @@
 title: Tanglewood
 date: 2016-07-26T05:19:53+00:00
 layout: photopost
-categories:
+categories: ["tanglewood", "bostonsymphonyorchestra", "music", "massachusetts", "lenox", "orchestra", "roadtrip", "berkshires", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

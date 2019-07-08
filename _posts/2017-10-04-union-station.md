@@ -2,7 +2,7 @@
 title: Union Station
 date: 2017-10-04T13:15:37+00:00
 layout: photopost
-categories:
+categories: ["unionstation", "losangeles", "la", "usa", "america", "railroad", "trains", "transport", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

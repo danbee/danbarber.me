@@ -2,7 +2,7 @@
 title: Drottninggatan
 date: 2015-12-11T17:29:17+00:00
 layout: photopost
-categories:
+categories: ["stockholm", "sweden", "drottninggatan", "christmas", "thoughtbot", "night", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

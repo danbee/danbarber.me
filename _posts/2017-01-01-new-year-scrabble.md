@@ -2,7 +2,7 @@
 title: New year Scrabble
 date: 2017-01-01T20:56:42+00:00
 layout: photopost
-categories:
+categories: ["2017", "scrabble", "games", "words", "newyork", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

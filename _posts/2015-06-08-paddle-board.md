@@ -2,7 +2,7 @@
 title: Paddle board
 date: 2015-06-08T16:41:11+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

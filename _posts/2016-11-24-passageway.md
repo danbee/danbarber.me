@@ -2,7 +2,7 @@
 title: Passageway
 date: 2016-11-24T08:54:48+00:00
 layout: photopost
-categories:
+categories: ["nationalmuseumofdenmark", "architecture", "copenhagen", "denmark", "blackandwhite", "københavn", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

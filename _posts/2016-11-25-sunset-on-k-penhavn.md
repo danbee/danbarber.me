@@ -2,7 +2,7 @@
 title: Sunset on Køpenhavn
 date: 2016-11-25T11:16:21+00:00
 layout: photopost
-categories:
+categories: ["copenhagen", "denmark", "køpenhavn", "sunset", "canaltour", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

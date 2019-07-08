@@ -2,7 +2,7 @@
 title: Five Point IPA
 date: 2015-07-18T12:01:22+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

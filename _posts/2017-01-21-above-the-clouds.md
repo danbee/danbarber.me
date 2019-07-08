@@ -2,7 +2,7 @@
 title: Above the clouds
 date: 2017-01-21T12:59:02+00:00
 layout: photopost
-categories:
+categories: ["oneworldtradecenter", "oneworldobservatory", "clouds", "views", "empirestatebuilding", "newyork", "nyc", "🗽", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

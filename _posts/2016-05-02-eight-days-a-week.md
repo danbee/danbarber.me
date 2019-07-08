@@ -2,7 +2,7 @@
 title: Eight days a week
 date: 2016-05-02T09:21:41+00:00
 layout: photopost
-categories:
+categories: ["sign", "humour", "torrington", "pub", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

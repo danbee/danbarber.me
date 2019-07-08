@@ -2,7 +2,7 @@
 title: Boat slice
 date: 2015-05-25T04:45:02+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

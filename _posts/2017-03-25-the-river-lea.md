@@ -2,7 +2,7 @@
 title: The River Lea
 date: 2017-03-25T08:44:11+00:00
 layout: photopost
-categories:
+categories: ["riverlea", "leavalley", "london", "walthamforest", "nature", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

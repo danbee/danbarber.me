@@ -2,7 +2,7 @@
 title: South Bank Christmas lights
 date: 2014-12-30T09:31:43+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

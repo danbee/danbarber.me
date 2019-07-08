@@ -2,7 +2,7 @@
 title: Long Tail Boat
 date: 2017-04-24T08:06:04+00:00
 layout: photopost
-categories:
+categories: ["bangkok", "ประเทศไทย", "thailand", "canals", "boats", "longtailboat", "กรุงเทพฯ", "khlongmon", "khlongmoncanal", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

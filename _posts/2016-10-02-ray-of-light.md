@@ -2,7 +2,7 @@
 title: Ray of Light
 date: 2016-10-02T15:36:11+00:00
 layout: photopost
-categories:
+categories: ["church", "lightrays", "cirencester", "cotswolds", "averybritishroadtrip", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

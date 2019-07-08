@@ -2,7 +2,7 @@
 title: Wish Tree Garden
 date: 2016-11-24T03:33:53+00:00
 layout: photopost
-categories:
+categories: ["copenhagen", "wishtreegarden", "wish", "tree", "garden", "papirøen", "ccart", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

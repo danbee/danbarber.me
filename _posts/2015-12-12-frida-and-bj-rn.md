@@ -2,7 +2,7 @@
 title: Frida and Björn
 date: 2015-12-12T09:48:03+00:00
 layout: photopost
-categories:
+categories: ["abba", "museum", "Stockholm", "Sweden", "music", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

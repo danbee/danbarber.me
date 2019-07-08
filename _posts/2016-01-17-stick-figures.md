@@ -2,7 +2,7 @@
 title: Stick Figures
 date: 2016-01-17T15:45:08+00:00
 layout: photopost
-categories:
+categories: ["london", "lumiere", "lights", "regentstreet", "stickfigures", "blackandwhite", "lights", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

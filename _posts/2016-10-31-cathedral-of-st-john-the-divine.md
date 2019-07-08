@@ -2,7 +2,7 @@
 title: Cathedral of St. John the Divine
 date: 2016-10-31T10:59:24+00:00
 layout: photopost
-categories:
+categories: ["church", "cathedral", "religion", "newyork", "nyc", "morningsideheights", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

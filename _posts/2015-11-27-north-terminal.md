@@ -2,7 +2,7 @@
 title: North Terminal
 date: 2015-11-27T05:51:07+00:00
 layout: photopost
-categories:
+categories: ["airport", "gatwick", "terminal", "planes", "travel", "barcelona", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

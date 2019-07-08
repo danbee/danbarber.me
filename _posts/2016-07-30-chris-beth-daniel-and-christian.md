@@ -2,7 +2,7 @@
 title: Chris, Beth, Daniel and Christian
 date: 2016-07-30T13:44:24+00:00
 layout: photopost
-categories:
+categories: ["texas", "sanantonio", "riverwalk", "downtown", "friends", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

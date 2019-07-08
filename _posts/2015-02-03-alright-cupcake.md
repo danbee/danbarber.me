@@ -2,7 +2,7 @@
 title: Alright cupcake!
 date: 2015-02-03T05:22:13+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

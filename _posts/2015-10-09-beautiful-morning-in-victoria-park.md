@@ -2,7 +2,7 @@
 title: Beautiful morning in Victoria Park
 date: 2015-10-09T01:38:04+00:00
 layout: photopost
-categories:
+categories: ["victoriapark", "park", "london", "morning", "commute", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

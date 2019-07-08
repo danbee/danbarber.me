@@ -2,7 +2,7 @@
 title: Ambassadors Residence
 date: 2017-04-30T17:39:14+00:00
 layout: photopost
-categories:
+categories: ["thailand", "bangkok", "ประเทศไทย", "กรุงเทพ", "witthayuroad", "architecture", "furnishings", "usambassador", "ambassadorsresidence", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Sphere Within Sphere
 date: 2017-03-15T07:37:55+00:00
 layout: photopost
-categories:
+categories: ["trinitycollege", "sculpture", "arnaldopomodoro", "sphere", "spherewithinsphere", "dublin", "ireland", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

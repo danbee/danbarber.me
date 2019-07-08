@@ -2,7 +2,7 @@
 title: Lost at Stepney Green
 date: 2016-11-05T11:30:37+00:00
 layout: photopost
-categories:
+categories: ["maze", "tfl", "londonunderground", "tube", "londontube", "transport", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

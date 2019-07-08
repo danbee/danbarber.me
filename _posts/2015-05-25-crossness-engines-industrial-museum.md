@@ -2,7 +2,7 @@
 title: Crossness Engines Industrial Museum
 date: 2015-05-25T05:48:16+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

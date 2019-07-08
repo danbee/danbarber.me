@@ -2,7 +2,7 @@
 title: Staircase at Tate Britain
 date: 2015-07-22T12:35:12+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

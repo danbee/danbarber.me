@@ -2,7 +2,7 @@
 title: Sagrada Família ceiling
 date: 2015-11-29T09:23:12+00:00
 layout: photopost
-categories:
+categories: ["barcelona", "sagradafamilia", "cathedral", "gaudí", "spain", "catholic", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

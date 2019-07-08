@@ -2,7 +2,7 @@
 title: Telescope
 date: 2016-11-27T09:14:35+00:00
 layout: photopost
-categories:
+categories: ["københavn", "copenhagen", "denmark", "rundetaarn", "roundtower", "observatory", "telescope", "observatory", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

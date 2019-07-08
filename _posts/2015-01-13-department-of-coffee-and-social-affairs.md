@@ -2,7 +2,7 @@
 title: Department of Coffee and Social Affairs
 date: 2015-01-13T01:44:22+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Mission San José
 date: 2016-10-24T13:04:27+00:00
 layout: photopost
-categories:
+categories: ["sanantonio", "texas", "usa", "missionsanjosé", "church", "catholic", "mission", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Autumn colours
 date: 2015-10-11T07:53:07+00:00
 layout: photopost
-categories:
+categories: ["autumn", "stjamesspark", "colours", "leaves", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

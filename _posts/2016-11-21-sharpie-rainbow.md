@@ -2,7 +2,7 @@
 title: Sharpie rainbow
 date: 2016-11-21T08:18:56+00:00
 layout: photopost
-categories:
+categories: ["rainbow", "art", "sharpies", "stationary", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

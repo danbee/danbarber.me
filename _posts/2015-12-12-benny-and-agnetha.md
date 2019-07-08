@@ -2,7 +2,7 @@
 title: Benny and Agnetha
 date: 2015-12-12T09:46:58+00:00
 layout: photopost
-categories:
+categories: ["abba", "museum", "Stockholm", "Sweden", "music", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

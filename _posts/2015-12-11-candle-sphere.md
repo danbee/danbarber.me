@@ -2,7 +2,7 @@
 title: Candle sphere
 date: 2015-12-11T17:30:58+00:00
 layout: photopost
-categories:
+categories: ["stockholm", "sweden", "christmas", "market", "candle", "flame", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Downtown Austin
 date: 2016-07-29T17:09:00+00:00
 layout: photopost
-categories:
+categories: ["USA", "austin", "texas", "thoughtbot", "wework", "skyline", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Pico Castelo
 date: 2016-02-09T11:04:38+00:00
 layout: photopost
-categories:
+categories: ["portosanto", "picocastelo", "landscape", "walks", "travel", "holibobs", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

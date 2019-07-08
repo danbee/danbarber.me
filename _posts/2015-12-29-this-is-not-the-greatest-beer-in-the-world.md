@@ -2,7 +2,7 @@
 title: This is not the greatest beer in the world.
 date: 2015-12-29T07:57:13+00:00
 layout: photopost
-categories:
+categories: ["beer", "tribute", "Devon", "pub", "chinahouse", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

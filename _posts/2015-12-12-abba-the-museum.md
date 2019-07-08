@@ -2,7 +2,7 @@
 title: ABBA The Museum
 date: 2015-12-12T09:45:37+00:00
 layout: photopost
-categories:
+categories: ["stockholm", "sweden", "abba", "music", "museum", "lights", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

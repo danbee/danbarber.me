@@ -2,7 +2,7 @@
 title: NYC Sunset
 date: 2016-06-25T22:39:15+00:00
 layout: photopost
-categories:
+categories: ["skyline", "architecture", "travel", "newyork", "sunset", "jerseycity", "newjersey", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

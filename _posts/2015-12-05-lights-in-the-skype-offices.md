@@ -2,7 +2,7 @@
 title: Lights in the Skype offices
 date: 2015-12-05T04:38:48+00:00
 layout: photopost
-categories:
+categories: ["lights", "office", "skype", "blackandwhite", "lampshades", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

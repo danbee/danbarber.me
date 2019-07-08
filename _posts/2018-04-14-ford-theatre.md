@@ -2,7 +2,7 @@
 title: Ford Theatre
 date: 2018-04-14T09:58:07+00:00
 layout: photopost
-categories:
+categories: ["lincoln", "president", "washingtondc", "🇺🇸", "fordtheatre", "america", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Blackheath Church
 date: 2015-07-11T10:28:18+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

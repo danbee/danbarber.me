@@ -2,7 +2,7 @@
 title: Empire State of Mind
 date: 2016-08-12T13:50:34+00:00
 layout: photopost
-categories:
+categories: ["newyork", "nyc", "empirestatebuilding", "architecture", "night", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

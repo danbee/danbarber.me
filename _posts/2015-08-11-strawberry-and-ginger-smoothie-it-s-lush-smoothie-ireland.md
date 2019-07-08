@@ -2,7 +2,7 @@
 title: Strawberry and ginger smoothie. It's lush! #smoothie #ireland
 date: 2015-08-11T07:03:20+00:00
 layout: photopost
-categories:
+categories: ["smoothie", "ireland", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

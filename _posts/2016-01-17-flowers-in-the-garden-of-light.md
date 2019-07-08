@@ -2,7 +2,7 @@
 title: Flowers in the Garden of Light
 date: 2016-01-17T15:39:59+00:00
 layout: photopost
-categories:
+categories: ["london", "lumiere", "leicestersquare", "lights", "colours", "flowers", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

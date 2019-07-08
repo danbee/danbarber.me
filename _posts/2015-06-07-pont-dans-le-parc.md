@@ -2,7 +2,7 @@
 title: Pont dans le parc
 date: 2015-06-07T06:05:07+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

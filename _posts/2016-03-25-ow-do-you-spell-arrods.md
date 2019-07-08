@@ -2,7 +2,7 @@
 title: ’Ow do you spell ’Arrods?
 date: 2016-03-25T10:09:36+00:00
 layout: photopost
-categories:
+categories: ["london", "knightsbridge", "harrods", "shopping", "retail", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

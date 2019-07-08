@@ -2,7 +2,7 @@
 title: Manhattan Skyline
 date: 2016-07-20T04:41:50+00:00
 layout: photopost
-categories:
+categories: ["NYC", "newyork", "manhattan", "skyline", "rockefellercenter", "topoftherock", "sunset", "empirestatebuilding", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

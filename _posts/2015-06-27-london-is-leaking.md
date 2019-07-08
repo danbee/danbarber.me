@@ -2,7 +2,7 @@
 title: London is leaking
 date: 2015-06-27T11:07:14+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

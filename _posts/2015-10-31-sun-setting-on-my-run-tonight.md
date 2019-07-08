@@ -2,7 +2,7 @@
 title: Sun setting on my run tonight
 date: 2015-10-31T11:23:10+00:00
 layout: photopost
-categories:
+categories: ["sunset", "olympicpark", "velodrome", "bridge", "canal", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

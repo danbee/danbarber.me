@@ -2,7 +2,7 @@
 title: The Acropolis
 date: 2018-06-30T06:29:23+00:00
 layout: photopost
-categories:
+categories: ["greece", "acropolis", "panthenon", "athens", "night", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

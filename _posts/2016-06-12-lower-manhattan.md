@@ -2,7 +2,7 @@
 title: Lower Manhattan
 date: 2016-06-12T21:23:03+00:00
 layout: photopost
-categories:
+categories: ["manhattan", "newyork", "cityscape", "skyline", "travel", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

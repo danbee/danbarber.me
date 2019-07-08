@@ -2,7 +2,7 @@
 title: Je suis sur un bateau!
 date: 2015-06-08T13:45:20+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

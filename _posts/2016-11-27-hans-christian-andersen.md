@@ -2,7 +2,7 @@
 title: Hans Christian Andersen
 date: 2016-11-27T04:41:39+00:00
 layout: photopost
-categories:
+categories: ["hanschristianandersen", "odense", "denmark", "streetart", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

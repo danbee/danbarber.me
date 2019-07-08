@@ -2,7 +2,7 @@
 title: House on Khlong Mon
 date: 2017-04-25T20:16:38+00:00
 layout: photopost
-categories:
+categories: ["longtailboat", "thailand", "bangkok", "ประเทศไทย", "กรุงเทพฯ", "canals", "khlongmon", "khlongmoncanal", "water", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

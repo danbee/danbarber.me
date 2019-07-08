@@ -2,7 +2,7 @@
 title: Empire State Skyline
 date: 2017-06-04T18:49:34+00:00
 layout: photopost
-categories:
+categories: ["newyork", "usa", "america", "nyc", "oneworldobservatory", "empirestatebuilding", "esb", "skyline", "432parkavenue", "sunset", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -24,12 +24,16 @@ data["photos"].each do |photo|
 
   title = caption.gsub("@", "").split("\n").first
 
+  tags = caption.scan(/#([^\s]+)/).map(&:first)
+
+  tags.concat ["photos", "instagram"]
+
   contents = <<~MD
     ---
     title: #{title}
     date: #{taken_at}
     layout: photopost
-    categories:
+    categories: #{tags.to_s}
     ---
 
     <figure class="photo photo--square">

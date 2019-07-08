@@ -2,7 +2,7 @@
 title: Thames barrier
 date: 2014-11-30T06:55:11+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

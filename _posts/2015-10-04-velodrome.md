@@ -2,7 +2,7 @@
 title: Velodrome
 date: 2015-10-04T10:36:44+00:00
 layout: photopost
-categories:
+categories: ["velodrome", "cycling", "olympics", "stratford", "london", "olympicpark", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

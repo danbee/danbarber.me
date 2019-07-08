@@ -2,7 +2,7 @@
 title: Bambinos hard at work
 date: 2015-06-03T08:59:48+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

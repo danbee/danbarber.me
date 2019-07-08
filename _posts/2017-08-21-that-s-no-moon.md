@@ -2,7 +2,7 @@
 title: That's no moon!
 date: 2017-08-21T12:16:16+00:00
 layout: photopost
-categories:
+categories: ["eclipse", "solareclipse", "partialeclipse", "eclipse2017", "newyork", "centralpark", "usa", "clouds", "sun", "actuallythemoonisinvolved", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

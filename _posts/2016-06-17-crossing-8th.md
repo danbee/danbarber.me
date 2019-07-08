@@ -2,7 +2,7 @@
 title: Crossing 8th
 date: 2016-06-17T20:39:37+00:00
 layout: photopost
-categories:
+categories: ["newyork", "nyc", "8thavenue", "chelsea", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

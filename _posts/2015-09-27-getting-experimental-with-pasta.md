@@ -2,7 +2,7 @@
 title: Getting experimental with pasta!
 date: 2015-09-27T11:18:06+00:00
 layout: photopost
-categories:
+categories: ["cooking", "pasta", "bachelorlife", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

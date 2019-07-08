@@ -2,7 +2,7 @@
 title: Wishing Bells
 date: 2017-05-02T00:27:47+00:00
 layout: photopost
-categories:
+categories: ["thailand", "bangkok", "ประเทศไทย", "กรุงเทพ", "bells", "wishes", "blackandwhite", "❤️", "templeofthedawn", "watarun", "วัดอรุณราชวรารามราชวรมหาวิหาร", "thonburi", "bangkokyai", "chaophraya", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Ye Olde Cheshire Cheese
 date: 2015-04-24T13:33:21+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

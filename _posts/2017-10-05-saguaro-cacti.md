@@ -2,7 +2,7 @@
 title: Saguaro Cacti
 date: 2017-10-05T15:15:26+00:00
 layout: photopost
-categories:
+categories: ["cactus", "cacti", "saguaro", "arizona", "phoenix", "phoenixsouthmountainpark", "landscape", "usa", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

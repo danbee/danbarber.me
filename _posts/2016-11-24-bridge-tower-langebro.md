@@ -2,7 +2,7 @@
 title: Bridge Tower, Langebro
 date: 2016-11-24T08:37:59+00:00
 layout: photopost
-categories:
+categories: ["copenhagen", "langebro", "bridge", "architecture", "copper", "verde", "denmark", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

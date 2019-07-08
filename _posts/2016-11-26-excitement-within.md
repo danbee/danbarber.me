@@ -2,7 +2,7 @@
 title: Excitement Within!
 date: 2016-11-26T14:58:40+00:00
 layout: photopost
-categories:
+categories: ["tivoligardens", "denmark", "københavn", "copenhagen", "amusements", "rollercoasters", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Old Red Cow
 date: 2015-07-09T11:10:01+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

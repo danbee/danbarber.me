@@ -2,7 +2,7 @@
 title: Grandparents
 date: 2015-09-12T07:55:52+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

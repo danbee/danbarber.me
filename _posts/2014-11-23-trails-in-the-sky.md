@@ -2,7 +2,7 @@
 title: Trails in the sky
 date: 2014-11-23T23:20:30+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

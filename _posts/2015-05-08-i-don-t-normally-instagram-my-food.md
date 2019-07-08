@@ -2,7 +2,7 @@
 title: I don't normally Instagram my food...
 date: 2015-05-08T12:56:07+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

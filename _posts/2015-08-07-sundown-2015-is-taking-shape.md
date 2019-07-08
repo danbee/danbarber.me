@@ -2,7 +2,7 @@
 title: Sundown 2015 is taking shape!
 date: 2015-08-07T09:42:11+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: The Young King; a mural of Bhumibol Adulyadej (Rama IX), the ninth King of Thailand
 date: 2017-04-24T06:45:21+00:00
 layout: photopost
-categories:
+categories: ["thailand🇹🇭", "ประเทศไทย", "กรุงเทพฯ", "bangkok", "thegrandpalacebangkok", "art", "painting", "royalfamilyofthailand", "monarch", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

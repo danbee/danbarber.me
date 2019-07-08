@@ -2,7 +2,7 @@
 title: Afternoon gelato
 date: 2015-04-06T08:49:45+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

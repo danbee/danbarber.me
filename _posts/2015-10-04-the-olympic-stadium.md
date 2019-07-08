@@ -2,7 +2,7 @@
 title: The Olympic Stadium
 date: 2015-10-04T10:39:13+00:00
 layout: photopost
-categories:
+categories: ["olympics", "stadium", "olympicpark", "london", "queenelizabetholympicpark", "rugby", "rugbyworldcup", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

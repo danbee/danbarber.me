@@ -2,7 +2,7 @@
 title: Holburne Museum
 date: 2016-03-12T07:52:13+00:00
 layout: photopost
-categories:
+categories: ["museum", "bath", "architecture", "landscape", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Raspberry Pi 2
 date: 2015-02-03T06:44:27+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

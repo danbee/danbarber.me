@@ -2,7 +2,7 @@
 title: Waiting for The Winery Dogs and Inglorious
 date: 2016-01-31T11:11:21+00:00
 layout: photopost
-categories:
+categories: ["London", "kentishtown", "forum", "music", "livemusic", "winerydogs", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

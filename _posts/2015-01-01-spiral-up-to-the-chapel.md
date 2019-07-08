@@ -2,7 +2,7 @@
 title: Spiral up to the Chapel
 date: 2015-01-01T11:54:48+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

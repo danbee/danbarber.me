@@ -2,7 +2,7 @@
 title: Musicians Corner
 date: 2015-08-11T01:12:49+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Beautiful day on the Heath
 date: 2015-05-16T07:29:59+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

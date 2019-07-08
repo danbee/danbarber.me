@@ -2,7 +2,7 @@
 title: Broadway Tower #2
 date: 2016-10-02T15:38:53+00:00
 layout: photopost
-categories:
+categories: ["2", "broadwaytower", "cotswolds", "goldenhour", "averybritishroadtrip", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

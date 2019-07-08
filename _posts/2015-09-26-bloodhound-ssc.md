@@ -2,7 +2,7 @@
 title: Bloodhound SSC
 date: 2015-09-26T09:16:49+00:00
 layout: photopost
-categories:
+categories: ["bloodhound", "bloodhoundssc", "speed", "record", "engineering", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

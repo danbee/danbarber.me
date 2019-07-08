@@ -2,7 +2,7 @@
 title: Tunnocks boat!
 date: 2015-03-13T08:50:35+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

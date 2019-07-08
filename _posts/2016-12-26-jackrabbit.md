@@ -2,7 +2,7 @@
 title: Jackrabbit
 date: 2016-12-26T11:58:12+00:00
 layout: photopost
-categories:
+categories: ["jackrabbit", "wildlife", "texas", "ranch", "zapata", "lasballitasranch", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

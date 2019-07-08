@@ -2,7 +2,7 @@
 title: The Victoria
 date: 2015-05-17T09:29:23+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

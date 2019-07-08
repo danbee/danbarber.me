@@ -2,7 +2,7 @@
 title: Beautiful sky last night
 date: 2015-09-25T11:57:18+00:00
 layout: photopost
-categories:
+categories: ["sunset", "sky", "barbican", "smithfields", "market", "colour", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

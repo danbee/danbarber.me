@@ -2,7 +2,7 @@
 title: Mirror, mirror...
 date: 2016-01-20T11:01:32+00:00
 layout: photopost
-categories:
+categories: ["pub", "London", "mirror", "ceiling", "architecture", "beer", "people", "reflection", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

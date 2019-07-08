@@ -2,7 +2,7 @@
 title: Radcliffe Camera
 date: 2016-01-31T05:27:06+00:00
 layout: photopost
-categories:
+categories: ["oxford", "radcliffecamera", "bluesky", "sun", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

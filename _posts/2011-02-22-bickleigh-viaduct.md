@@ -2,7 +2,7 @@
 title: Bickleigh Viaduct
 date: 2011-02-22T07:12:25+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

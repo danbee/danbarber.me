@@ -2,7 +2,7 @@
 title: Heart of stones
 date: 2015-08-08T13:20:16+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Walkers at Sunset
 date: 2016-11-25T11:21:31+00:00
 layout: photopost
-categories:
+categories: ["københavn", "copenhagen", "denmark", "sunset", "canaltour", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: I'm on a boat!
 date: 2015-11-29T00:46:12+00:00
 layout: photopost
-categories:
+categories: ["barcelona", "sailing", "sea", "boat", "yacht", "spain", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

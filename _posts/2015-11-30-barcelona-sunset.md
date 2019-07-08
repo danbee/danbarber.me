@@ -2,7 +2,7 @@
 title: Barcelona sunset
 date: 2015-11-30T00:01:30+00:00
 layout: photopost
-categories:
+categories: ["barcelona", "beach", "sunset", "sun", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

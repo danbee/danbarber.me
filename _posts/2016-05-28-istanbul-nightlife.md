@@ -2,7 +2,7 @@
 title: Istanbul Nightlife
 date: 2016-05-28T04:30:50+00:00
 layout: photopost
-categories:
+categories: ["istanbul", "kadıköy", "nightlife", "colour", "lights", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

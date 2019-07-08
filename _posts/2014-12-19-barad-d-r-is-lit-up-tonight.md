@@ -2,7 +2,7 @@
 title: Barad-dûr is lit up tonight
 date: 2014-12-19T11:55:41+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

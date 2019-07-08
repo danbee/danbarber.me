@@ -2,7 +2,7 @@
 title: Hollywoodland
 date: 2017-10-04T13:17:40+00:00
 layout: photopost
-categories:
+categories: ["hollywood", "losangeles", "la", "hollywoodland", "hollywoodsign", "landscape", "usa", "california", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

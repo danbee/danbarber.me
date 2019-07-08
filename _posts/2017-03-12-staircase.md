@@ -2,7 +2,7 @@
 title: Staircase
 date: 2017-03-12T12:07:24+00:00
 layout: photopost
-categories:
+categories: ["london", "toweroflondon", "stairs", "architecture", "blackandwhite", "abstract", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">
