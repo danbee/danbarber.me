@@ -2,12 +2,12 @@
 title: Carlsberg Glyptotek
 date: 2016-11-24T08:40:49+00:00
 layout: photopost
-categories: ["copenhagen", "denmark", "carlsbergglyptotek", "museum", "dome", "sunset", "architecture", "københavn", "photos", "instagram"]
+categories: ["photos", "instagram"]
+tags: ["copenhagen", "denmark", "carlsbergglyptotek", "museum", "dome", "sunset", "architecture", "københavn"]
 ---
 
 <figure class="photo photo--square">
   {% picture photo-square blog/instagram/900a28258328e514ec4d82111987181d.jpg alt="" %}
 </figure>
 
-Carlsberg Glyptotek
-#copenhagen #denmark #carlsbergglyptotek #museum #dome #sunset #architecture #københavn
+

@@ -12,7 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-assets"
   gem "jekyll-inline-svg"
-  gem "jekyll-paginate"
+  gem "jekyll-paginate-v2"
   gem "jekyll-picture-tag",
     git: "https://github.com/danbee/jekyll-picture-tag.git",
     branch: "update-gemspec"

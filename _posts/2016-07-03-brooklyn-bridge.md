@@ -2,12 +2,12 @@
 title: Brooklyn Bridge
 date: 2016-07-03T08:46:24+00:00
 layout: photopost
-categories: ["NYC", "newyorkcity", "newyork", "brooklyn", "brooklynbridge", "architecture", "photos", "instagram"]
+categories: ["photos", "instagram"]
+tags: ["NYC", "newyorkcity", "newyork", "brooklyn", "brooklynbridge", "architecture"]
 ---
 
 <figure class="photo photo--square">
   {% picture photo-square blog/instagram/f44b0bb82d49884c50355056d743efab.jpg alt="" %}
 </figure>
 
-Brooklyn Bridge
-#NYC #newyorkcity #newyork #brooklyn #brooklynbridge #architecture
+
