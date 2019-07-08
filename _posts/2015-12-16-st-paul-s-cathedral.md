@@ -2,7 +2,7 @@
 title: St. Paul's Cathedral
 date: 2015-12-16T09:07:14+00:00
 layout: photopost
-categories:
+categories: ["london", "stpaulscathedral", "blackandwhite", "cathedral", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

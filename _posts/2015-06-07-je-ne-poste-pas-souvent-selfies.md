@@ -2,7 +2,7 @@
 title: Je ne poste pas souvent selfies
 date: 2015-06-07T12:27:51+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

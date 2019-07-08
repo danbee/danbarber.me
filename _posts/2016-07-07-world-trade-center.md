@@ -2,7 +2,7 @@
 title: World Trade Center
 date: 2016-07-07T16:43:14+00:00
 layout: photopost
-categories:
+categories: ["worldtradecenter", "worldtradecentermemorial", "nyc", "newyork", "neverforget", "nineeleven", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

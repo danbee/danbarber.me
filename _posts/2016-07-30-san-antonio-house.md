@@ -2,7 +2,7 @@
 title: San Antonio House
 date: 2016-07-30T17:24:03+00:00
 layout: photopost
-categories:
+categories: ["usa", "texas", "sanantonio", "downtown", "bustour", "stwilliams", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

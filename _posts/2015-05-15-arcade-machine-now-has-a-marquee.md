@@ -2,7 +2,7 @@
 title: Arcade machine now has a marquee!
 date: 2015-05-15T07:14:50+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

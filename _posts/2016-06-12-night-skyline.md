@@ -2,7 +2,7 @@
 title: Night skyline
 date: 2016-06-12T21:17:10+00:00
 layout: photopost
-categories:
+categories: ["newyork", "travel", "city", "architecture", "sunset", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

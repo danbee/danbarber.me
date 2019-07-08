@@ -2,7 +2,7 @@
 title: Cycling to work
 date: 2015-10-09T01:27:20+00:00
 layout: photopost
-categories:
+categories: ["olympicpark", "stratford", "london", "morning", "mist", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

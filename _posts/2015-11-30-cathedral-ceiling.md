@@ -2,7 +2,7 @@
 title: Cathedral ceiling
 date: 2015-11-30T07:17:17+00:00
 layout: photopost
-categories:
+categories: ["barcelona", "spain", "cathedral", "ceiling", "church", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

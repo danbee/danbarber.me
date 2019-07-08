@@ -2,7 +2,7 @@
 title: Barrel Race
 date: 2016-07-31T06:42:17+00:00
 layout: photopost
-categories:
+categories: ["texas", "sanantonio", "bulverde", "rodeo", "horses", "cowboys", "cowgirls", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

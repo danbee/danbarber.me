@@ -2,7 +2,7 @@
 title: Shoreditch
 date: 2016-04-28T12:37:49+00:00
 layout: photopost
-categories:
+categories: ["london", "shoreditch", "night", "lights", "traffic", "architecture", "citylife", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

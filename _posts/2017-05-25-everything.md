@@ -2,7 +2,7 @@
 title: Everything...
 date: 2017-05-25T08:39:08+00:00
 layout: photopost
-categories:
+categories: ["texas", "houston", "airport", "bigger", "sign", "georgebushintercontinentalairport", "IAH", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

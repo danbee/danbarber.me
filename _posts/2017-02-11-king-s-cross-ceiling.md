@@ -2,7 +2,7 @@
 title: King’s Cross ceiling
 date: 2017-02-11T10:06:04+00:00
 layout: photopost
-categories:
+categories: ["london", "architecture", "kingscross", "rail", "travel", "trains", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

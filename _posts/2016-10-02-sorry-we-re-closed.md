@@ -2,7 +2,7 @@
 title: Sorry We're Closed
 date: 2016-10-02T03:12:04+00:00
 layout: photopost
-categories:
+categories: ["cotswolds", "castlecombe", "tearooms", "averybritishroadtrip", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

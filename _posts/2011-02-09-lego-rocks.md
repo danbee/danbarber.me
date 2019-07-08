@@ -2,7 +2,7 @@
 title: Lego rocks!
 date: 2011-02-09T01:23:05+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

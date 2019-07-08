@@ -2,7 +2,7 @@
 title: Bloody Tania (sic) again!
 date: 2015-09-08T10:39:26+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

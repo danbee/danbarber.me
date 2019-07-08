@@ -2,7 +2,7 @@
 title: Cake at NBHQ!
 date: 2015-04-20T01:52:14+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

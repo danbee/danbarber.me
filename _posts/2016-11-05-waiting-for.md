@@ -2,7 +2,7 @@
 title: Waiting for 👦🏻👄🌐
 date: 2016-11-05T13:58:03+00:00
 layout: photopost
-categories:
+categories: ["jimmyeatworld", "troxy", "london", "livemusic", "music", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

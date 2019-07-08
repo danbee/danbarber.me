@@ -2,7 +2,7 @@
 title: Rock Balance
 date: 2016-06-19T14:57:07+00:00
 layout: photopost
-categories:
+categories: ["hiking", "newyorkstate", "breakneckridge", "outdoors", "art", "landscape", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

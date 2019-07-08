@@ -2,7 +2,7 @@
 title: We have a Ralph!
 date: 2016-01-18T04:14:14+00:00
 layout: photopost
-categories:
+categories: ["thoughtbot", "decal", "work", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

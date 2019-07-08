@@ -2,7 +2,7 @@
 title: Routemaster
 date: 2016-05-20T13:39:46+00:00
 layout: photopost
-categories:
+categories: ["bus", "london", "londontransportmuseum", "transport", "blackandwhite", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

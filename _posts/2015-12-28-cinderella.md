@@ -2,7 +2,7 @@
 title: Cinderella!
 date: 2015-12-28T10:56:15+00:00
 layout: photopost
-categories:
+categories: ["panto", "theatreroyal", "theatre", "plymouth", "stage", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

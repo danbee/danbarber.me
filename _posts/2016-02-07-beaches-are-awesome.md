@@ -2,7 +2,7 @@
 title: Beaches are awesome
 date: 2016-02-07T06:18:29+00:00
 layout: photopost
-categories:
+categories: ["beach", "sand", "feet", "portosanto", "praia", "madeira", "sun", "holibobs", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

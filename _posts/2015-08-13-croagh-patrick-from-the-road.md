@@ -2,7 +2,7 @@
 title: Croagh Patrick from the road
 date: 2015-08-13T09:48:54+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

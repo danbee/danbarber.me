@@ -2,7 +2,7 @@
 title: København Skyline
 date: 2016-11-27T09:12:48+00:00
 layout: photopost
-categories:
+categories: ["københavn", "copenhagen", "denmark", "rundetaarn", "roundtower", "skyline", "sunset", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Reclining Buddha
 date: 2017-04-25T20:18:59+00:00
 layout: photopost
-categories:
+categories: ["กรุงเทพฯ", "ประเทศไทย", "thailand", "bangkok", "templeoftherecliningbuddha", "temple", "buddha", "buddhism", "statue", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

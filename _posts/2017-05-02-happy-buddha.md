@@ -2,7 +2,7 @@
 title: Happy Buddha
 date: 2017-05-02T00:29:57+00:00
 layout: photopost
-categories:
+categories: ["thailand", "bangkok", "ประเทศไทย", "กรุงเทพ", "buddha", "happybuddha", "templeofthedawn", "watarun", "วัดอรุณราชวรารามราชวรมหาวิหาร", "thonburi", "bangkokyai", "chaophraya", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

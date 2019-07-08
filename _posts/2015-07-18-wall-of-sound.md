@@ -2,7 +2,7 @@
 title: Wall of sound
 date: 2015-07-18T10:34:33+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

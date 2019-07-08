@@ -2,7 +2,7 @@
 title: The Gravy Train
 date: 2015-02-19T11:14:22+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

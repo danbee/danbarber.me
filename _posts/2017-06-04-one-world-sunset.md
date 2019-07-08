@@ -2,7 +2,7 @@
 title: One World Sunset
 date: 2017-06-04T18:56:54+00:00
 layout: photopost
-categories:
+categories: ["newyork", "nyc", "usa", "america", "oneworldobservatory", "oneworldtradecenter", "sunset", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

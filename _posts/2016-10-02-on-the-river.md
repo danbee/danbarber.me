@@ -2,7 +2,7 @@
 title: On the river
 date: 2016-10-02T03:10:36+00:00
 layout: photopost
-categories:
+categories: ["cotswolds", "england", "castlecombe", "averybritishroadtrip", "river", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Ladies View
 date: 2017-03-27T08:17:59+00:00
 layout: photopost
-categories:
+categories: ["ireland", "kerry", "ringofkerry", "killarney", "killarneynationalpark", "landscape", "latergram", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

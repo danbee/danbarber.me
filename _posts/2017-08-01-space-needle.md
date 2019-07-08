@@ -2,7 +2,7 @@
 title: Space Needle
 date: 2017-08-01T22:21:42+00:00
 layout: photopost
-categories:
+categories: ["seattle", "usa", "skyline", "viewpoint", "kerrypark", "spaceneedle", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

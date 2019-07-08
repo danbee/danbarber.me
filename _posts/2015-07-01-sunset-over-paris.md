@@ -2,7 +2,7 @@
 title: Sunset over Paris
 date: 2015-07-01T14:30:07+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

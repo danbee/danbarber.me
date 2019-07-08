@@ -2,7 +2,7 @@
 title: Last drink in Blackheath
 date: 2015-09-03T11:30:29+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

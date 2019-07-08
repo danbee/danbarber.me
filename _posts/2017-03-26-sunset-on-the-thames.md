@@ -2,7 +2,7 @@
 title: Sunset on The Thames
 date: 2017-03-26T12:46:03+00:00
 layout: photopost
-categories:
+categories: ["sunset", "london", "thames", "woolwich", "thamesbarrier", "woolwichferry", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

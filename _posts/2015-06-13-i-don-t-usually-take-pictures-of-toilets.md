@@ -2,7 +2,7 @@
 title: I don't usually take pictures of toilets...
 date: 2015-06-13T14:48:39+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

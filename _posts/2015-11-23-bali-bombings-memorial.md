@@ -2,7 +2,7 @@
 title: Bali Bombings Memorial
 date: 2015-11-23T05:10:51+00:00
 layout: photopost
-categories:
+categories: ["Bali", "memorial", "bombings", "stone", "blackandwhite", "carving", "granite", "london", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

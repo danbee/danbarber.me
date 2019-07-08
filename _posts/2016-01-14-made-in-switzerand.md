@@ -2,7 +2,7 @@
 title: Made In Switzerand
 date: 2016-01-14T00:52:43+00:00
 layout: photopost
-categories:
+categories: ["paiste", "cymbal", "2002", "music", "bronze", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

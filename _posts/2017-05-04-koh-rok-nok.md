@@ -2,7 +2,7 @@
 title: Koh Rok Nok
 date: 2017-05-04T06:18:30+00:00
 layout: photopost
-categories:
+categories: ["thailand", "kohrok", "kohroknok", "ประเทศไทย", "tropical", "bluesea", "clearwater", "landscape", "island", "snorkelling", "speedboat", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

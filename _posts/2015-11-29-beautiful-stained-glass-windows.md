@@ -2,7 +2,7 @@
 title: Beautiful stained glass windows
 date: 2015-11-29T09:25:11+00:00
 layout: photopost
-categories:
+categories: ["sagradafamilia", "barcelona", "stainedglass", "colour", "gaudí", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

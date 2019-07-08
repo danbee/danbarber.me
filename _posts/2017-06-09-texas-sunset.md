@@ -2,7 +2,7 @@
 title: Texas Sunset
 date: 2017-06-09T18:32:20+00:00
 layout: photopost
-categories:
+categories: ["texas", "corpuschristi", "corpus", "southtexas", "gulfofmexico", "usa", "america", "sunset", "snoopys", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

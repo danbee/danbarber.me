@@ -2,7 +2,7 @@
 title: Christmas commences!
 date: 2014-12-10T10:19:47+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

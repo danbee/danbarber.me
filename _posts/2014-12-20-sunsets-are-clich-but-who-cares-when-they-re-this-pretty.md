@@ -2,7 +2,7 @@
 title: Sunsets are cliché but who cares when they're this pretty
 date: 2014-12-20T07:56:19+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Sphere selfie
 date: 2015-12-22T06:28:59+00:00
 layout: photopost
-categories:
+categories: ["dulwichpicturegallery", "escher", "selfie", "blackandwhite", "reflection", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

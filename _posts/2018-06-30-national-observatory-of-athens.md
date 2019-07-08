@@ -2,7 +2,7 @@
 title: National Observatory of Athens
 date: 2018-06-30T06:30:48+00:00
 layout: photopost
-categories:
+categories: ["greece", "athens", "nationalobservatoryofathens", "night", "city", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

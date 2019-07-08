@@ -2,7 +2,7 @@
 title: Little Things
 date: 2016-11-24T03:37:14+00:00
 layout: photopost
-categories:
+categories: ["denmark", "copenhagen", "garden", "wish", "tree", "wishtreegarden", "papirøen", "ccart", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

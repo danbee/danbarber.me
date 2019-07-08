@@ -2,7 +2,7 @@
 title: Our very own Mevans playing (far right)
 date: 2015-07-17T14:16:55+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

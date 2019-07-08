@@ -2,7 +2,7 @@
 title: Reggae Bar
 date: 2017-04-28T06:44:42+00:00
 layout: photopost
-categories:
+categories: ["เกาะลันตา", "ประเทศไทย", "thailand", "kolanta", "nightlife", "beachbar", "night", "light", "crownlanta", "crownlantaresort", "beachbar", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

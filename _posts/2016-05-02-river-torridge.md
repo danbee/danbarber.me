@@ -2,7 +2,7 @@
 title: River Torridge
 date: 2016-05-02T10:41:56+00:00
 layout: photopost
-categories:
+categories: ["river", "rivertorridge", "taddiport", "torrington", "nature", "landscape", "water", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

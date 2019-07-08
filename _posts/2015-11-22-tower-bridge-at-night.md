@@ -2,7 +2,7 @@
 title: Tower Bridge at night
 date: 2015-11-22T08:43:46+00:00
 layout: photopost
-categories:
+categories: ["towerbridge", "london", "thames", "capital", "night", "lights", "bridge", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

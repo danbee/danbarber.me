@@ -2,7 +2,7 @@
 title: Best birthday cake ever!
 date: 2011-02-11T12:42:29+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

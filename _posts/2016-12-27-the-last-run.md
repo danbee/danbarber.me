@@ -2,7 +2,7 @@
 title: The Last Run
 date: 2016-12-27T11:54:49+00:00
 layout: photopost
-categories:
+categories: ["chevrolet", "truck", "ranch", "lasballitasranch", "zapata", "old", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

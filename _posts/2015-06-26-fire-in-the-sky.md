@@ -2,7 +2,7 @@
 title: Fire in the sky
 date: 2015-06-26T15:50:34+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

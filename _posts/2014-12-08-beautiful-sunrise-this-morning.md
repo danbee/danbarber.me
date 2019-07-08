@@ -2,7 +2,7 @@
 title: Beautiful sunrise this morning
 date: 2014-12-08T23:46:09+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

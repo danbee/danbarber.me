@@ -2,7 +2,7 @@
 title: Underpass
 date: 2015-03-29T07:01:11+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

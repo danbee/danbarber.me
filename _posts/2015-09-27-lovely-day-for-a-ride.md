@@ -2,7 +2,7 @@
 title: Lovely day for a ride
 date: 2015-09-27T08:04:47+00:00
 layout: photopost
-categories:
+categories: ["canal", "lea", "leavalley", "water", "sun", "barge", "london", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

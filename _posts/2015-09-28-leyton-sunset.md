@@ -2,7 +2,7 @@
 title: Leyton sunset
 date: 2015-09-28T11:11:35+00:00
 layout: photopost
-categories:
+categories: ["leyton", "london", "sunset", "birdboxes", "colour", "redsky", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

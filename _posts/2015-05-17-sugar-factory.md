@@ -2,7 +2,7 @@
 title: Sugar factory
 date: 2015-05-17T09:43:48+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

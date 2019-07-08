@@ -2,7 +2,7 @@
 title: Canal House
 date: 2017-04-24T06:54:39+00:00
 layout: photopost
-categories:
+categories: ["กรุงเทพฯ", "ประเทศไทย", "thailand", "bangkok", "canal", "water", "khlongmon", "khlongmoncanal", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

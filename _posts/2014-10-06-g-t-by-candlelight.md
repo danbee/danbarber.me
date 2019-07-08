@@ -2,7 +2,7 @@
 title: G&T by candlelight
 date: 2014-10-06T12:02:43+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

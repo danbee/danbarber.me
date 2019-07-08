@@ -2,7 +2,7 @@
 title: Hello Bangkok!
 date: 2017-04-23T06:52:23+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

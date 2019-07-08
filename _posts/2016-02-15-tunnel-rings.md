@@ -2,7 +2,7 @@
 title: Tunnel rings
 date: 2016-02-15T05:30:17+00:00
 layout: photopost
-categories:
+categories: ["london", "tunnel", "architecture", "leyton", "running", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

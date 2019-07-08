@@ -2,7 +2,7 @@
 title: All the curves
 date: 2016-11-27T10:02:52+00:00
 layout: photopost
-categories:
+categories: ["københavn", "copenhagen", "rundetaarn", "roundtower", "architecture", "blackandwhite", "upsidedown", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

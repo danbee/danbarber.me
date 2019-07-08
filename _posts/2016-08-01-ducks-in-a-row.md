@@ -2,7 +2,7 @@
 title: Ducks in a row
 date: 2016-08-01T09:13:04+00:00
 layout: photopost
-categories:
+categories: ["texas", "boerne", "landscape", "river", "wildlife", "ducks", "birds", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

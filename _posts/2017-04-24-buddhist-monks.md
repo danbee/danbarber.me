@@ -2,7 +2,7 @@
 title: Buddhist Monks
 date: 2017-04-24T07:59:27+00:00
 layout: photopost
-categories:
+categories: ["thailand", "ประเทศไทย", "bangkok", "grandpalacebangkok", "buddhism", "monks", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

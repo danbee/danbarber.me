@@ -2,7 +2,7 @@
 title: One World Trade Center
 date: 2016-06-25T22:34:05+00:00
 layout: photopost
-categories:
+categories: ["newyork", "manhattan", "travel", "architecture", "skyline", "oneworldtradecenter", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

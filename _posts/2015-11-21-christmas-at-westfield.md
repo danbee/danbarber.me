@@ -2,7 +2,7 @@
 title: Christmas at Westfield
 date: 2015-11-21T05:55:27+00:00
 layout: photopost
-categories:
+categories: ["Christmas", "decorations", "westfield", "shopping", "pretty", "blackandwhite", "torture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

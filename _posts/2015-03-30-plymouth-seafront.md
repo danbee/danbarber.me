@@ -2,7 +2,7 @@
 title: Plymouth seafront
 date: 2015-03-30T04:17:36+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

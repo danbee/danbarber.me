@@ -2,7 +2,7 @@
 title: Ko Lanta Sunset
 date: 2017-05-01T02:36:47+00:00
 layout: photopost
-categories:
+categories: ["thailand", "🇹🇭", "kolanta", "ประเทศไทย", "sunset", "beautiful", "sea", "sun", "colours", "nature", "andamansea", "clouds", "islands", "thainights", "landscape", "❤️", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Pad Thai in Thailand
 date: 2017-04-28T00:28:55+00:00
 layout: photopost
-categories:
+categories: ["thailand", "kolanta", "padthai", "food", "thaifood", "ประเทศไทย", "เกาะลันตา", "lemongrass", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

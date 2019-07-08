@@ -2,7 +2,7 @@
 title: Gujarati Rasoi
 date: 2016-09-13T05:37:52+00:00
 layout: photopost
-categories:
+categories: ["boroughmarket", "london", "food", "indian", "curry", "gujarati", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

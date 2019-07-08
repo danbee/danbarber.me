@@ -2,7 +2,7 @@
 title: My recent travel project. A magnet for every trip! Each one is a photo I took.
 date: 2018-07-19T17:24:15+00:00
 layout: photopost
-categories:
+categories: ["magnets", "travel", "photographs", "fridge", "souvenirs", "howdotheywork", "colours", "imadethese", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

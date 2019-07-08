@@ -2,7 +2,7 @@
 title: Devon sunset
 date: 2015-11-22T06:39:31+00:00
 layout: photopost
-categories:
+categories: ["Devon", "oldie", "field", "countryside", "fence", "sunshine", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

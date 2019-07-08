@@ -2,7 +2,7 @@
 title: 2nd on the ladder! ismasan I'm coming for you.
 date: 2015-01-12T06:12:33+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

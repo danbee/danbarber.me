@@ -2,7 +2,7 @@
 title: "Generations"
 date: 2014-12-22T23:46:57+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

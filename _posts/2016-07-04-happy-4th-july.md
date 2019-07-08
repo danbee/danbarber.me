@@ -2,7 +2,7 @@
 title: Happy 4th July!
 date: 2016-07-04T20:05:47+00:00
 layout: photopost
-categories:
+categories: ["NYC", "newyorkcity", "brooklynheights", "macys", "4thofjuly", "independenceday", "fireworks", "color", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

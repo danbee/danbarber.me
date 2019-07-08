@@ -2,7 +2,7 @@
 title: Sunrise at the pool #2
 date: 2012-09-15T23:52:14+00:00
 layout: photopost
-categories:
+categories: ["2", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

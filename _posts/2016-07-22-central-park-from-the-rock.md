@@ -2,7 +2,7 @@
 title: Central Park from The Rock
 date: 2016-07-22T08:47:05+00:00
 layout: photopost
-categories:
+categories: ["NYC", "centralpark", "newyork", "sunset", "manhattan", "travel", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

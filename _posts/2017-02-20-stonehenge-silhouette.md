@@ -2,7 +2,7 @@
 title: Stonehenge silhouette
 date: 2017-02-20T19:02:52+00:00
 layout: photopost
-categories:
+categories: ["stonehenge", "landmark", "wiltshire", "landscape", "travel", "roadtrip", "nationaltrust", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

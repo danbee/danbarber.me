@@ -2,7 +2,7 @@
 title: King’s Cross tunnel
 date: 2015-05-08T05:34:50+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

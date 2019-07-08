@@ -2,7 +2,7 @@
 title: Russian dolls
 date: 2011-12-04T13:21:24+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Museu Nacional d'Art de Catalunya
 date: 2015-11-29T08:42:36+00:00
 layout: photopost
-categories:
+categories: ["barcelona", "museum", "catalunya", "lights", "night", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

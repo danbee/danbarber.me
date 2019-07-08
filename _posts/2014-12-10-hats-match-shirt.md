@@ -2,7 +2,7 @@
 title: Hats match shirt!
 date: 2014-12-10T13:34:10+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: The Boeing 787 Dreamliner that's about to take me to NYC!
 date: 2016-06-11T08:12:34+00:00
 layout: photopost
-categories:
+categories: ["travel", "gatwick", "aviation", "boeing787", "newyork", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

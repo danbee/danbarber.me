@@ -2,7 +2,7 @@
 title: Fridge Tetris
 date: 2015-02-25T08:51:28+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

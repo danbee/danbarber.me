@@ -2,7 +2,7 @@
 title: Broadgate Tower
 date: 2015-07-17T10:46:53+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

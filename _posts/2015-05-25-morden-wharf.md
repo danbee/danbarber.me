@@ -2,7 +2,7 @@
 title: Morden Wharf
 date: 2015-05-25T04:37:19+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Favourite part of the train journey to Plymouth
 date: 2015-03-28T07:35:28+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

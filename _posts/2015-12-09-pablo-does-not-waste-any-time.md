@@ -2,7 +2,7 @@
 title: Pablo does not waste any time!
 date: 2015-12-09T12:09:07+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

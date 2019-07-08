@@ -2,7 +2,7 @@
 title: Dishoooooooom!
 date: 2015-05-08T01:35:30+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

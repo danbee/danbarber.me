@@ -2,7 +2,7 @@
 title: New year, new desk layout
 date: 2016-01-02T09:31:03+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

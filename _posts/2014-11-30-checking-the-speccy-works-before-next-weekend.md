@@ -2,7 +2,7 @@
 title: Checking the Speccy works before next weekend
 date: 2014-11-30T05:20:28+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Looking down the tail pipe
 date: 2015-09-26T09:14:39+00:00
 layout: photopost
-categories:
+categories: ["bloodhoundssc", "bloodhound", "car", "speed", "engineering", "rocket", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

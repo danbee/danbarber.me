@@ -2,7 +2,7 @@
 title: _sillyfilly drew me!
 date: 2015-12-18T10:20:55+00:00
 layout: photopost
-categories:
+categories: ["drawing", "pencil", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

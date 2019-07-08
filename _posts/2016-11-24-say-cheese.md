@@ -2,7 +2,7 @@
 title: Say Cheese!
 date: 2016-11-24T08:46:51+00:00
 layout: photopost
-categories:
+categories: ["højbroplads", "christmasmarket", "copenhagen", "denmark", "cheese", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

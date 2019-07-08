@@ -2,7 +2,7 @@
 title: Jenson Cleaning
 date: 2015-11-22T11:03:24+00:00
 layout: photopost
-categories:
+categories: ["cat", "blackcat", "blackandwhite", "jenson", "indoors", "wood", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Tourist Information
 date: 2017-05-04T06:32:13+00:00
 layout: photopost
-categories:
+categories: ["thailand", "kolanta", "ประเทศไทย", "เกาะลันตา", "island", "travel", "tuktuk", "tourism", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

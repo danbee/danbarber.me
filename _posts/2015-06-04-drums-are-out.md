@@ -2,7 +2,7 @@
 title: Drums are out!
 date: 2015-06-04T11:11:06+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

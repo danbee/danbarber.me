@@ -2,7 +2,7 @@
 title: Recursive Christmas trees!
 date: 2014-12-22T09:57:56+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

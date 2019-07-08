@@ -2,7 +2,7 @@
 title: It's Christmas!
 date: 2010-12-21T11:44:31+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: You could almost forget you're in a city!
 date: 2015-09-27T08:33:56+00:00
 layout: photopost
-categories:
+categories: ["London", "lea", "leavalley", "countryside", "river", "ducks", "wildlife", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

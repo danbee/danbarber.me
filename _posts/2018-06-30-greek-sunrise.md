@@ -2,7 +2,7 @@
 title: Greek Sunrise
 date: 2018-06-30T21:47:46+00:00
 layout: photopost
-categories:
+categories: ["greece", "rafina", "sunrise", "reflection", "sun", "boat", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

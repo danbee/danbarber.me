@@ -2,7 +2,7 @@
 title: Into the Clouds
 date: 2017-01-24T04:08:27+00:00
 layout: photopost
-categories:
+categories: ["architecture", "newyork", "financialdistrict", "nyc", "blackandwhite", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Delphi mountains
 date: 2015-08-15T07:22:03+00:00
 layout: photopost
-categories:
+categories: ["ireland", "mayo", "mountains", "landscape", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

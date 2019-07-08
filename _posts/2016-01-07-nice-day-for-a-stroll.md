@@ -2,7 +2,7 @@
 title: Nice day for a stroll
 date: 2016-01-07T08:22:17+00:00
 layout: photopost
-categories:
+categories: ["park", "hydepark", "london", "westminster", "sunset", "swans", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

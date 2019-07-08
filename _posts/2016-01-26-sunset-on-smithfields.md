@@ -2,7 +2,7 @@
 title: Sunset on Smithfields
 date: 2016-01-26T01:07:27+00:00
 layout: photopost
-categories:
+categories: ["sunset", "smithfields", "smithfieldsmarket", "london", "barbican", "farringdon", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

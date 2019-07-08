@@ -2,7 +2,7 @@
 title: With ma bitches
 date: 2015-11-07T13:16:50+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

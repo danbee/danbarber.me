@@ -2,7 +2,7 @@
 title: Camden lunch
 date: 2015-04-12T06:49:26+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

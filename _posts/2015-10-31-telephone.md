@@ -2,7 +2,7 @@
 title: Telephone
 date: 2015-10-31T11:21:03+00:00
 layout: photopost
-categories:
+categories: ["telephone", "payphone", "phonebooth", "blackandwhite", "olympicpark", "velodrome", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

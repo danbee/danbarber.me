@@ -2,7 +2,7 @@
 title: Just the Tip
 date: 2017-01-24T03:48:22+00:00
 layout: photopost
-categories:
+categories: ["oneworldtradecenter", "oneworldobservatory", "newyork", "nyc", "usa", "architecture", "cloud", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

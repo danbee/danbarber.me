@@ -2,7 +2,7 @@
 title: Frederick’s Church
 date: 2016-11-25T11:19:57+00:00
 layout: photopost
-categories:
+categories: ["copenhagen", "københavn", "denmark", "frederikschurch", "architecture", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

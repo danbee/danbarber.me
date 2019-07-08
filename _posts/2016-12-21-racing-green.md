@@ -2,7 +2,7 @@
 title: Racing Green
 date: 2016-12-21T13:25:44+00:00
 layout: photopost
-categories:
+categories: ["4x4", "landrover", "landroverdefender90", "offroading", "whitecliff4x4", "motorsport", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

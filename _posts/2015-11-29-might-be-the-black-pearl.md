@@ -2,7 +2,7 @@
 title: Might be the Black Pearl...
 date: 2015-11-29T00:47:50+00:00
 layout: photopost
-categories:
+categories: ["spain", "barcelona", "boat", "sailing", "yacht", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

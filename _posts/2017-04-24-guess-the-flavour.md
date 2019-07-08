@@ -2,7 +2,7 @@
 title: Guess the flavour!
 date: 2017-04-24T06:40:57+00:00
 layout: photopost
-categories:
+categories: ["juice", "flavour", "colour", "breakfast", "bangkok", "กรุงเทพฯ", "thailand", "ประเทศไทย", "peninsulahotel", "thailand🇹🇭", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

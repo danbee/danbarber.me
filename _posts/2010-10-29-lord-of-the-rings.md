@@ -2,7 +2,7 @@
 title: Lord of the Rings
 date: 2010-10-29T15:00:26+00:00
 layout: photopost
-categories:
+categories: ["photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

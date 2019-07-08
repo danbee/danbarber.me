@@ -2,7 +2,7 @@
 title: The Oculus
 date: 2017-01-21T12:55:01+00:00
 layout: photopost
-categories:
+categories: ["oneworldtrade", "theoculus", "architecture", "westfield", "newyork", "nyc", "usa", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

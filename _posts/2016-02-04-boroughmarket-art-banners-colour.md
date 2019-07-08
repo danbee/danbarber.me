@@ -2,7 +2,7 @@
 title: #boroughmarket #art #banners #colour
 date: 2016-02-04T05:09:34+00:00
 layout: photopost
-categories:
+categories: ["boroughmarket", "art", "banners", "colour", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

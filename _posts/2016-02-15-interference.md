@@ -2,7 +2,7 @@
 title: Interference
 date: 2016-02-15T12:53:12+00:00
 layout: photopost
-categories:
+categories: ["london", "leyton", "tunnel", "architecture", "running", "art", "patterns", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">

@@ -2,7 +2,7 @@
 title: Broadway Tower #1
 date: 2016-10-02T15:37:58+00:00
 layout: photopost
-categories:
+categories: ["1", "cotswolds", "broadwaytower", "blackandwhite", "moody", "averybritishroadtrip", "photos", "instagram"]
 ---
 
 <figure class="photo photo--square">
