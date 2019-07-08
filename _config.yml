@@ -16,7 +16,7 @@ description: Web designer and developer for thoughtbot in London. Drummer and al
   round musician.
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-archives
   - jekyll-assets
   - jekyll-picture-tag
@@ -35,10 +35,15 @@ exclude:
 include:
   - _redirects
 
+pagination:
+  collection: "posts"
+  enabled: true
+  per_page: 10
+  permalink: "blog/page/:num/"
+  sort_reverse: true
+
 permalink: ":year/:month/:day/:title"
 excerpt_separator: "<!-- more -->"
-paginate: 10
-paginate_path: blog/page/:num
 recent_posts: 5
 excerpt_link: Read on &rarr;
 
@@ -51,13 +56,14 @@ page_template: page.markdown
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: page
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
     day: "/:year/:month/:day/"
-    tag: "/tag/:name/"
-    category: "/category/:name/"
+    tag: "/tags/:name/"
+    category: "/categories/:name/"
 assets:
   prefix: "/assets"
   assets:

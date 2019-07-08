@@ -26,21 +26,22 @@ data["photos"].each do |photo|
 
   tags = caption.scan(/#([^\s]+)/).map(&:first)
 
-  tags.concat ["photos", "instagram"]
+  body = caption.gsub(/#([^\s]+)/, "").strip.split("\n").drop(1).join("\n")
 
   contents = <<~MD
     ---
     title: #{title}
     date: #{taken_at}
     layout: photopost
-    categories: #{tags.to_s}
+    categories: ["photos", "instagram"]
+    tags: #{tags.to_s}
     ---
 
     <figure class="photo photo--square">
       {% picture photo-square blog/instagram/#{photo_filename} alt="" %}
     </figure>
 
-    #{caption}
+    #{body}
   MD
 
   if title.nil?
