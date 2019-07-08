@@ -1,10 +1,11 @@
 ---
 title: iPhone 4 Revisited
-date: 2010-07-23 00:00:00 Z
+date: Fri, 23 Jul 2010 00:00:00 +0000
 categories:
 - apple
-- iphone-4
+- blog
 - iphone
+- iphone-4
 layout: post
 ---
 
@@ -31,3 +32,6 @@ The email application is very nice, and picked up the two accounts I have setup 
 I decided to buy one of Apple's bumper cases for the phone. All the third party ones -- not that there are many around yet -- seem to cover the whole phone, and I didn't want anything getting in the way of that gorgeous display. The case itself is great, it fits the phone well and looks like it should be there. It doesn't provide any direct protection for the glass front and back, but it provides adequate protection for the edges, which are *far* more likely to actually hit something. The glass feels so nice to touch that it would be a shame to cover it up.
 
 The original iPhone had a headphone jack that was recessed into the body, which meant that many headphones would not fit. This spawned a number of adapters from different manufacturers. It would seem that with the bumper case, Apple have replicated that same problem here, with a hole in the case that is not big enough to accept any of my existing headphones. I could have gotten an adapter, but I chose instead to try the [Apple in-ear headphones](http://www.apple.com/uk/ipod/in-ear-headphones/) as an upgrade to my trusty Sennheiser CX400's. Curiously, my wifes CX300's, which are about 2 years newer than my 400's, actually have a narrower jack plug body and as a result they actually fit! I will write more about the Apple in-ears in a future post.
+
+
+

@@ -1,14 +1,15 @@
 ---
-title: "Barrel Race"
-date: 2018-09-25 00:00:00 Z
+title: Barrel Race
+date: Tue, 25 Sep 2018 00:00:00 +0000
 layout: post
 categories:
-  - photos
+- blog
+- photos
 tags:
-  - rodeo
-  - wrangler
-  - cowgirl
-  - horses
+- rodeo
+- wrangler
+- cowgirl
+- horses
 ---
 
 <figure class="photo photo--wide">
@@ -18,3 +19,6 @@ tags:
 
 Sydni Blanchard competing in the Barrel Race at the Wrangler National Finals
 Rodeo 2017.
+
+
+

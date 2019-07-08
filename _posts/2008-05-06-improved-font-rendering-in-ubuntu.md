@@ -1,12 +1,13 @@
 ---
 title: Improved Font Rendering in Ubuntu
-date: 2008-05-06 00:00:00 Z
+date: Tue, 6 May 2008 00:00:00 +0000
 categories:
+- autohint
+- blog
+- firefox
+- fonts
 - linux
 - ubuntu
-- fonts
-- firefox
-- autohint
 layout: post
 ---
 
@@ -45,3 +46,6 @@ Put the following in ~/.fonts.conf:
   </match>
 </fontconfig>
 ```
+
+
+

@@ -1,7 +1,8 @@
 ---
 title: Google Maps
-date: 2005-02-09 00:00:00 Z
+date: Wed, 9 Feb 2005 00:00:00 +0000
 categories:
+- blog
 - web-stuff
 layout: post
 ---
@@ -13,3 +14,6 @@ Well, Google have done it again with another killer web app.  <a href="http://ma
 In short, Google Maps works entirely as you'd expect.  Only trouble is, it currently only covers the United States.  Come on Google, give us UK maps!
 
 <em>Edit: Somebody has already <a href="http://jgwebber.blogspot.com/2005/02/mapping-google.html">dissected Google Maps</a>.</em>
+
+
+

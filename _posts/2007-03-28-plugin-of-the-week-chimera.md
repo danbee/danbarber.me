@@ -1,7 +1,8 @@
 ---
 title: 'Plugin of the Week: Chimera'
-date: 2007-03-28 00:00:00 Z
+date: Wed, 28 Mar 2007 00:00:00 +0000
 categories:
+- blog
 - music
 - plugin-of-the-week
 layout: post
@@ -19,3 +20,6 @@ This synth is capable of some lovely organic, haunting sounds which are ideal fo
 
 [chimeralink]: http://www.majken.se/index.php?option=com_content&task=view&id=3&Itemid=9
 [chimeraimage]: /images/chimera.png "Majken's Chimera"
+
+
+

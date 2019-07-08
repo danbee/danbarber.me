@@ -1,7 +1,8 @@
 ---
 title: Windows Restart
-date: 2005-11-10 00:00:00 Z
+date: Thu, 10 Nov 2005 00:00:00 +0000
 categories:
+- blog
 - news
 layout: post
 ---
@@ -23,3 +24,6 @@ Relating to my <a href="http://www.pixelhum.com/archives/2005-05-26/windows-upda
 </code></pre>
 
 Download: <a href="http://www.pixelhum.com/stuff/windowsupdate/aunoreboot.reg">aunoreboot.reg</a>
+
+
+

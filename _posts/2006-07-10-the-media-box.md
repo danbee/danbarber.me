@@ -1,9 +1,10 @@
 ---
 title: The Media Box
-date: 2006-07-10 00:00:00 Z
+date: Mon, 10 Jul 2006 00:00:00 +0000
 categories:
-- news
+- blog
 - neompc
+- news
 layout: post
 ---
 
@@ -34,3 +35,6 @@ For the record, here is the error that I was getting:
 
 
 On a good note, I've spotted [NeoMPC being used in the field](http://rin3y.livejournal.com/135269.html)!
+
+
+

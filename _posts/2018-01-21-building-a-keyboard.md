@@ -1,11 +1,12 @@
 ---
-title: "Building a Keyboard"
+title: Building a Keyboard
 layout: post
 categories:
-- hardware
+- blog
 - electronics
+- hardware
 - keyboards
-date: 2018-01-21T17:38:21+00:00
+date: Sun, 21 Jan 2018 17:38:21 +0000
 ---
 
 <figure>
@@ -185,3 +186,6 @@ reprinted keycaps. My current keymap is
   {% picture full-width blog/building-a-keyboard/DSCF7145.jpg
      alt="The keyboard hooked up to my laptop." %}
 </figure>
+
+
+

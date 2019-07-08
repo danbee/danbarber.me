@@ -1,13 +1,14 @@
 ---
-title: "Brompton"
+title: Brompton
 layout: post
 categories:
-  - photos
+- blog
+- photos
 tags:
-  - bikes
-  - fun
-  - brompton
-date: 2019-03-10T17:24:23+00:00
+- bikes
+- fun
+- brompton
+date: Sun, 10 Mar 2019 17:24:23 +0000
 ---
 
 <figure class="photo photo--wide">
@@ -28,3 +29,6 @@ finish was expensive but looks stunning and is very hard wearing.
 
 It's a surprisingly fast ride, and it is very lively due to the small wheels,
 but never feels sketchy at speed. I'm loving it so far!
+
+
+

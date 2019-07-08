@@ -1,12 +1,13 @@
 ---
 title: Apple In-Ear Headphones
-date: 2010-07-26 00:00:00 Z
+date: Mon, 26 Jul 2010 00:00:00 +0000
 categories:
 - apple
 - audio
-- iphone-4
-- iphone
+- blog
 - headphones
+- iphone
+- iphone-4
 layout: post
 ---
 
@@ -33,3 +34,6 @@ The headphones come in a small triangular case which serves as a very neat littl
 The headphones come with two additional sets of different sized silicone ear pieces, in a cute little pill shaped case, so they should fit most ears pretty easily. The mediums that come fitted work perfectly for me. They also come with a spare set of filters, which can be unscrewed from the headphones themselves for cleaning. They are tiny though so you'd have to be careful not to lose them! On the whole they seem very well thought out.
 
 Overall I'm very pleased with these headphones. Definitely recommended if you like your iPod/iPhone audio accurate and detailed. They are very reasonably priced for what you get.
+
+
+

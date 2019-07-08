@@ -1,10 +1,11 @@
 ---
 title: 'Return of the Amateur Mixer: II'
-date: 2007-12-30 00:00:00 Z
+date: Sun, 30 Dec 2007 00:00:00 +0000
 categories:
-- music
+- blog
 - milar
 - mixit-2
+- music
 layout: post
 ---
 
@@ -19,3 +20,6 @@ I spent a bit more time EQ'ing the vocal so that I was happy with it and also au
 I still wasn't completely happy with the bass. It needed to be filling more of the frequency range above it to compensate for the lack of low end in the guitars. So I bussed it to another track and used a pitchshifter to bring it up an octave. I mixed this quite low in the mix, you can hear it if you listen out for it but it's not obvious. It also helps to make the bass fill out the mix on smaller speakers. There is one place in the song where I automated it to make it much louder, and that was the crash about 3 minutes into the song, which I always felt was a little bit lack in power.
 
 And with that, in goes the fork...
+
+
+

@@ -1,12 +1,13 @@
 ---
-title: "Chess and Recursion: Part 1"
+title: 'Chess and Recursion: Part 1'
 layout: post
 categories:
+- blog
 - coding
 - development
-- games
 - elixir
-date: 2018-08-10
+- games
+date: Fri, 10 Aug 2018 00:00:00 +0000
 ---
 
 <style>
@@ -291,3 +292,6 @@ at [https://github.com/danbee/chess](https://github.com/danbee/chess).
 
 *This post was also published to the [thoughtbot
 blog](https://robots.thoughtbot.com/chess-and-recursion-part-1).*
+
+
+

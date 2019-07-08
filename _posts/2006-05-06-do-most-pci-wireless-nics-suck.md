@@ -1,7 +1,8 @@
 ---
 title: Do Most PCI Wireless NICs Suck?
-date: 2006-05-06 00:00:00 Z
+date: Sat, 6 May 2006 00:00:00 +0000
 categories:
+- blog
 - geek
 layout: post
 ---
@@ -17,3 +18,6 @@ The card installed fine.  Connecting to the network was a painless experience th
 So a few hours later I came back to the machine, and everything has stopped.  The computer is locked up tighter than a Nuns arse.   Not even numlock on the keyboard works.  So I turned the machine off and went to bed, hoping it was a one off.  Not so.  The next day, after getting home from work, the machine locks up twice in ten minutes. Did a bit of research, and it turns out that this is a common problem with this card (Atheros chip based) when partnered with VIA motherboard chipsets.  So I chanced a call to Netgear technical support.  Well, that was a waste of time.  The bloke at the end of the phone was clearly not English, and simply took me through a script that had me move the card to a different PCI slot.  Anyway, it locked up again half an hour later and that card is now in a box waiting to be returned to Amazon.
 
 I've now got a Linksys card in there, which as far as I'm aware is based on a Broadcom chipset.  No problems as yet, and I'm just going to keep my fingers crossed...
+
+
+

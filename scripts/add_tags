@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+
+require "front_matter_parser"
+require "time"
+
+Dir.children("_posts/").each do |entry|
+  loader = FrontMatterParser::Loader::Yaml.new(whitelist_classes: [Time, Date, DateTime])
+  parsed = FrontMatterParser::Parser.new(:md, loader: loader).call(
+    File.read("_posts/#{entry}"),
+  )
+
+  categories = parsed.front_matter["categories"]
+
+  if categories
+    categories << "blog" unless categories.include?("blog")
+  else
+    categories = ["blog"]
+  end
+
+  date = DateTime.parse(parsed.front_matter["date"].to_s)
+
+  new_front_matter = parsed.front_matter.merge(
+    "categories" => categories.sort,
+    "date" => date.rfc822,
+  )
+
+  new_content = <<~CONTENT
+    #{YAML.dump(new_front_matter)}---
+
+    #{parsed.content}
+  CONTENT
+
+  File.open("_posts/#{entry}", "w") do |file|
+    file.write(new_content)
+  end
+end

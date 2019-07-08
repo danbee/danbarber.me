@@ -1,10 +1,11 @@
 ---
 title: 'Diary of an Amateur mixer: Part 3'
-date: 2007-08-29 00:00:00 Z
+date: Wed, 29 Aug 2007 00:00:00 +0000
 categories:
-- music
+- blog
 - milar
 - mixit-1
+- music
 layout: post
 ---
 
@@ -39,3 +40,6 @@ And finally... under the fold you'll find a list of all the plugins I've used so
 * Ambience (Magnus)
 * SIR (Christian Knufinke)
 * SupaPhaser (Bram)
+
+
+

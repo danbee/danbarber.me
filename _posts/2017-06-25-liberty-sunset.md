@@ -1,12 +1,13 @@
 ---
 title: Liberty Sunset
-date: 2017-06-25 00:00:00 Z
+date: Sun, 25 Jun 2017 00:00:00 +0000
 categories:
-  - photos
-  - sunset
-  - new york
-  - usa
-  - statue of liberty
+- blog
+- new york
+- photos
+- statue of liberty
+- sunset
+- usa
 layout: post
 ---
 
@@ -17,3 +18,6 @@ layout: post
 
 Taken from the free Staten Island ferry. It's pretty much the only reason to
 take it (unless you live on Staten Island).
+
+
+

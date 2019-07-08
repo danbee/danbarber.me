@@ -1,7 +1,9 @@
 ---
 title: ZX Spectrum +2
-date: 2014-04-29 07:28:00 Z
+date: Tue, 29 Apr 2014 07:28:00 +0000
 layout: post
+categories:
+- blog
 ---
 
 <figure>
@@ -61,3 +63,6 @@ Long live the ZX Spectrum!
 *[MGT]: Miles Gordon Technology
 *[OCP]: Oxford Computer Publishing
 *[MIDI]: Musical Instrument Digital Interface
+
+
+

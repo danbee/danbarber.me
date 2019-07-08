@@ -1,7 +1,8 @@
 ---
 title: iDon't want an iPod
-date: 2004-08-16 00:00:00 Z
+date: Mon, 16 Aug 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -16,3 +17,6 @@ layout: post
 <li><h4>It doesn't do gapless.</h4><p>Bit of a show-stopper for me this one.  I listen to quite a lot of prog stuff, Dream Theater, Marillion etc... so a player that inserts a gap between every track would just annoy the hell out of me.</p></li>
 
 <li><h4>It's pretty expensive.</h4><p>This one isn't such a big deal any more, the iPod isn't really that much more expensive than most others, although it is still one of the highest price units on the market.  The iPod Mini in particular is a bit pricey.  Why spend
+
+
+

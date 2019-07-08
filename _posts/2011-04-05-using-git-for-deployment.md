@@ -1,10 +1,11 @@
 ---
 title: Using Git for Deployment
-date: 2011-04-05 00:00:00 Z
+date: Tue, 5 Apr 2011 00:00:00 +0000
 categories:
-- web
+- blog
 - deployment
 - git
+- web
 layout: post
 ---
 
@@ -192,3 +193,6 @@ Thanks!
 Joe - I hadn’t seen that article, but on first glance it looks very similar to my approach. The main difference is that it does a checkout to the web directory rather than a pull. The advantage of having the application root a git repository is that it makes it possible to make code changes directly on the server and commit them to the repository, not that I’d recommend this!
 
 JustSomeNoob - That’s a good question that I really should have covered. Git does not allow you to push directly to a working repository, hence the need for the intermediate bare repo. It would be worth reading Joe Maller’s article (linked at the top of the post) as he explains things a bit better than I do!
+
+
+

@@ -1,7 +1,8 @@
 ---
 title: Computer for sale
-date: 2004-07-16 00:00:00 Z
+date: Fri, 16 Jul 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -17,3 +18,6 @@ Pioneer DVD Drive
 Microsoft Keyboard and Mouse
 
 I'm looking for about
+
+
+

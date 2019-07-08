@@ -1,10 +1,11 @@
 ---
 title: Optimus Keyboard
-date: 2005-07-14 00:00:00 Z
+date: Thu, 14 Jul 2005 00:00:00 +0000
 categories:
-- news
-- geek
+- blog
 - gadgets
+- geek
+- news
 layout: post
 ---
 
@@ -15,3 +16,6 @@ The <a href="http://www.artlebedev.com/portfolio/optimus/">Optimus Keyboard</a> 
 I think it's a fantastic idea and would probably buy one in an instant.
 
 (from <a href="http://www.engadget.com/entry/1234000740050460/">Engadget</a>)
+
+
+

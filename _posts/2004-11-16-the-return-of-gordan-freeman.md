@@ -1,7 +1,8 @@
 ---
 title: The return of Gordan Freeman...
-date: 2004-11-16 00:00:00 Z
+date: Tue, 16 Nov 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -11,3 +12,6 @@ layout: post
 It's Half-Life 2 day!  Woooo!  And as a testament to how damn good it is, I can say the I've been playing it for about 4.5 hours already.
 
 <i>Edit: Well, today I ended up playing for 6 hours, which is far longer than I usually play games for.  I might submit a mini review later...</i>
+
+
+

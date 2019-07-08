@@ -1,10 +1,11 @@
 ---
 title: 'Diary of an Amateur mixer: Part 1'
-date: 2007-08-22 00:00:00 Z
+date: Wed, 22 Aug 2007 00:00:00 +0000
 categories:
-- music
+- blog
 - milar
 - mixit-1
+- music
 layout: post
 ---
 
@@ -23,3 +24,6 @@ data="http://www.pixelhum.com/xspf_player_slim.swf?song_url=http://www.pixelhum.
 <param name="movie" 
 value="http://www.pixelhum.com/xspf_player_slim.swf?song_url=http://www.pixelhum.com/downloads/music/milar/SLB_2007-08-22.mp3&song_title=Simple Little Bird" />
 </object>
+
+
+

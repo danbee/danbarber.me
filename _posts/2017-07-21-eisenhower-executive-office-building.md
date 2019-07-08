@@ -1,14 +1,15 @@
 ---
 title: Eisenhower Executive Office Building
-date: 2017-07-21 00:00:00 Z
+date: Fri, 21 Jul 2017 00:00:00 +0000
 layout: post
 categories:
-  - photos
-  - black & white
-  - usa
-  - washington dc
-  - architecture
-  - eisenhower
+- architecture
+- black & white
+- blog
+- eisenhower
+- photos
+- usa
+- washington dc
 ---
 
 <figure class="photo photo--square">
@@ -19,3 +20,6 @@ categories:
 We were in DC this weekend and I wanted to see the White House. It's a rather
 underwhelming building but this much more attractive building was right next
 door.
+
+
+

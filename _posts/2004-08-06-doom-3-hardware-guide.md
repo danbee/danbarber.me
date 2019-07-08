@@ -1,7 +1,8 @@
 ---
 title: Doom 3 Hardware guide
-date: 2004-08-06 00:00:00 Z
+date: Fri, 6 Aug 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -13,3 +14,6 @@ layout: post
 <blockquote><p>What we noticed immediately is that DOOM 3 looks incredible even at 640x480! And as we increased the resolution, the game began to look more and more like a pre-rendered movie. Visually, DOOM 3 is unlike any other game we have ever seen on the PC. We initially began playing DOOM 3 on the minimum spec system, which consisted of a GeForce4 MX-440 64MB video card at the Low Quality setting and 640x480 resolution. We were literally drawn into the game, and became fully immersed in it at these settings. As we used increasingly faster video cards and were able to raise the resolution, we discovered something interesting that we had never seen before in a game: antialiasing was not necessary.</p></blockquote>
 
 <p></p>
+
+
+

@@ -1,14 +1,15 @@
 ---
-title: "Four Corners"
+title: Four Corners
 layout: post
 categories:
-  - photos
-  - sculpture
-  - storm king
-  - nature
-  - art center
-  - hudson valley
-date: 2017-08-29T18:04:53+00:00
+- art center
+- blog
+- hudson valley
+- nature
+- photos
+- sculpture
+- storm king
+date: Tue, 29 Aug 2017 18:04:53 +0000
 ---
 
 <figure class="photo photo--wide">
@@ -19,3 +20,6 @@ date: 2017-08-29T18:04:53+00:00
 We found this sculpture by Forrest Myers somewhat off the beaten path at [Storm
 King](http://stormking.org), and it was by far my favourite. The sculpture is made of four different
 materials; bronze, stainless steel, weathering steel and concrete.
+
+
+

@@ -1,10 +1,11 @@
 ---
 title: 'Diary of an Amateur mixer: Part 2'
-date: 2007-08-24 00:00:00 Z
+date: Fri, 24 Aug 2007 00:00:00 +0000
 categories:
-- music
+- blog
 - milar
 - mixit-1
+- music
 layout: post
 ---
 
@@ -27,3 +28,6 @@ For part 2 of my diary I thought it would be a good idea to give a run down of m
 I'm using a custom built PC (one of my many talents!) with an AMD Athlon 64 X2 dual core CPU and 2gb RAM. This gives me plenty of headroom for plugins, which is nice :).
 
 That outputs to an M-Audio FastTrack Pro USB interface which is connected to Mackie HR624 monitors via balanced connections. I also have a pair of Sennheiser HD280 headphones which, apart from monitoring while recording, I also use to double check the low end (no treatment in my room yet, so I can't really trust the Mackies) and headphone compatibility. My DAW of choice is [Reaper](http://www.reaperaudio.com/).
+
+
+

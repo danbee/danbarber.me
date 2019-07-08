@@ -1,7 +1,8 @@
 ---
 title: Internet Explorer and PNG's
-date: 2004-06-03 00:00:00 Z
+date: Thu, 3 Jun 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -21,3 +22,6 @@ It's all a bit technical but, rest assured, the command below will correct your 
 <pre><code><b>#</b> pngcrush -srgb 1 -rem gama -rem chrm [infile].png [outfile].png</code></pre>
 
 At some point in the near future i'll write a bash script or something to automate fixing directories of files as it's a bit of a pain to do one file at a time.
+
+
+

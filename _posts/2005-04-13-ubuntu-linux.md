@@ -1,7 +1,8 @@
 ---
 title: Ubuntu Linux
-date: 2005-04-13 00:00:00 Z
+date: Wed, 13 Apr 2005 00:00:00 +0000
 categories:
+- blog
 - geek
 layout: post
 ---
@@ -13,3 +14,6 @@ I've recently discovered and have been playing around with <a href="http://www.u
 First impressions are extremely favourable.  In fact, I replaced an old Debian install on a server in the office with an install of Ubuntu!
 
 If I ever convert to Linux on the desktop, this will probably be the distro I go for.
+
+
+

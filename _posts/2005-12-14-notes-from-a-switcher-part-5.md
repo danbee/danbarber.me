@@ -1,9 +1,10 @@
 ---
 title: Notes from a Switcher, part 5
-date: 2005-12-14 00:00:00 Z
+date: Wed, 14 Dec 2005 00:00:00 +0000
 categories:
-- geek
 - apple
+- blog
+- geek
 layout: post
 ---
 
@@ -18,3 +19,6 @@ iPhoto is one such application that appears to have features missing, mainly the
 iTunes lacks the ability to play most of my music by default--although the XiphQT component is coming along nicely (missing some metadata stuff at the moment)--and doesn't do gapless playback, which means that mix albums and any other albums that have tracks running into each other end up with little gaps in the music.  Quite annoying.  There also doesn't seem to be any way of sorting albums in the browser by any other criteria than album name.  I'd prefer to sort my albums chronologically.
 
 On the good news front, I've found a solution to the mouse acceleration problem in the form of <a href="http://plentycom.jp/en/steermouse/">SteerMouse</a>.  This handy little replacement mouse driver allows me to tune the acceleration or even turn it off, which is what I did.  The bad news is that it costs $20, but I'll be paying that $20 without too much complaint because I can now use my Bluetooth mouse properly.  Do you think I could send the bill on to Apple?
+
+
+

@@ -1,7 +1,8 @@
 ---
 title: Style Sheet Switcher
-date: 2004-05-29 00:00:00 Z
+date: Sat, 29 May 2004 00:00:00 +0000
 categories:
+- blog
 - clockrocket
 layout: post
 ---
@@ -77,3 +78,6 @@ We can do this a couple of ways.  I chose to use a form with a combo box and sub
 &lt;a href=&quot;index.php?style=different&quot;&gt;Different Stylesheet&lt;/a&gt;&lt;br /&gt;</code></pre>
 
 And that should be that!  Comments are appreciated.
+
+
+
