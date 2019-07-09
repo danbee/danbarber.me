@@ -39,7 +39,7 @@ pagination:
   collection: "posts"
   enabled: true
   per_page: 10
-  permalink: "blog/page/:num/"
+  permalink: "page/:num/"
   sort_reverse: true
 
 permalink: ":year/:month/:day/:title"
