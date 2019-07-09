@@ -4,6 +4,7 @@ date: 2015-05-04T02:07:55+00:00
 layout: photopost
 categories: ["photos", "instagram"]
 tags: []
+image: "blog/instagram/6b491ca4329184569f504c2fd1d79486.jpg"
 ---
 
 <figure class="photo photo--square">
