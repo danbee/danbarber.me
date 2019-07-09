@@ -26,8 +26,8 @@ layout:
     },
     {% endif %}
     "items": [
-      {% assign posts = site.posts | where_exp: "post", "post.draft != true" %}
-      {% for post in site.categories.photos limit: 20 %}
+      {% assign posts = site.posts | where_exp: "post", "post.draft != true" | where_exp: "post", "post.categories contains 'photos'" %}
+      {% for post in posts limit: 20 %}
         {
             "id": {{ post.id | absolute_url | jsonify }},
             "url": {{ post.url | absolute_url | jsonify }},
