@@ -1,7 +1,7 @@
 $white: #fff;
 
 $background-color: $white;
-$background-color-dark: #222;
+$background-color-dark: #282828;
 
 $text-color: #333;
 $text-color-dark: #ddd;
@@ -9,7 +9,8 @@ $text-color-light: lighten($text-color, 45%);
 $heading-color: #333;
 $heading-color-dark: #ddd;
 $meta-text-color: lighten($text-color, 45%);
-$header-color: #518F00;
+$header-color: #518f00;
+$header-color-dark: adjust-color($header-color, $lightness: -10%, $saturation: -10%);
 
 $border-color: #ccc;
 $border-color-dark: #666;
