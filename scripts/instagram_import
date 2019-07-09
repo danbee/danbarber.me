@@ -35,6 +35,7 @@ data["photos"].each do |photo|
     layout: photopost
     categories: ["photos", "instagram"]
     tags: #{tags.to_s}
+    image: "blog/instagram/#{photo_filename}"
     ---
 
     <figure class="photo photo--square">
