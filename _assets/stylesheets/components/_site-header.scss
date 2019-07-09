@@ -5,7 +5,7 @@ $_header-link-focus-text-shadow: 0 0 5px rgba(255, 255, 255, 0.6);
   padding: 1rem 0;
 
   @media (prefers-color-scheme: dark) {
-    background-color: darken($header-color, 5%);
+    background-color: $header-color-dark;
   }
 }
 
