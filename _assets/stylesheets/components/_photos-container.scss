@@ -2,8 +2,8 @@
   @include container;
 
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
   grid-gap: 0.65rem 1rem;
+  grid-template-columns: repeat(2, 1fr);
 
   @media only screen and (min-width: 640px) {
     grid-template-columns: repeat(3, 1fr);
