@@ -3,6 +3,7 @@ layout: default
 pagination:
   enabled: true
   category: photos
+  per_page: 24
 ---
 
 {% assign index = true %}
@@ -10,13 +11,21 @@ pagination:
 {% include header.html %}
 
 <div id="content">
-  {% for post in paginator.posts %}
-    {% assign content = post.content %}
+  <header class="container photos__header">
+    <h1 class="photos__heading">Photos</h1>
+  </header>
 
-    <article class="article">
-      {% include index_article.html %}
+  <div class="photos-container">
+  {% for post in paginator.posts %}
+    <article class="photo-post">
+      {% if post.image %}
+        <a href="{{ post.url }}">
+          {% picture photo-thumb {{ post.image }} alt="" title="{{ post.title }}" %}
+        </a>
+      {% endif %}
     </article>
   {% endfor %}
+  </div>
 
   <div class="container pagination">
     {% if paginator.next_page %}

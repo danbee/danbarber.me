@@ -10,6 +10,7 @@ categories:
 - sculpture
 - storm king
 date: Tue, 29 Aug 2017 18:04:53 +0000
+image: "blog/four-corners/IMG_6164.jpg"
 ---
 
 <figure class="photo photo--wide">

@@ -10,6 +10,7 @@ tags:
 - wrangler
 - cowgirl
 - horses
+image: "blog/barrel-race/DSCF8015.jpg"
 ---
 
 <figure class="photo photo--wide">
