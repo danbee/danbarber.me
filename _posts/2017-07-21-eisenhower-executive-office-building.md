@@ -10,6 +10,7 @@ categories:
 - photos
 - usa
 - washington dc
+image: "blog/eisenhower-executive-office-building/DSCF4369.jpg"
 ---
 
 <figure class="photo photo--square">

@@ -83,6 +83,16 @@ picture:
   output: assets
   markup: picture
   presets:
+    photo-thumb:
+      ppi: [1, 2]
+      attr:
+        class: photo-thumb
+        itemprop: image
+      source_default:
+        width: 300
+        height: 300
+
+
     full-width:
       ppi: [1, 2]
       attr:

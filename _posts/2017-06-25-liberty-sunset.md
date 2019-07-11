@@ -9,6 +9,7 @@ categories:
 - sunset
 - usa
 layout: post
+image: "blog/liberty-sunset/DSCF3723.jpg"
 ---
 
 <figure class="photo photo--wide">
