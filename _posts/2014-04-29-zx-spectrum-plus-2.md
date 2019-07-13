@@ -4,6 +4,7 @@ date: Tue, 29 Apr 2014 07:28:00 +0000
 layout: post
 categories:
 - blog
+image: "blog/zx-spectrum-plus-2/5364873704_0fe55f7e3e_o.jpg"
 ---
 
 <figure>

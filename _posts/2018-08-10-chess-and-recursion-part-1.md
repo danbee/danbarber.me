@@ -8,6 +8,7 @@ categories:
 - elixir
 - games
 date: Fri, 10 Aug 2018 00:00:00 +0000
+image: "blog/chess-and-recursion-part-1/escher-chess.jpg"
 ---
 
 <style>

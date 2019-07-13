@@ -7,6 +7,7 @@ categories:
 - hardware
 - keyboards
 date: Sun, 21 Jan 2018 17:38:21 +0000
+image: "blog/building-a-keyboard/DSCF7141.jpg"
 ---
 
 <figure>

@@ -7,6 +7,7 @@ categories:
 - iphone
 - iphone-4
 layout: post
+image: "blog/iphone-4-revisited/IMG_0052.jpg"
 ---
 
 <figure>

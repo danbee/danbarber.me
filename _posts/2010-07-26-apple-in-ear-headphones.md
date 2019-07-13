@@ -9,6 +9,7 @@ categories:
 - iphone
 - iphone-4
 layout: post
+image: "blog/apple-in-ear-headphones/IMG_0053.jpg"
 ---
 
 <figure>

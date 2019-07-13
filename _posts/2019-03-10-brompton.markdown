@@ -8,6 +8,7 @@ tags:
 - fun
 - brompton
 date: Sun, 10 Mar 2019 17:24:23 +0000
+image: "blog/brompton/IMG_0927.jpg"
 ---
 
 <figure class="photo photo--wide">

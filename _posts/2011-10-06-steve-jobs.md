@@ -7,6 +7,7 @@ categories:
 - steve-jobs
 - visionaries
 layout: post
+image: "blog/steve-jobs/steve-jobs.jpg"
 ---
 
 <figure>
