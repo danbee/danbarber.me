@@ -10,6 +10,8 @@ collections:
     title: Uploads
     output: true
 
+title_photos: Dan Barber – Photos
+
 author: Dan Barber
 markdown: Kramdown
 description: Web designer and developer for thoughtbot in London. Drummer and all
@@ -91,7 +93,6 @@ picture:
       source_default:
         width: 300
         height: 300
-
 
     full-width:
       ppi: [1, 2]

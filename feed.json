@@ -59,7 +59,7 @@ layout:
               , "url": {{ post_author_uri | jsonify }}
               {% endif %}
             },
-            "tags": {{ post.tags | jsonify }}
+            "tags": {{ post.tags | uniq | jsonify }}
         }{% unless forloop.last == true %},{% endunless %}
       {% endfor %}
     ]
