@@ -13,13 +13,14 @@ date: Tue, 23 Jul 2019
 
 [Carter Sande](https://carter.sande.duodecima.technology/javascript-page-navigation/):
 
-> The <a> tag is one of the most important building blocks of the Internet. It
-> lets you create a hyperlink: a piece of text, usually colored blue, that you
-> can use to go to a new page. When you click on a hyperlink, your web browser
-> downloads the new page from the server and displays it on the screen. Most web
-> browsers also store the pages you previously visited so you can quickly go
-> back to them. The best part is, the <a> tag gives you all of that behavior for
-> free! Just tell the browser where you want to go, and it handles the rest.
+> The &lt;a&gt; tag is one of the most important building blocks of the
+> Internet. It lets you create a hyperlink: a piece of text, usually colored
+> blue, that you can use to go to a new page. When you click on a hyperlink,
+> your web browser downloads the new page from the server and displays it on the
+> screen. Most web browsers also store the pages you previously visited so you
+> can quickly go back to them. The best part is, the &lt;a&gt; tag gives you all
+> of that behavior for free! Just tell the browser where you want to go, and it
+> handles the rest.
 >
 > Lately, though, that hasn’t been enough for website developers. The new fad is
 > “client-side navigation”, where instead of relying on the browser to load new
