@@ -1,3 +1,5 @@
+require "mini_magick"
+
 module Jekyll
   module MiniMagick
     def magick(image_path, options)

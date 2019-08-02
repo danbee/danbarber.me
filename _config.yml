@@ -37,6 +37,12 @@ exclude:
 include:
   - _redirects
 
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      title: ""
+
 pagination:
   collection: "posts"
   enabled: true

@@ -1,0 +1,68 @@
+#!/usr/bin/env ruby
+
+require "date"
+require "fileutils"
+require "json"
+require "pathname"
+require "nokogiri"
+
+MICROBLOG_JSON_FILE = "_import/microblog/feed.json"
+
+json = File.read(MICROBLOG_JSON_FILE)
+
+data = JSON.parse(json)
+
+data["items"].each do |item|
+  images = []
+
+  categories = ["microblog"]
+
+  published_at = DateTime.parse(item["date_published"])
+
+  body = item["content_text"]
+
+  title = item["title"] || body.split(/(\n|\.)/).first
+
+  parsed = Nokogiri::HTML.parse(body)
+  parsed.css("img").each do |tag|
+    images << tag[:src]
+    photo_filename = tag[:src].split("/").last
+    FileUtils.cp(
+      "_import/microblog/#{tag[:src]}",
+      "_pictures/blog/microblog/#{photo_filename}",
+    )
+
+    body = body.gsub(/<a.+img.+src="#{tag[:src]}".+\/a>/, <<~PICTURE)
+      <figure class="photo">
+        {% picture photo-square blog/microblog/#{photo_filename} alt="" %}
+      </figure>
+    PICTURE
+
+    categories << "photos" unless categories.include?("photos")
+  end
+
+  categories << "blog" unless categories.include?("photos")
+
+  contents = <<~MD
+    ---
+    title: #{title}
+    date: #{published_at}
+    layout: micropost
+    categories: #{categories}
+    #{images.first ? "image: \"blog/microblog/#{images.first&.split("/")&.last}\"\n" : ""}---
+
+    #{body}
+  MD
+
+  if title.nil?
+    slug = "untitled"
+  else
+    slug = title.downcase.gsub(/[^a-z0-9]+/, " ").strip.gsub(" ", "-")
+  end
+
+  post_filename = "_posts/#{published_at.strftime('%Y-%m-%d')}-#{slug}.md"
+
+  File.open(post_filename, 'w') do |file|
+    file.write(contents)
+  end
+end
