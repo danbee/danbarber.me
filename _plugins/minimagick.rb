@@ -1,4 +1,5 @@
 require "mini_magick"
+require "fileutils"
 
 module Jekyll
   module MiniMagick
@@ -20,6 +21,8 @@ module Jekyll
         return write_path
       end
 
+      FileUtils.mkpath("_site/#{dest_path}")
+
       image = ::MiniMagick::Image.open("_pictures/#{image_path}")
 
       image.combine_options do |i|
@@ -28,8 +31,6 @@ module Jekyll
         end
         i.strip
       end
-
-      puts write_path
 
       image.write "_site/#{write_path}"
 
