@@ -2,7 +2,7 @@ require "mini_magick"
 require "fileutils"
 
 module Jekyll
-  module MiniMagick
+  module Magick
     def magick(image_path, options)
       filename, ext = image_path.split("/").last.split(".")
 
@@ -39,4 +39,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::MiniMagick)
+Liquid::Template.register_filter(Jekyll::Magick)
