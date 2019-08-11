@@ -90,7 +90,7 @@ GEM
     mini_magick (4.8.0)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
-    nokogiri (1.10.3)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     octopress (3.0.12.pre.1)
       jekyll (>= 2.0)
