@@ -18,7 +18,7 @@ in the streaming music compo.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Airport+Lounge.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 ### Recorded
 
@@ -34,7 +34,7 @@ recorded on my iPhone using a Shure MV88 mic and mixed in Reaper.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Home.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Times Like These
 
@@ -48,7 +48,7 @@ and mastered in Reaper.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Times Like These.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 ### Drums
 
@@ -65,7 +65,7 @@ project. I played drums and bass on this track and also mastered it.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Colours.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Tired of Your Love
 
@@ -80,7 +80,7 @@ Tucker, the brother of one of my fellow students.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Tired Of Your Love.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Genie in a Bottle
 
@@ -94,7 +94,7 @@ drums and mixed/mastered the version here.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/genie_2007-07-01_mastered.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Substitute
 
@@ -108,7 +108,7 @@ mixed/mastered this track.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/substitute_2007-06-23.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Is Vic There?
 
@@ -121,7 +121,7 @@ Another track from the punk band demo.
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/isvicthere_cdready.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 ### Invisible Opera Company of Tibet
 
@@ -140,7 +140,7 @@ purchased on CD via
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Templesong.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
 
 #### Spirit of Joy
 
@@ -151,4 +151,4 @@ purchased on CD via
   <source
     src="https://f001.backblazeb2.com/file/danbarber-music/Spirit of Joy.m4a"
     type="audio/mp4">
-</audio> </p>
+</audio></p>
