@@ -29,6 +29,7 @@
 
 // 5. Objects – class-based selectors which define undecorated design patterns,
 //    for example media object known from OOCSS
+@import "objects/audio";
 @import "objects/container";
 @import "objects/highlight";
 @import "objects/video-container";
@@ -45,6 +46,7 @@
 @import "components/photos-container";
 @import "components/photos";
 @import "components/photo-thumb";
+@import "components/music-artwork";
 
 // 7. Utilities – utilities and helper classes with ability to override
 //    anything which goes before in the triangle, eg. hide helper class
